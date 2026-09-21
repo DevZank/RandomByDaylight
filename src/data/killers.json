@@ -6027,6 +6027,153 @@
     ]
   },
   {
+    "id": "first",
+    "name": "The First",
+    "image": "https://deadbydaylight.wiki.gg/images/K42_TheFirst_Portrait.png?e12bf6",
+    "addons": [
+      {
+        "id": "first_addon_bead_maze",
+        "name": "Bead Maze",
+        "rarity": "common",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_BeadMaze.png?c45f46",
+        "name_pt": "Labirinto de Contas"
+      },
+      {
+        "id": "first_addon_mid_century_radio",
+        "name": "Mid-Century Radio",
+        "rarity": "common",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_Mid-CenturyRadio.png?bf7518",
+        "name_pt": "Rádio Mid-Century"
+      },
+      {
+        "id": "first_addon_orderly_id",
+        "name": "Orderly ID",
+        "rarity": "common",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_OrderlyID.png?c87101",
+        "name_pt": "Identidade de Enfermeiro"
+      },
+      {
+        "id": "first_addon_stained_glass_mural",
+        "name": "Stained Glass Mural",
+        "rarity": "common",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_StainedGlassMural.png?b81c15",
+        "name_pt": "Mural de Vitral"
+      },
+      {
+        "id": "first_addon_bloody_roller_skate",
+        "name": "Bloody Roller Skate",
+        "rarity": "uncommon",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_BloodyRollerSkate.png?d4979d",
+        "name_pt": "Patins Sangrentos"
+      },
+      {
+        "id": "first_addon_clock_hands",
+        "name": "Clock Hands",
+        "rarity": "uncommon",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_ClockHands.png?6306f3",
+        "name_pt": "Ponteiros de Relógio"
+      },
+      {
+        "id": "first_addon_gutted_supercom",
+        "name": "Gutted Supercom",
+        "rarity": "uncommon",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_GuttedSupercom.png?bedd7e",
+        "name_pt": "Supercom Destruído"
+      },
+      {
+        "id": "first_addon_shattered_wrist_rocket",
+        "name": "Shattered Wrist Rocket",
+        "rarity": "uncommon",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_ShatteredWristRocket.png?b00406",
+        "name_pt": "Atiradeira Estilhaçada"
+      },
+      {
+        "id": "first_addon_smashed_cassette_deck",
+        "name": "Smashed Cassette Deck",
+        "rarity": "uncommon",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_SmashedCassetteDeck.png?a1beea",
+        "name_pt": "Toca-fitas Esmagado"
+      },
+      {
+        "id": "first_addon_electrode_cap",
+        "name": "Electrode Cap",
+        "rarity": "rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_ElectrodeCap.png?da14f1",
+        "name_pt": "Touca de Eletrodos"
+      },
+      {
+        "id": "first_addon_forged_death_certificate",
+        "name": "Forged Death Certificate",
+        "rarity": "rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_ForgedDeathCertificate.png?c2b2f7",
+        "name_pt": "Certidão de Óbito Falsificada"
+      },
+      {
+        "id": "first_addon_neck_tendril",
+        "name": "Neck Tendril",
+        "rarity": "rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_NeckTendril.png?741a59",
+        "name_pt": "Tentáculo de Pescoço"
+      },
+      {
+        "id": "first_addon_pizza_goggles",
+        "name": "Pizza Goggles",
+        "rarity": "rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_PizzaGoggles.png?e18b0b",
+        "name_pt": "Óculos de Pizza"
+      },
+      {
+        "id": "first_addon_victors_razor_blade",
+        "name": "Victor's Razor Blade",
+        "rarity": "rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_VictorsRazorBlade.png?60dd74",
+        "name_pt": "Lâmina de Barbear de Victor"
+      },
+      {
+        "id": "first_addon_black_widow_spider",
+        "name": "Black Widow Spider",
+        "rarity": "very_rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_BlackWidowSpider.png?e895ef",
+        "name_pt": "Aranha Viúva-Negra"
+      },
+      {
+        "id": "first_addon_broken_skateboard",
+        "name": "Broken Skateboard",
+        "rarity": "very_rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_BrokenSkateboard.png?aab300",
+        "name_pt": "Skate Quebrado"
+      },
+      {
+        "id": "first_addon_electroshock_collar",
+        "name": "Electroshock Collar",
+        "rarity": "very_rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_ElectroshockCollar.png?305449",
+        "name_pt": "Coleira de Eletrochoque"
+      },
+      {
+        "id": "first_addon_rabbit_remains",
+        "name": "Rabbit Remains",
+        "rarity": "very_rare",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_RabbitRemains.png?a71531",
+        "name_pt": "Restos de Coelho"
+      },
+      {
+        "id": "first_addon_chess_piece",
+        "name": "Chess Piece",
+        "rarity": "irisdecent",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_ChessPiece.png?da83b2",
+        "name_pt": "Peça de Xadrez"
+      },
+      {
+        "id": "first_addon_iridescent_soteria_chip",
+        "name": "Iridescent Soteria Chip",
+        "rarity": "irisdecent",
+        "image": "https://deadbydaylight.wiki.gg/images/IconAddon_IridescentSoteriaChip.png?127c91",
+        "name_pt": "Chip Soteria Iridescente"
+      }
+    ]
+  },
+  {
     "id": "slasher",
     "name": "The Slasher",
     "image": "https://deadbydaylight.wiki.gg/images/K43_TheSlasher_Portrait.png?2fe4c9",
