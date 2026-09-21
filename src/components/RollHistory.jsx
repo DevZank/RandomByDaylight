@@ -10,7 +10,7 @@ function timeAgo(ts) {
   return               `${Math.floor(diff / 86400)}d atrás`;
 }
 
-export default function RollHistory({ history, onClear }) {
+export default function RollHistory({ history, onClear, onSelectEntry }) {
   const MAX_VISIBLE = 5;
   const hasHistory = history && history.length > 0;
   const visible = history ? history.slice(0, MAX_VISIBLE) : [];
@@ -48,8 +48,10 @@ export default function RollHistory({ history, onClear }) {
             return (
               <li
                 key={entry.id}
-                className={`roll-history__item roll-history__item--${entry.role}`}
-                style={{ animationDelay: `${i * 0.04}s` }}
+                className={`roll-history__item roll-history__item--${entry.role} roll-history__item--clickable`}
+                style={{ animationDelay: `${i * 0.04}s`, cursor: 'pointer' }}
+                onClick={() => onSelectEntry && onSelectEntry(entry)}
+                title="Clique para restaurar este resultado"
               >
                 {/* Avatar (Square icon box with bgKiller / bgSurvivor, no rounding) */}
                 <div

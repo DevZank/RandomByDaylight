@@ -72,6 +72,12 @@ function AppInner() {
     }
   }, [activeRole, handleRollKiller, handleRollSurvivor]);
 
+  const handleRestoreHistoryItem = useCallback((entry) => {
+    setResult(entry);
+    setActiveRole(entry.role);
+    setHasInteracted(true);
+  }, []);
+
   // Perform initial default roll on mount if no result exists yet
   useEffect(() => {
     if (!result && activeKillers.length > 0 && activeKillerPerks.length >= 4) {
@@ -294,6 +300,7 @@ function AppInner() {
           {/* ── Center Column: Result Display Card & Re-roll ── */}
           <section className={`dashboard-col dashboard-col--center ${!hasInteracted ? 'hide-result-mobile' : ''}`}>
               <ResultCard
+                key={result.id}
                 result={result}
                 onReroll={handleReroll}
                 language={language}
@@ -301,7 +308,7 @@ function AppInner() {
 
           {/* ── Right Column: History Sidebar ── */}
           <section className="dashboard-col dashboard-col--right">
-            <RollHistory history={history} onClear={clearHistory} />
+            <RollHistory history={history} onClear={clearHistory} onSelectEntry={handleRestoreHistoryItem} />
           </section>
 
         </main>
