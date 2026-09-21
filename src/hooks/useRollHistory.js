@@ -28,16 +28,8 @@ export function useRollHistory() {
 
   const addEntry = useCallback((result) => {
     const entry = {
-      id:        `${Date.now()}-${Math.random().toString(36).slice(2, 7)}`,
-      role:      result.role,
-      character: {
-        name:  result.character.name,
-        image: result.character.image ?? null,
-      },
-      perks: (result.perks ?? []).slice(0, 4).map(p => ({
-        name:  p.name,
-        image: p.image ?? null,
-      })),
+      ...result,
+      id: `${Date.now()}-${Math.random().toString(36).slice(2, 7)}`,
       timestamp: Date.now(),
     };
 

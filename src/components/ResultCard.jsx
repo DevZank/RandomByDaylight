@@ -63,26 +63,30 @@ export default function ResultCard({ result, onReroll, compact = false, index = 
       )}
 
       {/* Add-ons */}
-      <section className="result-card__section">
-        <h3 className="result-card__section-title">
-          Add-ons
-        </h3>
+      {addons && addons.length > 0 && (
+        <section className="result-card__section">
+          <h3 className="result-card__section-title">
+            Add-ons
+          </h3>
           <div className="result-card__grid">
             {addons.map((addon, i) => (
               <SmallCard key={i} item={addon} language={language} />
             ))}
           </div>
-      </section>
+        </section>
+      )}
 
       {/* Perks */}
-      <section className="result-card__section">
-        <h3 className="result-card__section-title">Perks</h3>
+      {perks && perks.length > 0 && (
+        <section className="result-card__section">
+          <h3 className="result-card__section-title">Perks</h3>
           <div className="result-card__grid">
             {perks.map((perk, i) => (
               <SmallCard key={i} item={perk} isPerk language={language} />
             ))}
           </div>
-      </section>
+        </section>
+      )}
 
       {/* Reroll: in compact mode each card has its own button */}
       {compact ? (

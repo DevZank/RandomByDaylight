@@ -299,12 +299,15 @@ function AppInner() {
 
           {/* ── Center Column: Result Display Card & Re-roll ── */}
           <section className={`dashboard-col dashboard-col--center ${!hasInteracted ? 'hide-result-mobile' : ''}`}>
+            {result && (
               <ResultCard
                 key={result.id}
                 result={result}
                 onReroll={handleReroll}
                 language={language}
-              /></section>
+              />
+            )}
+          </section>
 
           {/* ── Right Column: History Sidebar ── */}
           <section className="dashboard-col dashboard-col--right">
