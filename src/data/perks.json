@@ -1,0 +1,2249 @@
+[
+  {
+    "id": "a_nurses_calling",
+    "name": "A Nurse's Calling",
+    "owner": "The Nurse",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_aNursesCalling.png/revision/latest/scale-to-width-down/96?cb=20160820090103"
+  },
+  {
+    "id": "a_place_for_us",
+    "name": "A Place For Us",
+    "owner": "Kwon Tae-young",
+    "role": "survivor",
+    "image": "https://deadbydaylight.com/static/293956522b46b1505f4446731d448b48/388f3/T_UI_icons_Perks_a_Place_For_Us_8d05f3444e.png"
+  },
+  {
+    "id": "ace_in_the_hole",
+    "name": "Ace in the Hole",
+    "owner": "Ace Visconti",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/IconPerks_aceInTheHole.png/revision/latest/scale-to-width-down/96?cb=20161208214510"
+  },
+  {
+    "id": "adrenaline",
+    "name": "Adrenaline",
+    "owner": "Meg Thomas",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_adrenaline.png/revision/latest/scale-to-width-down/96?cb=20160605204801"
+  },
+  {
+    "id": "aftercare",
+    "name": "Aftercare",
+    "owner": "Jeff Johansen",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_aftercare.png/revision/latest/scale-to-width-down/96?cb=20181128100931"
+  },
+  {
+    "id": "agitation",
+    "name": "Agitation",
+    "owner": "The Trapper",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_agitation.png/revision/latest/scale-to-width-down/96?cb=20160605204807"
+  },
+  {
+    "id": "alert",
+    "name": "Alert",
+    "owner": "Feng Min",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/71/IconPerks_alert.png/revision/latest/scale-to-width-down/96?cb=20170511153335"
+  },
+  {
+    "id": "alien_instinct",
+    "name": "Alien Instinct",
+    "owner": "The Xenomorph",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/34/IconPerks_alienInstinct.png/revision/latest/scale-to-width-down/96?cb=20230808160213"
+  },
+  {
+    "id": "all_shaking_thunder",
+    "name": "All-Shaking Thunder",
+    "owner": "The Houndmaster",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_allShakingThunder.png/revision/latest/scale-to-width-down/96?cb=20241107202158"
+  },
+  {
+    "id": "any_means_necessary",
+    "name": "Any Means Necessary",
+    "owner": "Yui Kimura",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_anyMeansNecessary.png/revision/latest/scale-to-width-down/96?cb=20191126213542"
+  },
+  {
+    "id": "apocalyptic_ingenuity",
+    "name": "Apocalyptic Ingenuity",
+    "owner": "Rick Grimes",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_apocalypticIngenuity.png?271ffd"
+  },
+  {
+    "id": "appraisal",
+    "name": "Appraisal",
+    "owner": "Elodie Rakoto",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/IconPerks_appraisal.png/revision/latest/scale-to-width-down/96?cb=20201112095004"
+  },
+  {
+    "id": "autodidact",
+    "name": "Autodidact",
+    "owner": "Adam Francis",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/IconPerks_autodidact.png/revision/latest/scale-to-width-down/96?cb=20180828173011"
+  },
+  {
+    "id": "awakened_awareness",
+    "name": "Awakened Awareness",
+    "owner": "The Mastermind",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_awakenedAwareness.png/revision/latest/scale-to-width-down/96?cb=20220815051648"
+  },
+  {
+    "id": "babysitter",
+    "name": "Babysitter",
+    "owner": "Steve Harrington",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_babysitter.png/revision/latest/scale-to-width-down/96?cb=20190903174955"
+  },
+  {
+    "id": "background_player",
+    "name": "Background Player",
+    "owner": "Renato Lyra",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/IconPerks_backgroundPlayer.png/revision/latest/scale-to-width-down/96?cb=20230218135313"
+  },
+  {
+    "id": "bada_bada_boom",
+    "name": "Bada Bada Boom",
+    "owner": "Dustin Henderson",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_BadaBadaBoom.png?7a75d9"
+  },
+  {
+    "id": "balanced_landing",
+    "name": "Balanced Landing",
+    "owner": "Nea Karlsson",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/IconPerks_balancedLanding.png/revision/latest/scale-to-width-down/96?cb=20160821133918"
+  },
+  {
+    "id": "bamboozle",
+    "name": "Bamboozle",
+    "owner": "The Clown",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/IconPerks_bamboozle.png/revision/latest/scale-to-width-down/96?cb=20180529205216"
+  },
+  {
+    "id": "barbecue_and_chili",
+    "name": "Barbecue & Chili",
+    "owner": "The Cannibal",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/IconPerks_barbecueAndChilli.png/revision/latest/scale-to-width-down/96?cb=20170914173637"
+  },
+  {
+    "id": "bardic_inspiration",
+    "name": "Bardic Inspiration",
+    "owner": "Aestri Yazar",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconPerks_bardicInspiration.png/revision/latest/scale-to-width-down/96?cb=20240514174158"
+  },
+  {
+    "id": "batteries_included",
+    "name": "Batteries Included",
+    "owner": "The Good Guy",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_batteriesIncluded.png/revision/latest/scale-to-width-down/96?cb=20231108172942"
+  },
+  {
+    "id": "beast_of_prey",
+    "name": "Beast of Prey",
+    "owner": "The Huntress",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/IconPerks_beastOfPrey.png/revision/latest/scale-to-width-down/96?cb=20170727160820"
+  },
+  {
+    "id": "better_than_new",
+    "name": "Better Than New",
+    "owner": "Rebecca Chambers",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_betterThanNew.png/revision/latest/scale-to-width-down/96?cb=20220815051705"
+  },
+  {
+    "id": "better_together",
+    "name": "Better Together",
+    "owner": "Nancy Wheeler",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_betterTogether.png/revision/latest/scale-to-width-down/96?cb=20190903175013"
+  },
+  {
+    "id": "bite_the_bullet",
+    "name": "Bite the Bullet",
+    "owner": "Leon S. Kennedy",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_biteTheBullet.png/revision/latest/scale-to-width-down/96?cb=20210526102647"
+  },
+  {
+    "id": "bitter_murmur",
+    "name": "Bitter Murmur",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_bitterMurmur.png/revision/latest/scale-to-width-down/96?cb=20160605204819"
+  },
+  {
+    "id": "blast_mine",
+    "name": "Blast Mine",
+    "owner": "Jill Valentine",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_blastMine.png/revision/latest/scale-to-width-down/96?cb=20210526102812"
+  },
+  {
+    "id": "blood_echo",
+    "name": "Blood Echo",
+    "owner": "The Oni",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_bloodEcho.png/revision/latest/scale-to-width-down/96?cb=20191126213547"
+  },
+  {
+    "id": "blood_pact",
+    "name": "Blood Pact",
+    "owner": "Cheryl Mason",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_bloodPact.png/revision/latest/scale-to-width-down/96?cb=20200526201448"
+  },
+  {
+    "id": "blood_rush",
+    "name": "Blood Rush",
+    "owner": "Renato Lyra",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/IconPerks_bloodRush.png/revision/latest/scale-to-width-down/96?cb=20230218135314"
+  },
+  {
+    "id": "blood_warden",
+    "name": "Blood Warden",
+    "owner": "The Nightmare",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_bloodWarden.png/revision/latest/scale-to-width-down/96?cb=20171026225711"
+  },
+  {
+    "id": "bloodhound",
+    "name": "Bloodhound",
+    "owner": "The Wraith",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_bloodhound.png/revision/latest/scale-to-width-down/96?cb=20160605204825"
+  },
+  {
+    "id": "boil_over",
+    "name": "Boil Over",
+    "owner": "Kate Denson",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_boilOver.png/revision/latest/scale-to-width-down/96?cb=20180529195012"
+  },
+  {
+    "id": "bond",
+    "name": "Bond",
+    "owner": "Dwight Fairfield",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_bond.png/revision/latest/scale-to-width-down/96?cb=20160605204830"
+  },
+  {
+    "id": "boon_circle_of_healing",
+    "name": "Boon: Circle of Healing",
+    "owner": "Mikaela Reid",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/54/IconPerks_boonCircleOfHealing.png/revision/latest/scale-to-width-down/96?cb=20210929054308"
+  },
+  {
+    "id": "boon_dark_theory",
+    "name": "Boon: Dark Theory",
+    "owner": "Yoichi Asakawa",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_boonDarkTheory.png/revision/latest/scale-to-width-down/96?cb=20220216115947"
+  },
+  {
+    "id": "boon_exponential",
+    "name": "Boon: Exponential",
+    "owner": "Jonah Vasquez",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/IconPerks_boonExponential.png/revision/latest/scale-to-width-down/96?cb=20211109175033"
+  },
+  {
+    "id": "boon_illumination",
+    "name": "Boon: Illumination",
+    "owner": "Alan Wake",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/IconPerks_boonIllumination.png/revision/latest/scale-to-width-down/96?cb=20240109231534"
+  },
+  {
+    "id": "boon_shadow_step",
+    "name": "Boon: Shadow Step",
+    "owner": "Mikaela Reid",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_boonShadowStep.png/revision/latest/scale-to-width-down/96?cb=20210929054304"
+  },
+  {
+    "id": "boon_steadfast",
+    "name": "Boon: Steadfast",
+    "owner": "Aurora Stardotter",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_BoonSteadfast.png?69ff59"
+  },
+  {
+    "id": "borrowed_time",
+    "name": "Borrowed Time",
+    "owner": "William \"Bill\" Overbeck",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_borrowedTime.png/revision/latest/scale-to-width-down/96?cb=20170308184730"
+  },
+  {
+    "id": "botany_knowledge",
+    "name": "Botany Knowledge",
+    "owner": "Claudette Morel",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/IconPerks_botanyKnowledge.png/revision/latest/scale-to-width-down/96?cb=20160605204836"
+  },
+  {
+    "id": "breakdown",
+    "name": "Breakdown",
+    "owner": "Jeff Johansen",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_breakdown.png/revision/latest/scale-to-width-down/96?cb=20181128100926"
+  },
+  {
+    "id": "breakout",
+    "name": "Breakout",
+    "owner": "Yui Kimura",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_breakout.png/revision/latest/scale-to-width-down/96?cb=20191126213552"
+  },
+  {
+    "id": "brutal_strength",
+    "name": "Brutal Strength",
+    "owner": "The Trapper",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_brutalStrength.png/revision/latest/scale-to-width-down/96?cb=20160605204842"
+  },
+  {
+    "id": "buckle_up",
+    "name": "Buckle Up",
+    "owner": "Ashley J. Williams",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/IconPerks_buckleUp.png/revision/latest/scale-to-width-down/96?cb=20190402180455"
+  },
+  {
+    "id": "built_to_last",
+    "name": "Built to Last",
+    "owner": "Felix Richter",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_builtToLast.png/revision/latest/scale-to-width-down/96?cb=20200819114105"
+  },
+  {
+    "id": "call_of_brine",
+    "name": "Call of Brine",
+    "owner": "The Onryō",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_callOfBrine.png/revision/latest/scale-to-width-down/96?cb=20220216115938"
+  },
+  {
+    "id": "calm_spirit",
+    "name": "Calm Spirit",
+    "owner": "Jake Park",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_calmSpirit.png/revision/latest/scale-to-width-down/96?cb=20160605204847"
+  },
+  {
+    "id": "camaraderie",
+    "name": "Camaraderie",
+    "owner": "Steve Harrington",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_camaraderie.png/revision/latest/scale-to-width-down/96?cb=20190903175027"
+  },
+  {
+    "id": "celestial_witness",
+    "name": "Celestial Witness",
+    "owner": "The Judgment",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_CelestialWitness.png?d93f72"
+  },
+  {
+    "id": "champion_of_light",
+    "name": "Champion of Light",
+    "owner": "Alan Wake",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_championOfLight.png/revision/latest/scale-to-width-down/96?cb=20240109231532"
+  },
+  {
+    "id": "change_of_plan",
+    "name": "Change of Plan",
+    "owner": "Dustin Henderson",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_ChangeOfPlan.png?86afb8"
+  },
+  {
+    "id": "chemical_trap",
+    "name": "Chemical Trap",
+    "owner": "Ellen Ripley",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_chemicalTrap.png/revision/latest/scale-to-width-down/96?cb=20230808160213"
+  },
+  {
+    "id": "clairvoyance",
+    "name": "Clairvoyance",
+    "owner": "Mikaela Reid",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_clairvoyance.png/revision/latest/scale-to-width-down/96?cb=20210929054440"
+  },
+  {
+    "id": "clean_break",
+    "name": "Clean Break",
+    "owner": "Taurie Cain",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/IconPerks_cleanBreak.png/revision/latest/scale-to-width-down/96?cb=20241107202155"
+  },
+  {
+    "id": "come_and_get_me",
+    "name": "Come and Get Me!",
+    "owner": "Rick Grimes",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_comeAndGetMe.png?f4490c"
+  },
+  {
+    "id": "conviction",
+    "name": "Conviction",
+    "owner": "Michonne Grimes",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_conviction.png?ad7956"
+  },
+  {
+    "id": "corrective_action",
+    "name": "Corrective Action",
+    "owner": "Jonah Vasquez",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_correctiveAction.png/revision/latest/scale-to-width-down/96?cb=20240918105401"
+  },
+  {
+    "id": "corrupt_intervention",
+    "name": "Corrupt Intervention",
+    "owner": "The Plague",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/IconPerks_corruptIntervention.png/revision/latest/scale-to-width-down/96?cb=20190306195826"
+  },
+  {
+    "id": "coulrophobia",
+    "name": "Coulrophobia",
+    "owner": "The Clown",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/IconPerks_coulrophobia.png/revision/latest/scale-to-width-down/96?cb=20180529205206"
+  },
+  {
+    "id": "counterforce",
+    "name": "Counterforce",
+    "owner": "Jill Valentine",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconPerks_counterforce.png/revision/latest/scale-to-width-down/96?cb=20210526103441"
+  },
+  {
+    "id": "coup_de_grace",
+    "name": "Coup de Grâce",
+    "owner": "The Twins",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/IconPerks_coupDeGr%C3%A2ce.png/revision/latest/scale-to-width-down/96?cb=20201112095015"
+  },
+  {
+    "id": "cross_examination",
+    "name": "Cross-Examination",
+    "owner": "Shane Wiigwaas",
+    "role": "survivor",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dead-by-daylight/7/72/Cross_Examination.png?width=150&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "id": "cruel_limits",
+    "name": "Cruel Limits",
+    "owner": "The Demogorgon",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_cruelLimits.png/revision/latest/scale-to-width-down/96?cb=20190903175111"
+  },
+  {
+    "id": "cut_loose",
+    "name": "Cut Loose",
+    "owner": "Thalita Lyra",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_cutLoose.png/revision/latest/scale-to-width-down/96?cb=20230218135315"
+  },
+  {
+    "id": "dance_with_me",
+    "name": "Dance With Me",
+    "owner": "Kate Denson",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_danceWithMe.png/revision/latest/scale-to-width-down/96?cb=20180529195003"
+  },
+  {
+    "id": "dark_arrogance",
+    "name": "Dark Arrogance",
+    "owner": "The Lich",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_darkArrogance.png/revision/latest/scale-to-width-down/96?cb=20240514174200"
+  },
+  {
+    "id": "dark_devotion",
+    "name": "Dark Devotion",
+    "owner": "The Plague",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_darkDevotion.png/revision/latest/scale-to-width-down/96?cb=20190306195813"
+  },
+  {
+    "id": "dark_sense",
+    "name": "Dark Sense",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/IconPerks_darkSense.png/revision/latest/scale-to-width-down/96?cb=20160605204853"
+  },
+  {
+    "id": "darkness_revealed",
+    "name": "Darkness Revealed",
+    "owner": "The Dredge",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/IconPerks_darknessRevealed.png/revision/latest/scale-to-width-down/96?cb=20220518112818"
+  },
+  {
+    "id": "dead_hard",
+    "name": "Dead Hard",
+    "owner": "David King",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_deadHard.png/revision/latest/scale-to-width-down/96?cb=20170727160956"
+  },
+  {
+    "id": "dead_mans_switch",
+    "name": "Dead Man's Switch",
+    "owner": "The Deathslinger",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_deadMansSwitch.png/revision/latest/scale-to-width-down/96?cb=20200218172942"
+  },
+  {
+    "id": "deadline",
+    "name": "Deadline",
+    "owner": "Alan Wake",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_deadline.png/revision/latest/scale-to-width-down/96?cb=20240109231533"
+  },
+  {
+    "id": "deadlock",
+    "name": "Deadlock",
+    "owner": "The Cenobite",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_deadlock.png?8c19ec"
+  },
+  {
+    "id": "deathbound",
+    "name": "Deathbound",
+    "owner": "The Executioner",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/IconPerks_deathbound.png/revision/latest/scale-to-width-down/96?cb=20200526201504"
+  },
+  {
+    "id": "deception",
+    "name": "Deception",
+    "owner": "Elodie Rakoto",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_deception.png/revision/latest/scale-to-width-down/256?cb=20201112095028"
+  },
+  {
+    "id": "decisive_strike",
+    "name": "Decisive Strike",
+    "owner": "Laurie Strode",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_decisiveStrike.png/revision/latest/scale-to-width-down/96?cb=20161023112852"
+  },
+  {
+    "id": "deerstalker",
+    "name": "Deerstalker",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/IconPerks_deerstalker.png/revision/latest/scale-to-width-down/96?cb=20160605204859"
+  },
+  {
+    "id": "deja_vu",
+    "name": "Deja Vu",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/IconPerks_dejaVu.png/revision/latest/scale-to-width-down/96?cb=20160605204905"
+  },
+  {
+    "id": "deliverance",
+    "name": "Deliverance",
+    "owner": "Adam Francis",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_deliverance.png/revision/latest/scale-to-width-down/96?cb=20180828173004"
+  },
+  {
+    "id": "desperate_measures",
+    "name": "Desperate Measures",
+    "owner": "Felix Richter",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/IconPerks_desperateMeasures.png/revision/latest/scale-to-width-down/96?cb=20200819113949"
+  },
+  {
+    "id": "detectives_hunch",
+    "name": "Detective's Hunch",
+    "owner": "Detective Tapp",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7b/IconPerks_detectivesHunch.png/revision/latest/scale-to-width-down/96?cb=20180123224231"
+  },
+  {
+    "id": "discordance",
+    "name": "Discordance",
+    "owner": "The Legion",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_discordance.png/revision/latest/scale-to-width-down/96?cb=20181128100920"
+  },
+  {
+    "id": "dissolution",
+    "name": "Dissolution",
+    "owner": "The Dredge",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_dissolution.png/revision/latest/scale-to-width-down/96?cb=20220518112819"
+  },
+  {
+    "id": "distortion",
+    "name": "Distortion",
+    "owner": "Jeff Johansen",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/IconPerks_distortion.png/revision/latest/scale-to-width-down/96?cb=20181128100914"
+  },
+  {
+    "id": "distressing",
+    "name": "Distressing",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_distressing.png/revision/latest/scale-to-width-down/96?cb=20160605204911"
+  },
+  {
+    "id": "diversion",
+    "name": "Diversion",
+    "owner": "Adam Francis",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_diversion.png/revision/latest/scale-to-width-down/96?cb=20180828172956"
+  },
+  {
+    "id": "do_no_harm",
+    "name": "Do No Harm",
+    "owner": "Orela Rose",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_DoNoHarm.png?2073b4"
+  },
+  {
+    "id": "dominance",
+    "name": "Dominance",
+    "owner": "The Dark Lord",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/IconPerks_Dominance.png/revision/latest/scale-to-width-down/96?cb=20240806171415"
+  },
+  {
+    "id": "dragons_grip",
+    "name": "Dragon's Grip",
+    "owner": "The Blight",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_dragonsGrip.png/revision/latest/scale-to-width-down/96?cb=20200819113412"
+  },
+  {
+    "id": "dramaturgy",
+    "name": "Dramaturgy",
+    "owner": "Nicolas Cage",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/IconPerks_dramaturgy.png/revision/latest/scale-to-width-down/96?cb=20230705160003"
+  },
+  {
+    "id": "duty_of_care",
+    "name": "Duty of Care",
+    "owner": "Orela Rose",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_DutyOfCare.png?a2c25e"
+  },
+  {
+    "id": "dying_light",
+    "name": "Dying Light",
+    "owner": "The Shape",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_dyingLight.png/revision/latest/scale-to-width-down/96?cb=20161023113257"
+  },
+  {
+    "id": "empathic_connection",
+    "name": "Empathic Connection",
+    "owner": "Yoichi Asakawa",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_empathicConnection.png/revision/latest/scale-to-width-down/96?cb=20220216115951"
+  },
+  {
+    "id": "empathy",
+    "name": "Empathy",
+    "owner": "Claudette Morel",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_empathy.png/revision/latest/scale-to-width-down/96?cb=20160605204916"
+  },
+  {
+    "id": "enduring",
+    "name": "Enduring",
+    "owner": "The Hillbilly",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_enduring.png/revision/latest/scale-to-width-down/96?cb=20160605204922"
+  },
+  {
+    "id": "eruption",
+    "name": "Eruption",
+    "owner": "The Nemesis",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dd/IconPerks_eruption.png/revision/latest/scale-to-width-down/96?cb=20210526102859"
+  },
+  {
+    "id": "extrasensory_perception",
+    "name": "Extrasensory Perception",
+    "owner": "Eleven",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_ExtrasensoryPerception.png?2084c6"
+  },
+  {
+    "id": "exultation",
+    "name": "Exultation",
+    "owner": "Trevor Belmont",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/IconPerks_Exultation.png/revision/latest/scale-to-width-down/96?cb=20240806171416"
+  },
+  {
+    "id": "eyes_of_belmont",
+    "name": "Eyes of Belmont",
+    "owner": "Trevor Belmont",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/IconPerks_EyesOfBelmont.png/revision/latest/scale-to-width-down/96?cb=20240806171417"
+  },
+  {
+    "id": "fast_track",
+    "name": "Fast Track",
+    "owner": "Lee Yun-Jin",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_fastTrack.png/revision/latest/scale-to-width-down/96?cb=20210302172243"
+  },
+  {
+    "id": "finesse",
+    "name": "Finesse",
+    "owner": "Lara Croft",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/IconPerks_finesse.png/revision/latest/scale-to-width-down/96?cb=20240625161544"
+  },
+  {
+    "id": "fire_up",
+    "name": "Fire Up",
+    "owner": "The Nightmare",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5c/IconPerks_fireUp.png/revision/latest/scale-to-width-down/96?cb=20171026225645"
+  },
+  {
+    "id": "five_moves_ahead",
+    "name": "Five Moves Ahead",
+    "owner": "Kwon Tae-young",
+    "role": "survivor",
+    "image": "https://deadbydaylight.com/static/cff74c1c770557d8eff1c4e1fe662619/388f3/T_UI_icons_Perks_Five_Moves_Ahead_55df9a457e.png"
+  },
+  {
+    "id": "fixated",
+    "name": "Fixated",
+    "owner": "Nancy Wheeler",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_fixated.png/revision/latest/scale-to-width-down/96?cb=20190903175127"
+  },
+  {
+    "id": "flashbang",
+    "name": "Flashbang",
+    "owner": "Leon S. Kennedy",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_flashbang.png/revision/latest/scale-to-width-down/96?cb=20210526102947"
+  },
+  {
+    "id": "flip_flop",
+    "name": "Flip-Flop",
+    "owner": "Ashley J. Williams",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_flip-Flop.png/revision/latest/scale-to-width-down/96?cb=20190402180450"
+  },
+  {
+    "id": "flow_state",
+    "name": "Flow State",
+    "owner": "Kwon Tae-young",
+    "role": "survivor",
+    "image": "https://deadbydaylight.com/static/273ea213482d97ebf5058246299305c0/388f3/T_UI_icons_Perks_Flow_State_548030e603.png"
+  },
+  {
+    "id": "fogwise",
+    "name": "Fogwise",
+    "owner": "Vittorio Toscano",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png/revision/latest/scale-to-width-down/96?cb=20221102143122"
+  },
+  {
+    "id": "for_the_people",
+    "name": "For the People",
+    "owner": "Zarina Kassir",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_forThePeople.png/revision/latest/scale-to-width-down/96?cb=20200218172919"
+  },
+  {
+    "id": "forced_hesitation",
+    "name": "Forced Hesitation",
+    "owner": "The Singularity",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_forcedHesitation.png/revision/latest/scale-to-width-down/96?cb=20230524214839"
+  },
+  {
+    "id": "forced_penance",
+    "name": "Forced Penance",
+    "owner": "The Executioner",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_forcedPenance.png/revision/latest/scale-to-width-down/96?cb=20200526201518"
+  },
+  {
+    "id": "forever_entwined",
+    "name": "Forever Entwined",
+    "owner": "The Ghoul",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_foreverEntwined.png/revision/latest/scale-to-width-down/96?cb=20250616212701"
+  },
+  {
+    "id": "franklins_demise",
+    "name": "Franklin's Demise",
+    "owner": "The Cannibal",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_franklinsDemise.png/revision/latest/scale-to-width-down/96?cb=20170914173626"
+  },
+  {
+    "id": "friendly_competition",
+    "name": "Friendly Competition",
+    "owner": "Thalita Lyra",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_friendlyCompetition.png/revision/latest/scale-to-width-down/96?cb=20230218135316"
+  },
+  {
+    "id": "friends_til_the_end",
+    "name": "Friends 'Til the End",
+    "owner": "The Good Guy",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/IconPerks_friendsTilTheEnd.png/revision/latest/scale-to-width-down/96?cb=20231108172943"
+  },
+  {
+    "id": "fruits_of_your_labor",
+    "name": "Fruits of Your Labor",
+    "owner": "Aurora Stardotter",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_FruitsOfYourLabor.png?6e8560"
+  },
+  {
+    "id": "furtive_chase",
+    "name": "Furtive Chase",
+    "owner": "The Ghost Face",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_furtiveChase.png/revision/latest/scale-to-width-down/96?cb=20190606094409"
+  },
+  {
+    "id": "game_afoot",
+    "name": "Game Afoot",
+    "owner": "The Skull Merchant",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/IconPerks_gameAfoot.png/revision/latest/scale-to-width-down/96?cb=20230218135317"
+  },
+  {
+    "id": "gearhead",
+    "name": "Gearhead",
+    "owner": "The Deathslinger",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_gearhead.png/revision/latest/scale-to-width-down/96?cb=20200218172900"
+  },
+  {
+    "id": "genetic_limits",
+    "name": "Genetic Limits",
+    "owner": "The Singularity",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_geneticLimits.png/revision/latest/scale-to-width-down/96?cb=20230524214956"
+  },
+  {
+    "id": "ghost_notes",
+    "name": "Ghost Notes",
+    "owner": "Vee Boonyasak",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_GhostNotes.png?92b28f"
+  },
+  {
+    "id": "grim_embrace",
+    "name": "Grim Embrace",
+    "owner": "The Artist",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_grimEmbrace.png/revision/latest/scale-to-width-down/96?cb=20211109180734"
+  },
+  {
+    "id": "hardened",
+    "name": "Hardened",
+    "owner": "Lara Croft",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_hardened.png/revision/latest/scale-to-width-down/96?cb=20240625161545"
+  },
+  {
+    "id": "haywire",
+    "name": "Haywire",
+    "owner": "The Animatronic",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_haywire.png/revision/latest/scale-to-width-down/96?cb=20250528034521"
+  },
+  {
+    "id": "head_on",
+    "name": "Head On",
+    "owner": "Jane Romero",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/IconPerks_headOn.png/revision/latest/scale-to-width-down/96?cb=20190308175420"
+  },
+  {
+    "id": "help_wanted",
+    "name": "Help Wanted",
+    "owner": "The Animatronic",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/IconPerks_helpWanted.png/revision/latest/scale-to-width-down/96?cb=20250528034403"
+  },
+  {
+    "id": "hex_blood_favor",
+    "name": "Hex: Blood Favor",
+    "owner": "The Blight",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/IconPerks_hexBloodFavour.png/revision/latest/scale-to-width-down/96?cb=20200819113451"
+  },
+  {
+    "id": "hex_crowd_control",
+    "name": "Hex: Crowd Control",
+    "owner": "The Trickster",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_hexCrowdControl.png/revision/latest/scale-to-width-down/96?cb=20210302172300"
+  },
+  {
+    "id": "hex_devour_hope",
+    "name": "Hex: Devour Hope",
+    "owner": "The Hag",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_hexDevourHope.png/revision/latest/scale-to-width-down/96?cb=20161209192341"
+  },
+  {
+    "id": "hex_face_the_darkness",
+    "name": "Hex: Face the Darkness",
+    "owner": "The Knight",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/IconPerks_hexFaceTheDarkness.png/revision/latest/scale-to-width-down/96?cb=20221102143124"
+  },
+  {
+    "id": "hex_haunted_ground",
+    "name": "Hex: Haunted Ground",
+    "owner": "The Spirit",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/IconPerks_hexHauntedGround.png/revision/latest/scale-to-width-down/96?cb=20180828172944"
+  },
+  {
+    "id": "hex_hive_mind",
+    "name": "Hex: Hive Mind",
+    "owner": "The First",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_HexHiveMind.png?db4284"
+  },
+  {
+    "id": "hex_huntress_lullaby",
+    "name": "Hex: Huntress Lullaby",
+    "owner": "The Huntress",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/IconPerks_hexHuntressLullaby.png/revision/latest/scale-to-width-down/96?cb=20170727160900"
+  },
+  {
+    "id": "hex_no_one_escapes_death",
+    "name": "Hex: No One Escapes Death",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/IconPerks_hexNoOneEscapesDeath.png/revision/latest/scale-to-width-down/96?cb=20160605205020"
+  },
+  {
+    "id": "hex_nothing_but_misery",
+    "name": "Hex: Nothing But Misery",
+    "owner": "The Ghoul",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/IconPerks_hexNothingButMisery.png/revision/latest/scale-to-width-down/96?cb=20250616212702"
+  },
+  {
+    "id": "hex_overture_of_doom",
+    "name": "Hex: Overture of Doom",
+    "owner": "The Krasue",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_HexOvertureOfDoom.png?a22807"
+  },
+  {
+    "id": "hex_pentimento",
+    "name": "Hex: Pentimento",
+    "owner": "The Artist",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hexPentimento.png/revision/latest/scale-to-width-down/96?cb=20211109175002"
+  },
+  {
+    "id": "hex_plaything",
+    "name": "Hex: Plaything",
+    "owner": "The Cenobite",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_hexPlaything.png?59f6fb"
+  },
+  {
+    "id": "hex_retribution",
+    "name": "Hex: Retribution",
+    "owner": "The Deathslinger",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/IconPerks_hexRetribution.png/revision/latest/scale-to-width-down/96?cb=20200218172811"
+  },
+  {
+    "id": "hex_ruin",
+    "name": "Hex: Ruin",
+    "owner": "The Hag",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_hexRuin.png/revision/latest/scale-to-width-down/96?cb=20161209193143"
+  },
+  {
+    "id": "hex_scared_to_death",
+    "name": "Hex: Scared to Death",
+    "owner": "The Slasher",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_ScaredToDeath.png?dc3716"
+  },
+  {
+    "id": "hex_the_third_seal",
+    "name": "Hex: The Third Seal",
+    "owner": "The Hag",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/IconPerks_hexTheThirdSeal.png/revision/latest/scale-to-width-down/96?cb=20161210091328"
+  },
+  {
+    "id": "hex_thrill_of_the_hunt",
+    "name": "Hex: Thrill of the Hunt",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_hexThrillOfTheHunt.png/revision/latest/scale-to-width-down/96?cb=20161210091341"
+  },
+  {
+    "id": "hex_two_can_play",
+    "name": "Hex: Two Can Play",
+    "owner": "The Good Guy",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/64/IconPerks_hexTwoCanPlay.png/revision/latest/scale-to-width-down/96?cb=20231108172944"
+  },
+  {
+    "id": "hex_under_your_thumb",
+    "name": "Hex: Under Your Thumb",
+    "owner": "The Judgment",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_HexUnderYourThumb.png?57c1f4"
+  },
+  {
+    "id": "hex_undying",
+    "name": "Hex: Undying",
+    "owner": "The Blight",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_hexUndying.png/revision/latest/scale-to-width-down/96?cb=20200819113555"
+  },
+  {
+    "id": "hex_wretched_fate",
+    "name": "Hex: Wretched Fate",
+    "owner": "The Dark Lord",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/81/IconPerks_HexWretchedFate.png/revision/latest/scale-to-width-down/96?cb=20240806171418"
+  },
+  {
+    "id": "hoarder",
+    "name": "Hoarder",
+    "owner": "The Twins",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_hoarder.png/revision/latest/scale-to-width-down/96?cb=20201112100327"
+  },
+  {
+    "id": "hope",
+    "name": "Hope",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_hope.png/revision/latest/scale-to-width-down/96?cb=20160605204928"
+  },
+  {
+    "id": "hubris",
+    "name": "Hubris",
+    "owner": "The Knight",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_hubris.png/revision/latest/scale-to-width-down/96?cb=20221102143125"
+  },
+  {
+    "id": "human_greed",
+    "name": "Human Greed",
+    "owner": "The Dark Lord",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/IconPerks_HumanGreed.png/revision/latest/scale-to-width-down/96?cb=20240806171419"
+  },
+  {
+    "id": "hyperfocus",
+    "name": "Hyperfocus",
+    "owner": "Rebecca Chambers",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png/revision/latest/scale-to-width-down/96?cb=20220815051721"
+  },
+  {
+    "id": "hysteria",
+    "name": "Hysteria",
+    "owner": "The Nemesis",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/IconPerks_hysteria.png/revision/latest/scale-to-width-down/96?cb=20210526103043"
+  },
+  {
+    "id": "im_all_ears",
+    "name": "I'm All Ears",
+    "owner": "The Ghost Face",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/IconPerks_imAllEars.png/revision/latest/scale-to-width-down/96?cb=20190606094404"
+  },
+  {
+    "id": "infectious_fright",
+    "name": "Infectious Fright",
+    "owner": "The Plague",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_infectiousFright.png/revision/latest/scale-to-width-down/96?cb=20190306195819"
+  },
+  {
+    "id": "inner_focus",
+    "name": "Inner Focus",
+    "owner": "Haddie Kaur",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_innerFocus.png/revision/latest/scale-to-width-down/96?cb=20220518112819"
+  },
+  {
+    "id": "inner_strength",
+    "name": "Inner Strength",
+    "owner": "Nancy Wheeler",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/47/IconPerks_innerStrength.png/revision/latest/scale-to-width-down/96?cb=20190903175147"
+  },
+  {
+    "id": "insidious",
+    "name": "Insidious",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/IconPerks_insidious.png/revision/latest/scale-to-width-down/96?cb=20160605204933"
+  },
+  {
+    "id": "invocation_treacherous_crows",
+    "name": "Invocation: Treacherous Crows",
+    "owner": "Taurie Cain",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_invocationTreacherousCrows.png/revision/latest/scale-to-width-down/96?cb=20241107202156"
+  },
+  {
+    "id": "invocation_weaving_spiders",
+    "name": "Invocation: Weaving Spiders",
+    "owner": "Sable Ward",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_invocationWeavingSpiders.png/revision/latest/scale-to-width-down/96?cb=20240220182529"
+  },
+  {
+    "id": "iron_grasp",
+    "name": "Iron Grasp",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_ironGrasp.png/revision/latest/scale-to-width-down/96?cb=20160605204939"
+  },
+  {
+    "id": "iron_maiden",
+    "name": "Iron Maiden",
+    "owner": "The Legion",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_ironMaiden.png/revision/latest/scale-to-width-down/96?cb=20181128100910"
+  },
+  {
+    "id": "iron_will",
+    "name": "Iron Will",
+    "owner": "Jake Park",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_ironWill.png/revision/latest/scale-to-width-down/96?cb=20160605204945"
+  },
+  {
+    "id": "kindred",
+    "name": "Kindred",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_kindred.png/revision/latest/scale-to-width-down/96?cb=20160819130530"
+  },
+  {
+    "id": "knock_out",
+    "name": "Knock Out",
+    "owner": "The Cannibal",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_knockOut.png/revision/latest/scale-to-width-down/96?cb=20170914173607"
+  },
+  {
+    "id": "languid_touch",
+    "name": "Languid Touch",
+    "owner": "The Lich",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_languidTouch.png/revision/latest/scale-to-width-down/96?cb=20240514174201"
+  },
+  {
+    "id": "last_stand",
+    "name": "Last Stand",
+    "owner": "Michonne Grimes",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_lastStand.png?cb8a9f"
+  },
+  {
+    "id": "lay_waste",
+    "name": "Lay Waste",
+    "owner": "The Judgment",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_LayWaste.png?a49aeb"
+  },
+  {
+    "id": "leader",
+    "name": "Leader",
+    "owner": "Dwight Fairfield",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_leader.png/revision/latest/scale-to-width-down/96?cb=20160605204957"
+  },
+  {
+    "id": "left_behind",
+    "name": "Left Behind",
+    "owner": "William \"Bill\" Overbeck",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_leftBehind.png/revision/latest/scale-to-width-down/96?cb=20170308184910"
+  },
+  {
+    "id": "lend_a_hand",
+    "name": "Lend a Hand",
+    "owner": "Shane Wiigwaas",
+    "role": "survivor",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dead-by-daylight/a/a1/Lend_a_Hand.png?width=150&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "id": "lethal_pursuer",
+    "name": "Lethal Pursuer",
+    "owner": "The Nemesis",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/61/IconPerks_lethalPursuer.png/revision/latest/scale-to-width-down/96?cb=20210526103144"
+  },
+  {
+    "id": "leverage",
+    "name": "Leverage",
+    "owner": "The Skull Merchant",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_leverage.png/revision/latest/scale-to-width-down/96?cb=20230218135317"
+  },
+  {
+    "id": "light_footed",
+    "name": "Light-footed",
+    "owner": "Ellen Ripley",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/IconPerks_light-Footed.png/revision/latest/scale-to-width-down/96?cb=20230808160213"
+  },
+  {
+    "id": "lightborn",
+    "name": "Lightborn",
+    "owner": "The Hillbilly",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_lightborn.png/revision/latest/scale-to-width-down/96?cb=20160605205002"
+  },
+  {
+    "id": "lightweight",
+    "name": "Lightweight",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/IconPerks_lightweight.png/revision/latest/scale-to-width-down/96?cb=20160605205008"
+  },
+  {
+    "id": "lithe",
+    "name": "Lithe",
+    "owner": "Feng Min",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/IconPerks_lithe.png/revision/latest/scale-to-width-down/96?cb=20170511153301"
+  },
+  {
+    "id": "low_profile",
+    "name": "Low Profile",
+    "owner": "Ada Wong",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/IconPerks_lowProfile.png/revision/latest/scale-to-width-down/96?cb=20220815051740"
+  },
+  {
+    "id": "lucky_break",
+    "name": "Lucky Break",
+    "owner": "Yui Kimura",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a7/IconPerks_luckyBreak.png/revision/latest/scale-to-width-down/96?cb=20191126213558"
+  },
+  {
+    "id": "lucky_star",
+    "name": "Lucky Star",
+    "owner": "Ellen Ripley",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/IconPerks_luckyStar.png/revision/latest/scale-to-width-down/96?cb=20230808160212"
+  },
+  {
+    "id": "machine_learning",
+    "name": "Machine Learning",
+    "owner": "The Singularity",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/IconPerks_machineLearning.png/revision/latest/scale-to-width-down/96?cb=20230524214741"
+  },
+  {
+    "id": "mad_grit",
+    "name": "Mad Grit",
+    "owner": "The Legion",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/da/IconPerks_madGrit.png/revision/latest/scale-to-width-down/96?cb=20181128100906"
+  },
+  {
+    "id": "made_for_this",
+    "name": "Made for This",
+    "owner": "Gabriel Soma",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/IconPerks_madeForThis.png/revision/latest/scale-to-width-down/96?cb=20230524205724"
+  },
+  {
+    "id": "make_your_choice",
+    "name": "Make your Choice",
+    "owner": "The Pig",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/IconPerks_makeYourChoice.png/revision/latest/scale-to-width-down/96?cb=20180123224326"
+  },
+  {
+    "id": "merciless_storm",
+    "name": "Merciless Storm",
+    "owner": "The Onryō",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/IconPerks_mercilessStorm.png/revision/latest/scale-to-width-down/96?cb=20220216120012"
+  },
+  {
+    "id": "mettle_of_man",
+    "name": "Mettle of Man",
+    "owner": "Ashley J. Williams",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_mettleOfMan.png/revision/latest/scale-to-width-down/96?cb=20190402180459"
+  },
+  {
+    "id": "mindbreaker",
+    "name": "Mindbreaker",
+    "owner": "The Demogorgon",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_mindbreaker.png/revision/latest/scale-to-width-down/96?cb=20190903175217"
+  },
+  {
+    "id": "mirrored_illusion",
+    "name": "Mirrored Illusion",
+    "owner": "Aestri Yazar",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_mirroredIllusion.png/revision/latest/scale-to-width-down/96?cb=20240514174203"
+  },
+  {
+    "id": "moment_of_glory",
+    "name": "Moment of Glory",
+    "owner": "Trevor Belmont",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/98/IconPerks_MomentOfGlory.png/revision/latest/scale-to-width-down/96?cb=20240806171421"
+  },
+  {
+    "id": "monitor_and_abuse",
+    "name": "Monitor & Abuse",
+    "owner": "The Doctor",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_monitorAndAbuse.png/revision/latest/scale-to-width-down/96?cb=20170511153248"
+  },
+  {
+    "id": "nemesis",
+    "name": "Nemesis",
+    "owner": "The Oni",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/IconPerks_nemesis.png/revision/latest/scale-to-width-down/96?cb=20191126213602"
+  },
+  {
+    "id": "no_mither",
+    "name": "No Mither",
+    "owner": "David King",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_noMither.png/revision/latest/scale-to-width-down/96?cb=20170727161003"
+  },
+  {
+    "id": "no_one_left_behind",
+    "name": "No One Left Behind",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_noOneLeftBehind.png/revision/latest/scale-to-width-down/96?cb=20160605205026"
+  },
+  {
+    "id": "no_quarter",
+    "name": "No Quarter",
+    "owner": "The Houndmaster",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_noQuarter.png/revision/latest/scale-to-width-down/96?cb=20241107202153"
+  },
+  {
+    "id": "no_way_out",
+    "name": "No Way Out",
+    "owner": "The Trickster",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_noWayOut.png/revision/latest/scale-to-width-down/96?cb=20210302172337"
+  },
+  {
+    "id": "none_are_free",
+    "name": "None Are Free",
+    "owner": "The Ghoul",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5c/IconPerks_noneAreFree.png/revision/latest/scale-to-width-down/96?cb=20250616212702"
+  },
+  {
+    "id": "nowhere_to_hide",
+    "name": "Nowhere to Hide",
+    "owner": "The Knight",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/IconPerks_nowhereToHide.png/revision/latest/scale-to-width-down/96?cb=20221102143126"
+  },
+  {
+    "id": "object_of_obsession",
+    "name": "Object of Obsession",
+    "owner": "Laurie Strode",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_objectOfObsession.png/revision/latest/scale-to-width-down/96?cb=20161023112952"
+  },
+  {
+    "id": "off_the_record",
+    "name": "Off the Record",
+    "owner": "Zarina Kassir",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_offTheRecord.png/revision/latest/scale-to-width-down/96?cb=20200218172747"
+  },
+  {
+    "id": "one_two_three_four",
+    "name": "ONE-TWO-THREE-FOUR!",
+    "owner": "Vee Boonyasak",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_OneTwoThreeFour.png?bc3808"
+  },
+  {
+    "id": "open_handed",
+    "name": "Open-Handed",
+    "owner": "Ace Visconti",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_open-Handed.png/revision/latest/scale-to-width-down/96?cb=20161210091243"
+  },
+  {
+    "id": "oppression",
+    "name": "Oppression",
+    "owner": "The Twins",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/IconPerks_oppression.png/revision/latest/scale-to-width-down/96?cb=20201112095043"
+  },
+  {
+    "id": "overcharge",
+    "name": "Overcharge",
+    "owner": "The Doctor",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_overcharge.png/revision/latest/scale-to-width-down/96?cb=20170511153315"
+  },
+  {
+    "id": "overcome",
+    "name": "Overcome",
+    "owner": "Jonah Vasquez",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_overcome.png/revision/latest/scale-to-width-down/96?cb=20211109180747"
+  },
+  {
+    "id": "overwhelming_presence",
+    "name": "Overwhelming Presence",
+    "owner": "The Doctor",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_overwhelmingPresence.png/revision/latest/scale-to-width-down/96?cb=20170511153235"
+  },
+  {
+    "id": "overzealous",
+    "name": "Overzealous",
+    "owner": "Haddie Kaur",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/IconPerks_overzealous.png/revision/latest/scale-to-width-down/96?cb=20220518112819"
+  },
+  {
+    "id": "parental_guidance",
+    "name": "Parental Guidance",
+    "owner": "Yoichi Asakawa",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_parentalGuidance.png/revision/latest/scale-to-width-down/96?cb=20220216120019"
+  },
+  {
+    "id": "phantom_fear",
+    "name": "Phantom Fear",
+    "owner": "The Animatronic",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_phantomFear.png/revision/latest/scale-to-width-down/96?cb=20250528034546"
+  },
+  {
+    "id": "pharmacy",
+    "name": "Pharmacy",
+    "owner": "Quentin Smith",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_pharmacy.png/revision/latest/scale-to-width-down/96?cb=20171026230450"
+  },
+  {
+    "id": "play_with_your_food",
+    "name": "Play With Your Food",
+    "owner": "The Shape",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_playWithYourFood.png/revision/latest/scale-to-width-down/96?cb=20161023113758"
+  },
+  {
+    "id": "plot_twist",
+    "name": "Plot Twist",
+    "owner": "Nicolas Cage",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_plotTwist.png/revision/latest/scale-to-width-down/96?cb=20230705160003"
+  },
+  {
+    "id": "plunderers_instinct",
+    "name": "Plunderer's Instinct",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/IconPerks_plunderersInstinct.png/revision/latest/scale-to-width-down/96?cb=20160605205031"
+  },
+  {
+    "id": "poised",
+    "name": "Poised",
+    "owner": "Jane Romero",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_poised.png/revision/latest/scale-to-width-down/96?cb=20190308175429"
+  },
+  {
+    "id": "pop_goes_the_weasel",
+    "name": "Pop Goes the Weasel",
+    "owner": "The Clown",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_popGoesTheWeasel.png/revision/latest/scale-to-width-down/96?cb=20180529205138"
+  },
+  {
+    "id": "potential_energy",
+    "name": "Potential Energy",
+    "owner": "Vittorio Toscano",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_potentialEnergy.png/revision/latest/scale-to-width-down/96?cb=20221102143127"
+  },
+  {
+    "id": "power_struggle",
+    "name": "Power Struggle",
+    "owner": "Elodie Rakoto",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/IconPerks_powerStruggle.png/revision/latest/scale-to-width-down/96?cb=20201112095050"
+  },
+  {
+    "id": "predator",
+    "name": "Predator",
+    "owner": "The Wraith",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/IconPerks_predator.png/revision/latest/scale-to-width-down/96?cb=20160605205037"
+  },
+  {
+    "id": "premonition",
+    "name": "Premonition",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/IconPerks_premonition.png/revision/latest/scale-to-width-down/96?cb=20160605205043"
+  },
+  {
+    "id": "prove_thyself",
+    "name": "Prove Thyself",
+    "owner": "Dwight Fairfield",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_proveThyself.png/revision/latest/scale-to-width-down/96?cb=20160605205049"
+  },
+  {
+    "id": "quick_and_quiet",
+    "name": "Quick & Quiet",
+    "owner": "Meg Thomas",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_quickAndQuiet.png/revision/latest/scale-to-width-down/96?cb=20160605205055"
+  },
+  {
+    "id": "quick_gambit",
+    "name": "Quick Gambit",
+    "owner": "Vittorio Toscano",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_quickGambit.png/revision/latest/scale-to-width-down/96?cb=20221102143123"
+  },
+  {
+    "id": "rampage",
+    "name": "Rampage",
+    "owner": "The Slasher",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_Rampage.png?8e42eb"
+  },
+  {
+    "id": "rancor",
+    "name": "Rancor",
+    "owner": "The Spirit",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_rancor.png/revision/latest/scale-to-width-down/96?cb=20180828172949"
+  },
+  {
+    "id": "rapid_brutality",
+    "name": "Rapid Brutality",
+    "owner": "The Xenomorph",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/IconPerks_rapidBrutality.png/revision/latest/scale-to-width-down/96?cb=20230808160213"
+  },
+  {
+    "id": "rapid_response",
+    "name": "Rapid Response",
+    "owner": "Orela Rose",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_RapidResponse.png?25c13f"
+  },
+  {
+    "id": "ravenous",
+    "name": "Ravenous",
+    "owner": "The Krasue",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_Ravenous.png?c9c858"
+  },
+  {
+    "id": "reactive_healing",
+    "name": "Reactive Healing",
+    "owner": "Ada Wong",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_reactiveHealing.png/revision/latest/scale-to-width-down/96?cb=20220815051757"
+  },
+  {
+    "id": "reassurance",
+    "name": "Reassurance",
+    "owner": "Rebecca Chambers",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/IconPerks_reassurance.png/revision/latest/scale-to-width-down/96?cb=20220815051841"
+  },
+  {
+    "id": "red_herring",
+    "name": "Red Herring",
+    "owner": "Zarina Kassir",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_redHerring.png/revision/latest/scale-to-width-down/96?cb=20200218172728"
+  },
+  {
+    "id": "remember_me",
+    "name": "Remember Me",
+    "owner": "The Nightmare",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_rememberMe.png/revision/latest/scale-to-width-down/96?cb=20171026225659"
+  },
+  {
+    "id": "repressed_alliance",
+    "name": "Repressed Alliance",
+    "owner": "Cheryl Mason",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_repressedAlliance.png/revision/latest/scale-to-width-down/96?cb=20200526201745"
+  },
+  {
+    "id": "residual_manifest",
+    "name": "Residual Manifest",
+    "owner": "Haddie Kaur",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_residualManifest.png/revision/latest/scale-to-width-down/96?cb=20220518112819"
+  },
+  {
+    "id": "resilience",
+    "name": "Resilience",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_resilience.png/revision/latest/scale-to-width-down/96?cb=20160605205100"
+  },
+  {
+    "id": "resurgence",
+    "name": "Resurgence",
+    "owner": "Jill Valentine",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/IconPerks_resurgence.png/revision/latest/scale-to-width-down/96?cb=20210526103300"
+  },
+  {
+    "id": "road_life",
+    "name": "Road Life",
+    "owner": "Vee Boonyasak",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_RoadLife.png?e0ae39"
+  },
+  {
+    "id": "rookie_spirit",
+    "name": "Rookie Spirit",
+    "owner": "Leon S. Kennedy",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/IconPerks_rookieSpirit.png/revision/latest/scale-to-width-down/96?cb=20210526103548"
+  },
+  {
+    "id": "saboteur",
+    "name": "Saboteur",
+    "owner": "Jake Park",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/IconPerks_saboteur.png/revision/latest/scale-to-width-down/96?cb=20200220105714"
+  },
+  {
+    "id": "salvations_cry",
+    "name": "Salvation's Cry",
+    "owner": "Aurora Stardotter",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_SalvationsCry.png?697de7"
+  },
+  {
+    "id": "save_the_best_for_last",
+    "name": "Save the best for last",
+    "owner": "The Shape",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_saveTheBestForLast.png/revision/latest/scale-to-width-down/96?cb=20161023113950"
+  },
+  {
+    "id": "scavenger",
+    "name": "Scavenger",
+    "owner": "Gabriel Soma",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_scavenger.png/revision/latest/scale-to-width-down/96?cb=20230524205539"
+  },
+  {
+    "id": "scene_partner",
+    "name": "Scene Partner",
+    "owner": "Nicolas Cage",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/IconPerks_scenePartner.png/revision/latest/scale-to-width-down/96?cb=20230705160003"
+  },
+  {
+    "id": "scourge_hook_floods_of_rage",
+    "name": "Scourge Hook: Floods of Rage",
+    "owner": "The Onryō",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_scourgeHookFloodsOfRage.png/revision/latest/scale-to-width-down/96?cb=20220216120003"
+  },
+  {
+    "id": "scourge_hook_gift_of_pain",
+    "name": "Scourge Hook: Gift of Pain",
+    "owner": "The Cenobite",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_scourgeHookGiftOfPain.png?7199eb"
+  },
+  {
+    "id": "scourge_hook_hangmans_trick",
+    "name": "Scourge Hook: Hangman's Trick",
+    "owner": "The Pig",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_scourgeHookHangmansTrick.png/revision/latest/scale-to-width-down/96?cb=20180123224254"
+  },
+  {
+    "id": "scourge_hook_jagged_compass",
+    "name": "Scourge Hook: Jagged Compass",
+    "owner": "The Houndmaster",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/IconPerks_scourgeHookJaggedCompass.png/revision/latest/scale-to-width-down/96?cb=20241107202154"
+  },
+  {
+    "id": "scourge_hook_monstrous_shrine",
+    "name": "Scourge Hook: Monstrous Shrine",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_scourgeHookMonstrousShrine.png/revision/latest/scale-to-width-down/96?cb=20160605205014"
+  },
+  {
+    "id": "scourge_hook_pain_resonance",
+    "name": "Scourge Hook: Pain Resonance",
+    "owner": "The Artist",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_scourgeHookPainResonance.png/revision/latest/scale-to-width-down/96?cb=20211109180802"
+  },
+  {
+    "id": "second_wind",
+    "name": "Second Wind",
+    "owner": "Steve Harrington",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_secondWind.png/revision/latest/scale-to-width-down/96?cb=20190903175238"
+  },
+  {
+    "id": "secret_project",
+    "name": "Secret Project",
+    "owner": "The First",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_SecretProject.png?139f37"
+  },
+  {
+    "id": "self_care",
+    "name": "Self-Care",
+    "owner": "Claudette Morel",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_self-Care.png/revision/latest/scale-to-width-down/96?cb=20160605205112"
+  },
+  {
+    "id": "self_preservation",
+    "name": "Self-Preservation",
+    "owner": "Lee Yun-Jin",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/IconPerks_self-Preservation.png/revision/latest/scale-to-width-down/96?cb=20210302172351"
+  },
+  {
+    "id": "septic_touch",
+    "name": "Septic Touch",
+    "owner": "The Dredge",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconPerks_septicTouch.png/revision/latest/scale-to-width-down/96?cb=20220518112819"
+  },
+  {
+    "id": "shadowborn",
+    "name": "Shadowborn",
+    "owner": "The Wraith",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_shadowborn.png/revision/latest/scale-to-width-down/96?cb=20160605205118"
+  },
+  {
+    "id": "shattered_hope",
+    "name": "Shattered Hope",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_shatteredHope.png/revision/latest/scale-to-width-down/96?cb=20220518112819"
+  },
+  {
+    "id": "shoulder_the_burden",
+    "name": "Shoulder the Burden",
+    "owner": "Taurie Cain",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/IconPerks_shoulderTheBurden.png/revision/latest/scale-to-width-down/96?cb=20241107202157"
+  },
+  {
+    "id": "silent_shadow",
+    "name": "Silent Shadow",
+    "owner": "The Slasher",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_SilentShadow.png?bbf33d"
+  },
+  {
+    "id": "slippery_meat",
+    "name": "Slippery Meat",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/IconPerks_slipperyMeat.png/revision/latest/scale-to-width-down/96?cb=20201105152240"
+  },
+  {
+    "id": "sloppy_butcher",
+    "name": "Sloppy Butcher",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_sloppyButcher.png/revision/latest/scale-to-width-down/96?cb=20160605205130"
+  },
+  {
+    "id": "small_game",
+    "name": "Small Game",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/IconPerks_smallGame.png/revision/latest/scale-to-width-down/96?cb=20210414100522"
+  },
+  {
+    "id": "smash_hit",
+    "name": "Smash Hit",
+    "owner": "Lee Yun-Jin",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_smashHit.png/revision/latest/scale-to-width-down/96?cb=20210302172407"
+  },
+  {
+    "id": "sole_survivor",
+    "name": "Sole Survivor",
+    "owner": "Laurie Strode",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/IconPerks_soleSurvivor.png/revision/latest/scale-to-width-down/96?cb=20161023113045"
+  },
+  {
+    "id": "solidarity",
+    "name": "Solidarity",
+    "owner": "Jane Romero",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_solidarity.png/revision/latest/scale-to-width-down/96?cb=20190308175435"
+  },
+  {
+    "id": "soul_guard",
+    "name": "Soul Guard",
+    "owner": "Cheryl Mason",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_soulGuard.png/revision/latest/scale-to-width-down/96?cb=20200526201807"
+  },
+  {
+    "id": "specialist",
+    "name": "Specialist",
+    "owner": "Lara Croft",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_specialist.png/revision/latest/scale-to-width-down/96?cb=20240625161548"
+  },
+  {
+    "id": "spies_from_the_shadows",
+    "name": "Spies from the Shadows",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_spiesFromTheShadows.png/revision/latest/scale-to-width-down/96?cb=20160605205141"
+  },
+  {
+    "id": "spine_chill",
+    "name": "Spine Chill",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_spineChill.png/revision/latest/scale-to-width-down/96?cb=20160605205147"
+  },
+  {
+    "id": "spirit_fury",
+    "name": "Spirit Fury",
+    "owner": "The Spirit",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_spiritFury.png/revision/latest/scale-to-width-down/96?cb=20180828172940"
+  },
+  {
+    "id": "sprint_burst",
+    "name": "Sprint Burst",
+    "owner": "Meg Thomas",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e4/IconPerks_sprintBurst.png/revision/latest/scale-to-width-down/96?cb=20160605205153"
+  },
+  {
+    "id": "stake_out",
+    "name": "Stake Out",
+    "owner": "Detective Tapp",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/IconPerks_stakeOut.png/revision/latest/scale-to-width-down/96?cb=20180123224338"
+  },
+  {
+    "id": "starstruck",
+    "name": "Starstruck",
+    "owner": "The Trickster",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/IconPerks_starstruck.png/revision/latest/scale-to-width-down/96?cb=20210302172426"
+  },
+  {
+    "id": "still_sight",
+    "name": "Still Sight",
+    "owner": "Aestri Yazar",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/IconPerks_stillSight.png/revision/latest/scale-to-width-down/96?cb=20240514174204"
+  },
+  {
+    "id": "strength_in_shadows",
+    "name": "Strength in Shadows",
+    "owner": "Sable Ward",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/IconPerks_strengthInShadows.png/revision/latest/scale-to-width-down/96?cb=20240220182529"
+  },
+  {
+    "id": "stridor",
+    "name": "Stridor",
+    "owner": "The Nurse",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/IconPerks_stridor.png/revision/latest/scale-to-width-down/96?cb=20160820085653"
+  },
+  {
+    "id": "streetwise",
+    "name": "Streetwise",
+    "owner": "Nea Karlsson",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_streetwise.png/revision/latest/scale-to-width-down/96?cb=20160821134155"
+  },
+  {
+    "id": "superior_anatomy",
+    "name": "Superior Anatomy",
+    "owner": "The Mastermind",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/IconPerks_superiorAnatomy.png/revision/latest/scale-to-width-down/96?cb=20220815051818"
+  },
+  {
+    "id": "surge",
+    "name": "Surge",
+    "owner": "The Demogorgon",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_surge.png/revision/latest/scale-to-width-down/96?cb=20190903175259"
+  },
+  {
+    "id": "surveillance",
+    "name": "Surveillance",
+    "owner": "The Pig",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_surveillance.png/revision/latest/scale-to-width-down/96?cb=20180123224351"
+  },
+  {
+    "id": "teamwork_collective_stealth",
+    "name": "Teamwork: Collective Stealth",
+    "owner": "Renato Lyra",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_teamworkCollectiveStealth.png/revision/latest/scale-to-width-down/96?cb=20230218135318"
+  },
+  {
+    "id": "teamwork_full_circuit",
+    "name": "Teamwork: Full Circuit",
+    "owner": "Dustin Henderson",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_TeamworkFullCircuit.png?33a898"
+  },
+  {
+    "id": "teamwork_power_of_two",
+    "name": "Teamwork: Power of Two",
+    "owner": "Thalita Lyra",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_teamworkPowerOfTwo.png/revision/latest/scale-to-width-down/96?cb=20230218135319"
+  },
+  {
+    "id": "teamwork_soft_spoken",
+    "name": "Teamwork: Soft-Spoken",
+    "owner": "Eleven",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_TeamworkSoftSpoken.png?67d34c"
+  },
+  {
+    "id": "teamwork_throw_down",
+    "name": "Teamwork: Throw Down",
+    "owner": "Michonne Grimes",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_teamworkThrowDown.png?69a5fd"
+  },
+  {
+    "id": "teamwork_toughen_up",
+    "name": "Teamwork: Toughen Up",
+    "owner": "Rick Grimes",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_teamworkToughenUp.png?f0b7f2"
+  },
+  {
+    "id": "technician",
+    "name": "Technician",
+    "owner": "Feng Min",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_technician.png/revision/latest/scale-to-width-down/96?cb=20170511153221"
+  },
+  {
+    "id": "tenacity",
+    "name": "Tenacity",
+    "owner": "Detective Tapp",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/IconPerks_tenacity.png/revision/latest/scale-to-width-down/96?cb=20180123224404"
+  },
+  {
+    "id": "terminus",
+    "name": "Terminus",
+    "owner": "The Mastermind",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_terminus.png/revision/latest/scale-to-width-down/96?cb=20220815051853"
+  },
+  {
+    "id": "territorial_imperative",
+    "name": "Territorial Imperative",
+    "owner": "The Huntress",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/IconPerks_territorialImperative.png/revision/latest/scale-to-width-down/96?cb=20170727160846"
+  },
+  {
+    "id": "thanatophobia",
+    "name": "Thanatophobia",
+    "owner": "The Nurse",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_thanatophobia.png/revision/latest/scale-to-width-down/96?cb=20160820090639"
+  },
+  {
+    "id": "this_is_not_happening",
+    "name": "This Is Not Happening",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_thisIsNotHappening.png/revision/latest/scale-to-width-down/96?cb=20160605205158"
+  },
+  {
+    "id": "thrilling_tremors",
+    "name": "Thrilling Tremors",
+    "owner": "The Ghost Face",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_thrillingTremors.png/revision/latest/scale-to-width-down/96?cb=20190606094359"
+  },
+  {
+    "id": "thwack",
+    "name": "THWACK!",
+    "owner": "The Skull Merchant",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_thwack.png/revision/latest/scale-to-width-down/96?cb=20230218135321"
+  },
+  {
+    "id": "tinkerer",
+    "name": "Tinkerer",
+    "owner": "The Hillbilly",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/IconPerks_tinkerer.png/revision/latest/scale-to-width-down/96?cb=20160605205204"
+  },
+  {
+    "id": "trail_of_torment",
+    "name": "Trail of Torment",
+    "owner": "The Executioner",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_trailOfTorment.png/revision/latest/scale-to-width-down/96?cb=20200526201821"
+  },
+  {
+    "id": "troubleshooter",
+    "name": "Troubleshooter",
+    "owner": "Gabriel Soma",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_troubleshooter.png/revision/latest/scale-to-width-down/96?cb=20230524205359"
+  },
+  {
+    "id": "turn_back_the_clock",
+    "name": "Turn Back The Clock",
+    "owner": "The First",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_TurnBackTheClock.png?17d1df"
+  },
+  {
+    "id": "ultimate_weapon",
+    "name": "Ultimate Weapon",
+    "owner": "The Xenomorph",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/IconPerks_ultimateWeapon.png/revision/latest/scale-to-width-down/96?cb=20230808160213"
+  },
+  {
+    "id": "unbound",
+    "name": "Unbound",
+    "owner": "The Unknown",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_unbound.png/revision/latest/scale-to-width-down/96?cb=20240220182527"
+  },
+  {
+    "id": "unbreakable",
+    "name": "Unbreakable",
+    "owner": "William \"Bill\" Overbeck",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/IconPerks_unbreakable.png/revision/latest/scale-to-width-down/96?cb=20170308184922"
+  },
+  {
+    "id": "undone",
+    "name": "Undone",
+    "owner": "The Unknown",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/IconPerks_undone.png/revision/latest/scale-to-width-down/96?cb=20240220182527"
+  },
+  {
+    "id": "unforeseen",
+    "name": "Unforeseen",
+    "owner": "The Unknown",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/IconPerks_unforeseen.png/revision/latest/scale-to-width-down/96?cb=20240220182528"
+  },
+  {
+    "id": "unnerving_presence",
+    "name": "Unnerving Presence",
+    "owner": "The Trapper",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/IconPerks_unnervingPresence.png/revision/latest/scale-to-width-down/96?cb=20160605205217"
+  },
+  {
+    "id": "unrelenting",
+    "name": "Unrelenting",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_unrelenting.png/revision/latest/scale-to-width-down/96?cb=20160605205223"
+  },
+  {
+    "id": "up_the_ante",
+    "name": "Up the Ante",
+    "owner": "Ace Visconti",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_upTheAnte.png/revision/latest/scale-to-width-down/96?cb=20161210091356"
+  },
+  {
+    "id": "urban_evasion",
+    "name": "Urban Evasion",
+    "owner": "Nea Karlsson",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_urbanEvasion.png/revision/latest/scale-to-width-down/96?cb=20160821134257"
+  },
+  {
+    "id": "vigil",
+    "name": "Vigil",
+    "owner": "Quentin Smith",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_vigil.png/revision/latest/scale-to-width-down/96?cb=20171026230511"
+  },
+  {
+    "id": "visionary",
+    "name": "Visionary",
+    "owner": "Felix Richter",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_visionary.png/revision/latest/scale-to-width-down/96?cb=20200819113857"
+  },
+  {
+    "id": "wake_up",
+    "name": "Wake Up!",
+    "owner": "Quentin Smith",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_wakeUp.png/revision/latest/scale-to-width-down/96?cb=20171026230520"
+  },
+  {
+    "id": "wandering_eye",
+    "name": "Wandering Eye",
+    "owner": "The Krasue",
+    "role": "killer",
+    "image": "https://deadbydaylight.wiki.gg/images/IconPerks_WanderingEye.png?80a47c"
+  },
+  {
+    "id": "we_see_you",
+    "name": "We See You",
+    "owner": "Eleven",
+    "role": "survivor",
+    "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_WeSeeYou.png?f6308b"
+  },
+  {
+    "id": "well_make_it",
+    "name": "We'll make it",
+    "owner": "Survivor",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/IconPerks_wellMakeIt.png/revision/latest/scale-to-width-down/96?cb=20160605205228"
+  },
+  {
+    "id": "were_gonna_live_forever",
+    "name": "We're Gonna Live Forever",
+    "owner": "David King",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_wereGonnaLiveForever.png/revision/latest/scale-to-width-down/96?cb=20170727160948"
+  },
+  {
+    "id": "weave_attunement",
+    "name": "Weave Attunement",
+    "owner": "The Lich",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/IconPerks_weaveAttunement.png/revision/latest/scale-to-width-down/96?cb=20240514174206"
+  },
+  {
+    "id": "whispers",
+    "name": "Whispers",
+    "owner": "Killer",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_whispers.png/revision/latest/scale-to-width-down/96?cb=20160605205234"
+  },
+  {
+    "id": "wicked",
+    "name": "Wicked",
+    "owner": "Sable Ward",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/IconPerks_wicked.png/revision/latest/scale-to-width-down/96?cb=20240220182530"
+  },
+  {
+    "id": "wide_open_throttle",
+    "name": "Wide Open Throttle",
+    "owner": "Shane Wiigwaas",
+    "role": "survivor",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dead-by-daylight/4/44/WideOpenThrottle.png?width=150&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "id": "windows_of_opportunity",
+    "name": "Windows of Opportunity",
+    "owner": "Kate Denson",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_windowsOfOpportunity.png/revision/latest/scale-to-width-down/96?cb=20180529195008"
+  },
+  {
+    "id": "wiretap",
+    "name": "Wiretap",
+    "owner": "Ada Wong",
+    "role": "survivor",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_wiretap.png/revision/latest/scale-to-width-down/96?cb=20220815051906"
+  },
+  {
+    "id": "zanshin_tactics",
+    "name": "Zanshin Tactics",
+    "owner": "The Oni",
+    "role": "killer",
+    "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d3/IconPerks_zanshinTactics.png/revision/latest/scale-to-width-down/96?cb=20191126213608"
+  }
+]

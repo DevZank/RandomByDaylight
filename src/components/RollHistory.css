@@ -1,0 +1,320 @@
+.roll-history {
+  width: 100%;
+  animation: fadeUp 0.4s ease both;
+  animation-delay: 0.1s;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 20px;
+  padding: 24px 28px;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+}
+
+/* ── Header ──────────────────────────────────────────────────────────────── */
+.roll-history__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--card-border);
+}
+
+.roll-history__title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: 0.08em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.roll-history__title-icon {
+  font-size: 1.2rem;
+}
+
+.roll-history__count {
+  background: rgba(201, 168, 76, 0.15);
+  border: 1px solid rgba(201, 168, 76, 0.35);
+  border-radius: 99px;
+  padding: 2px 10px;
+  font-size: 0.78rem;
+  color: var(--accent-gold);
+  font-family: 'Inter', sans-serif;
+}
+
+.roll-history__clear-btn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 4px 10px;
+  border-radius: 6px;
+  transition: all 0.18s ease;
+}
+
+.roll-history__clear-btn:hover {
+  color: #c0392b;
+  background: rgba(192, 57, 43, 0.12);
+}
+
+/* ── Empty State ─────────────────────────────────────────────────────────── */
+.roll-history__empty {
+  padding: 48px 24px;
+  border-radius: 14px;
+  border: 1px dashed var(--card-border);
+  background: var(--bg-primary);
+  text-align: center;
+  color: var(--text-secondary);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 1rem;
+  font-family: 'Cinzel', serif;
+  flex: 1;
+}
+
+.roll-history__empty-hint {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  font-family: 'Inter', sans-serif;
+}
+
+/* ── List ────────────────────────────────────────────────────────────────── */
+.roll-history__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+
+/* ── Item ────────────────────────────────────────────────────────────────── */
+.roll-history__item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 16px;
+  border-radius: 14px;
+  border: 1px solid var(--card-border);
+  background: var(--bg-primary);
+  animation: fadeUp 0.3s ease both;
+  transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+}
+
+.roll-history__item:hover {
+  background: rgba(255, 255, 255, 0.08);
+  transform: translateX(4px);
+}
+
+.roll-history__item--killer:hover {
+  border-color: rgba(192, 57, 43, 0.4);
+}
+
+.roll-history__item--survivor:hover {
+  border-color: rgba(41, 128, 185, 0.4);
+}
+
+/* ── Avatar (Square portrait box matching DBD frame) ─────────────────────── */
+.roll-history__avatar {
+  position: relative;
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  border-radius: 0;
+  border: none;
+  overflow: hidden;
+}
+
+.roll-history__avatar-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  object-fit: cover;
+  object-position: center;
+  transform: scale(1.25);
+  border: none;
+  background: transparent;
+}
+
+.roll-history__avatar-placeholder {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  border: none;
+  background: transparent;
+}
+
+.roll-history__avatar-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Cinzel', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.roll-history__role-badge {
+  position: absolute;
+  bottom: -4px;
+  right: -5px;
+  background: var(--card-bg);
+  border-radius: 6px;
+  padding: 2px 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--card-border);
+}
+
+.history-badge-icon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+}
+
+/* ── Info ────────────────────────────────────────────────────────────────── */
+.roll-history__info {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.roll-history__name-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.roll-history__char-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.roll-history__time {
+  font-size: 0.75rem;
+  color: #7a6f65;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* ── Perk mini-icons ─────────────────────────────────────────────────────── */
+.roll-history__perks {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.roll-history__perk-icon {
+  width: 26px;
+  height: 26px;
+  border-radius: 5px;
+  object-fit: contain;
+  opacity: 0.85;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  border: none;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.roll-history__perk-icon:hover {
+  opacity: 1;
+  transform: scale(1.15);
+}
+
+.roll-history__perk-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+/* ── Expand button with Arrow & Dots ──────────────────────────────────────── */
+.roll-history__expand-btn {
+  width: 100%;
+  margin-top: 10px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  color: #8a7f74;
+  font-size: 0.75rem;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.roll-history__arrow-indicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1;
+}
+
+.roll-history__arrow-indicator .arrow-down {
+  font-size: 1rem;
+  color: #c9a84c;
+  animation: bounce 1.5s infinite;
+}
+
+.roll-history__arrow-indicator .dots {
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: #6a5f54;
+}
+
+.roll-history__expand-btn:hover {
+  color: #c9b99a;
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(201, 168, 76, 0.3);
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(3px); }
+}
+
+@media (max-width: 480px) {
+  .roll-history {
+    padding: 16px;
+  }
+  .roll-history__item {
+    gap: 10px;
+    padding: 10px 12px;
+  }
+  .roll-history__avatar {
+    width: 44px;
+    height: 44px;
+  }
+  .roll-history__char-name {
+    font-size: 0.85rem;
+  }
+  .roll-history__perk-icon {
+    width: 22px;
+    height: 22px;
+  }
+  .roll-history__perks {
+    gap: 4px;
+  }
+}

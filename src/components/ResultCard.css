@@ -1,0 +1,275 @@
+.result-card {
+  background: var(--card-bg);
+  border-radius: 20px;
+  padding: 28px;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 1px solid var(--card-border);
+  animation: cardReveal 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.15);
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+  box-sizing: border-box;
+}
+
+.result-card--killer {
+  border-top: 3px solid #c0392b;
+  box-shadow: 0 8px 40px rgba(192,57,43,0.2);
+}
+
+.result-card--survivor {
+  border-top: 3px solid #2980b9;
+  box-shadow: 0 8px 40px rgba(41,128,185,0.2);
+}
+
+@keyframes cardReveal {
+  from { opacity: 0; transform: translateY(30px) scale(0.96); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Header */
+.result-card__header {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 20px;
+}
+
+.result-card__avatar {
+  position: relative;
+  flex-shrink: 0;
+  width: 96px;
+  height: 96px;
+  border-radius: 0;
+  border: none;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+}
+
+.result-card__avatar-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  object-fit: cover;
+  object-position: center;
+  transform: scale(1.25);
+  border: none;
+}
+
+.result-card__avatar-placeholder {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  border: none;
+}
+
+.result-card__avatar-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #3a1a2e, #1a0a14);
+  font-size: 2rem;
+  font-weight: 700;
+  color: #c9b99a;
+  font-family: 'Cinzel', serif;
+}
+
+.result-card--killer .result-card__avatar-img,
+.result-card--killer .result-card__avatar-placeholder {
+  border-color: rgba(192,57,43,0.6);
+  box-shadow: 0 0 20px rgba(192,57,43,0.3);
+}
+
+.result-card--survivor .result-card__avatar-img,
+.result-card--survivor .result-card__avatar-placeholder {
+  border-color: rgba(41,128,185,0.6);
+  box-shadow: 0 0 20px rgba(41,128,185,0.3);
+}
+
+.result-card__role-badge {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: var(--card-bg);
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--card-border);
+}
+
+.role-badge-icon {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
+
+.result-card__char-info {
+  flex: 1;
+}
+
+.result-card__role-label {
+  margin: 0 0 4px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--text-secondary);
+}
+
+.result-card--killer .result-card__role-label { color: #c0392b; }
+.result-card--survivor .result-card__role-label { color: #2980b9; }
+
+.result-card__char-name {
+  margin: 0;
+  font-family: 'Cinzel', serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.2;
+}
+
+/* Divider */
+.result-card__divider {
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(255,255,255,0.1), transparent);
+  margin: 0 0 20px;
+}
+
+/* Sections */
+.result-card__section {
+  margin-bottom: 20px;
+}
+
+.result-card__section-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #7a6f65;
+  margin: 0 0 10px;
+}
+
+.result-card__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+/* Reroll button */
+.result-card__reroll-btn {
+  width: 100%;
+  margin-top: 8px;
+  padding: 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: #c9b99a;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: 'Cinzel', serif;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  letter-spacing: 0.05em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.reroll-btn-icon {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  opacity: 0.9;
+}
+
+.result-card__reroll-btn:hover {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.25);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.result-card__reroll-btn:active {
+  transform: translateY(0);
+}
+
+/* ── Compact variant (multi-result mode) ─────────────────────────────────── */
+.result-card--compact {
+  padding: 18px;
+}
+
+.result-card--compact .result-card__avatar-img,
+.result-card--compact .result-card__avatar-placeholder {
+  width: 60px;
+  height: 60px;
+  font-size: 1.3rem;
+}
+
+.result-card--compact .result-card__role-badge {
+  width: 22px;
+  height: 22px;
+  font-size: 0.72rem;
+}
+
+.result-card--compact .result-card__char-name {
+  font-size: 1.05rem;
+}
+
+.result-card--compact .result-card__header {
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.result-card--compact .result-card__section {
+  margin-bottom: 12px;
+}
+
+.result-card--compact .result-card__grid {
+  grid-template-columns: 1fr;
+  gap: 5px;
+}
+
+/* Individual reroll (compact mode) */
+.result-card__reroll-btn--individual {
+  font-size: 0.78rem;
+  padding: 9px;
+  margin-top: 4px;
+  opacity: 0.7;
+}
+
+.result-card__reroll-btn--individual:hover {
+  opacity: 1;
+}
+
+@media (max-width: 480px) {
+  .result-card {
+    padding: 20px 16px;
+  }
+  .result-card__avatar {
+    width: 76px;
+    height: 76px;
+  }
+  .result-card__char-name {
+    font-size: 1.2rem;
+  }
+  .result-card__header {
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .result-card__grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  .result-card__section {
+    margin-bottom: 24px;
+  }
+  .result-card__reroll-btn {
+    padding: 12px;
+    font-size: 0.85rem;
+  }
+}
