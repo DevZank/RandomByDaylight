@@ -1,6 +1,7 @@
 import React from 'react';
 import SmallCard from './SmallCard';
 import { bgKiller, bgSurvivor, killerIcon, survivorIcon } from '../utils/rarityConfig';
+import { translations } from '../utils/translations';
 import './ResultCard.css';
 
 /**
@@ -15,6 +16,7 @@ export default function ResultCard({ result, onReroll, compact = false, index = 
   const { role, character, perks, addons, item } = result;
   const isKiller = role === 'killer';
   const charBg = isKiller ? bgKiller : bgSurvivor;
+  const t = translations[language] || translations.pt;
 
   return (
     <div
@@ -47,8 +49,10 @@ export default function ResultCard({ result, onReroll, compact = false, index = 
           </div>
         </div>
         <div className="result-card__char-info">
-          <p className="result-card__role-label">{isKiller ? 'Killer' : 'Survivor'}</p>
-          <h2 className="result-card__char-name">{character.name}</h2>
+          <p className="result-card__role-label">{isKiller ? t.killer : t.survivor}</p>
+          <h2 className="result-card__char-name">
+            {language === 'es' && character.name_es ? character.name_es : (language === 'pt' && character.name_pt ? character.name_pt : character.name)}
+          </h2>
         </div>
       </div>
 
@@ -57,7 +61,7 @@ export default function ResultCard({ result, onReroll, compact = false, index = 
       {/* Item (Survivor only) */}
       {!isKiller && item && (
         <section className="result-card__section">
-          <h3 className="result-card__section-title">Item</h3>
+          <h3 className="result-card__section-title">{t.itemTitle || 'ITEM'}</h3>
           <SmallCard item={item} showType language={language} />
         </section>
       )}
@@ -66,7 +70,7 @@ export default function ResultCard({ result, onReroll, compact = false, index = 
       {addons && addons.length > 0 && (
         <section className="result-card__section">
           <h3 className="result-card__section-title">
-            Add-ons
+            {t.addons || 'ADD-ONS'}
           </h3>
           <div className="result-card__grid">
             {addons.map((addon, i) => (
@@ -79,7 +83,7 @@ export default function ResultCard({ result, onReroll, compact = false, index = 
       {/* Perks */}
       {perks && perks.length > 0 && (
         <section className="result-card__section">
-          <h3 className="result-card__section-title">Perks</h3>
+          <h3 className="result-card__section-title">{t.perksTitle || 'PERKS'}</h3>
           <div className="result-card__grid">
             {perks.map((perk, i) => (
               <SmallCard key={i} item={perk} isPerk language={language} />
@@ -95,13 +99,13 @@ export default function ResultCard({ result, onReroll, compact = false, index = 
           onClick={onReroll}
           id={`btn-reroll-${index}`}
         >
-          <img src="https://img.icons8.com/?size=100&id=4U6yNPWMSZg5&format=png&color=FFFFFF" alt="Re-Roll" className="reroll-btn-icon" />
-          Re-Roll
+          <img src="https://img.icons8.com/?size=100&id=4U6yNPWMSZg5&format=png&color=FFFFFF" alt={t.reroll} className="reroll-btn-icon" />
+          {t.reroll}
         </button>
       ) : (
         <button className="result-card__reroll-btn" onClick={onReroll} id="btn-reroll">
-          <img src="https://img.icons8.com/?size=100&id=4U6yNPWMSZg5&format=png&color=FFFFFF" alt="Re-Roll" className="reroll-btn-icon" />
-          Re-Roll
+          <img src="https://img.icons8.com/?size=100&id=4U6yNPWMSZg5&format=png&color=FFFFFF" alt={t.reroll} className="reroll-btn-icon" />
+          {t.reroll}
         </button>
       )}
     </div>

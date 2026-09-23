@@ -1,8 +1,12 @@
 import React from 'react';
+import { useSettings } from '../context/SettingsContext';
+import { translations } from '../utils/translations';
 import { bgKiller, bgSurvivor } from '../utils/rarityConfig';
 import './CharacterSelector.css';
 
 export default function CharacterSelector({ role, characters, selectedChar, onSelect, onClose }) {
+  const { language } = useSettings();
+  const t = translations[language] || translations.pt;
   const isKiller = role === 'killer';
   const charBg = isKiller ? bgKiller : bgSurvivor;
 
@@ -12,13 +16,13 @@ export default function CharacterSelector({ role, characters, selectedChar, onSe
         <div className="char-modal__header">
           <div>
             <h2 className="char-selector__title">
-              Escolher {isKiller ? 'Assassino' : 'Sobrevivente'}
+              {isKiller ? t.chooseKiller : t.chooseSurvivor}
             </h2>
             <p className="char-selector__subtitle">
-              Selecione um personagem para fixar ou escolha <strong>Aleatório (?)</strong>
+              {t.selectToPin} <strong>{t.random} (?)</strong>
             </p>
           </div>
-          <button className="char-modal__close-btn" onClick={onClose} title="Fechar modal">✕</button>
+          <button className="char-modal__close-btn" onClick={onClose} title={t.closeModal}>✕</button>
         </div>
 
         <div className="char-selector__grid">
@@ -41,7 +45,7 @@ export default function CharacterSelector({ role, characters, selectedChar, onSe
             >
               <span style={{ fontSize: '2.2rem', fontWeight: 'bold', color: '#f0e6d3' }}>?</span>
             </div>
-            <span className="char-selector__name">Aleatório</span>
+            <span className="char-selector__name">{t.random}</span>
           </button>
 
           {/* List of Characters */}

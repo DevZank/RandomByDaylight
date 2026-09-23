@@ -4,6 +4,7 @@ import React, { createContext, useContext, useState, useRef, useCallback, useEff
 
 const LS_KEY = 'dbd-randomizer-settings';
 const LS_THEME_KEY = 'dbd-randomizer-theme';
+const LS_LANGUAGE_KEY = 'dbd-language';
 
 function loadFromStorage() {
   try {
@@ -28,6 +29,14 @@ function getInitialTheme() {
   return 'dark';
 }
 
+function getInitialLanguage() {
+  try {
+    const saved = localStorage.getItem(LS_LANGUAGE_KEY);
+    if (saved === 'en' || saved === 'pt' || saved === 'es') return saved;
+  } catch {}
+  return 'pt'; // default
+}
+
 // ── Context ───────────────────────────────────────────────────────────────────
 
 const SettingsContext = createContext(null);
@@ -39,6 +48,17 @@ export function SettingsProvider({ children }) {
   const [disabledSurvivors, setDisabledSurvivors] = useState(() => stored.disabledSurvivors ?? new Set());
   const [disabledPerks,     setDisabledPerks]     = useState(() => stored.disabledPerks     ?? new Set());
   const [theme,             setTheme]             = useState(getInitialTheme);
+  const [language,          setLanguage]          = useState(getInitialLanguage);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(LS_LANGUAGE_KEY, language);
+    } catch {}
+  }, [language]);
+
+  const toggleLanguage = useCallback(() => {
+    setLanguage(prev => (prev === 'en' ? 'pt' : prev === 'pt' ? 'es' : 'en'));
+  }, []);
 
   // Sync theme data attribute on html element
   useEffect(() => {
@@ -128,6 +148,9 @@ export function SettingsProvider({ children }) {
       disabledSurvivors,
       disabledPerks,
       theme,
+      language,
+      setLanguage,
+      toggleLanguage,
       toggleTheme,
       toggleKiller,
       toggleSurvivor,

@@ -13,6 +13,7 @@ import CharacterSelector from './components/CharacterSelector';
 import ResultCard from './components/ResultCard';
 import SettingsPanel from './components/SettingsPanel';
 import RollHistory from './components/RollHistory';
+import { translations } from './utils/translations';
 import './App.css';
 
 function AppInner() {
@@ -24,14 +25,10 @@ function AppInner() {
   const [settingsTab, setSettingsTab]           = useState('Killers');
   const [charModalRole, setCharModalRole]       = useState(null);   // null | 'killer' | 'survivor'
   const [hasInteracted, setHasInteracted]       = useState(false);
-  const [language, setLanguage]                 = useState(() => localStorage.getItem('dbd-language') || 'pt');
 
-  const { disabledKillers, disabledSurvivors, disabledPerks, theme, toggleTheme } = useSettings();
+  const { disabledKillers, disabledSurvivors, disabledPerks, theme, toggleTheme, language, toggleLanguage } = useSettings();
   const { history, addEntry, clearHistory } = useRollHistory();
-
-  useEffect(() => {
-    localStorage.setItem('dbd-language', language);
-  }, [language]);
+  const t = translations[language];
 
   const openSettings = (tab = 'Killers') => {
     setSettingsTab(tab);
@@ -114,18 +111,29 @@ function AppInner() {
           </div>
           <div className="app__header-actions">
             <button
-              className="lang-toggle-btn"
-              onClick={() => setLanguage(l => l === 'en' ? 'pt' : 'en')}
-              title={language === 'en' ? 'Mudar para Português' : 'Switch to English'}
+              className={`lang-toggle-btn lang-${language}`}
+              onClick={toggleLanguage}
+              title={t.switchLanguage}
               aria-label="Alternar Idioma"
             >
-              {language.toUpperCase()}
+              <div className="lang-toggle-thumb">
+                <img 
+                  src={language === 'en' 
+                    ? "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/3840px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" 
+                    : language === 'pt'
+                      ? "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/3840px-Flag_of_Brazil.svg.png"
+                      : "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+                  } 
+                  alt={language.toUpperCase()} 
+                  className="lang-flag-img" 
+                />
+              </div>
             </button>
             <button
               className="theme-toggle-btn"
               onClick={toggleTheme}
               id="btn-toggle-theme"
-              title={theme === 'dark' ? 'Mudar para Modo Claro' : 'Mudar para Modo Escuro'}
+              title={theme === 'dark' ? t.toggleThemeLight : t.toggleThemeDark}
               aria-label="Alternar Tema"
             >
               <img
@@ -141,7 +149,7 @@ function AppInner() {
               className="hamburger-menu-btn"
               onClick={() => openSettings('Killers')}
               id="btn-open-settings"
-              title="Abrir Menu de Configurações"
+              title={t.openSettings}
               aria-label="Menu"
             >
               <span className="hamburger-bar"></span>
@@ -165,7 +173,7 @@ function AppInner() {
                   className="selection-card__question-btn"
                   onClick={() => setCharModalRole('killer')}
                   id="btn-killer-char-picker"
-                  title="Escolher Assassino fixo ou Aleatório (?)"
+                  title={t.chooseKillerFix}
                 >
                   {selectedKiller ? (
                     <div
@@ -173,7 +181,7 @@ function AppInner() {
                       style={{ backgroundImage: `url(${bgKiller})` }}
                     >
                       <img src={selectedKiller.image} alt={selectedKiller.name} className="selection-card__portrait-img" />
-                      <span className="selection-card__badge" title={`Fixado: ${selectedKiller.name}`}>Fixo</span>
+                      <span className="selection-card__badge" title={`${t.pinned}: ${selectedKiller.name}`}>{t.pinned}</span>
                     </div>
                   ) : (
                     <div className="selection-card__square-portrait" style={{ backgroundImage: `url(${bgKiller})` }}>
@@ -194,13 +202,13 @@ function AppInner() {
                   id="btn-roll-killer"
                 >
                   <div className="selection-card__text-group">
-                    <span className="selection-card__label desktop-text">KILLER</span>
-                    <span className="selection-card__label mobile-text">SORTEAR KILLER</span>
+                    <span className="selection-card__label desktop-text">{t.killer}</span>
+                    <span className="selection-card__label mobile-text">{t.rollKillerMobile}</span>
                     <span className="selection-card__sublabel desktop-text">
-                      {selectedKiller ? `Fixado: ${selectedKiller.name}` : 'Randomizar assassino'}
+                      {selectedKiller ? `${t.pinned}: ${selectedKiller.name}` : t.rollKillerDesktop}
                     </span>
                     <span className="selection-card__sublabel mobile-text">
-                      {selectedKiller ? `Fixado: ${selectedKiller.name}` : 'Aleatório'}
+                      {selectedKiller ? `${t.pinned}: ${selectedKiller.name}` : t.random}
                     </span>
                   </div>
                 </button>
@@ -220,9 +228,9 @@ function AppInner() {
                 className="disable-btn disable-btn--killer"
                 onClick={() => openSettings('Killers')}
                 id="btn-disable-killers"
-                title="Desabilitar / Habilitar Killers e Perks"
+                title={t.disableKillers}
               >
-                Desabilitar Killers / Perks
+                {t.disableKillers}
               </button>
             </div>
 
@@ -234,7 +242,7 @@ function AppInner() {
                   className="selection-card__question-btn"
                   onClick={() => setCharModalRole('survivor')}
                   id="btn-survivor-char-picker"
-                  title="Escolher Sobrevivente fixo ou Aleatório (?)"
+                  title={t.chooseSurvivorFix}
                 >
                   {selectedSurvivor ? (
                     <div
@@ -242,7 +250,7 @@ function AppInner() {
                       style={{ backgroundImage: `url(${bgSurvivor})` }}
                     >
                       <img src={selectedSurvivor.image} alt={selectedSurvivor.name} className="selection-card__portrait-img" />
-                      <span className="selection-card__badge" title={`Fixado: ${selectedSurvivor.name}`}>Fixo</span>
+                      <span className="selection-card__badge" title={`${t.pinned}: ${selectedSurvivor.name}`}>{t.pinned}</span>
                     </div>
                   ) : (
                     <div className="selection-card__square-portrait" style={{ backgroundImage: `url(${bgSurvivor})` }}>
@@ -263,13 +271,13 @@ function AppInner() {
                   id="btn-roll-survivor"
                 >
                   <div className="selection-card__text-group">
-                    <span className="selection-card__label desktop-text">SURVIVOR</span>
-                    <span className="selection-card__label mobile-text">SORTEAR SURV</span>
+                    <span className="selection-card__label desktop-text">{t.survivor}</span>
+                    <span className="selection-card__label mobile-text">{t.rollSurvivorMobile}</span>
                     <span className="selection-card__sublabel desktop-text">
-                      {selectedSurvivor ? `Fixado: ${selectedSurvivor.name}` : 'Randomizar sobrevivente'}
+                      {selectedSurvivor ? `${t.pinned}: ${selectedSurvivor.name}` : t.rollSurvivorDesktop}
                     </span>
                     <span className="selection-card__sublabel mobile-text">
-                      {selectedSurvivor ? `Fixado: ${selectedSurvivor.name}` : 'Aleatório'}
+                      {selectedSurvivor ? `${t.pinned}: ${selectedSurvivor.name}` : t.random}
                     </span>
                   </div>
                 </button>
@@ -289,9 +297,9 @@ function AppInner() {
                 className="disable-btn disable-btn--survivor"
                 onClick={() => openSettings('Survivors')}
                 id="btn-disable-survivors"
-                title="Desabilitar / Habilitar Sobreviventes e Perks"
+                title={t.disableSurvivors}
               >
-                Desabilitar Survivors / Perks
+                {t.disableSurvivors}
               </button>
             </div>
 

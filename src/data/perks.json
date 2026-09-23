@@ -5,7 +5,8 @@
     "owner": "The Nurse",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_aNursesCalling.png/revision/latest/scale-to-width-down/96?cb=20160820090103",
-    "name_pt": "O Chamado de uma Enfermeira"
+    "name_pt": "O Chamado de uma Enfermeira",
+    "name_es": "La llamada de una enfermera"
   },
   {
     "id": "a_place_for_us",
@@ -13,7 +14,8 @@
     "owner": "Kwon Tae-young",
     "role": "survivor",
     "image": "https://deadbydaylight.com/static/293956522b46b1505f4446731d448b48/388f3/T_UI_icons_Perks_a_Place_For_Us_8d05f3444e.png",
-    "name_pt": "Um lugar para nós"
+    "name_pt": "Um lugar para nós",
+    "name_es": "Un lugar para nosotros"
   },
   {
     "id": "ace_in_the_hole",
@@ -21,7 +23,8 @@
     "owner": "Ace Visconti",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/IconPerks_aceInTheHole.png/revision/latest/scale-to-width-down/96?cb=20161208214510",
-    "name_pt": "Ás no Buraco"
+    "name_pt": "Ás no Buraco",
+    "name_es": "As en la manga"
   },
   {
     "id": "adrenaline",
@@ -29,7 +32,8 @@
     "owner": "Meg Thomas",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_adrenaline.png/revision/latest/scale-to-width-down/96?cb=20160605204801",
-    "name_pt": "Adrenalina"
+    "name_pt": "Adrenalina",
+    "name_es": "Adrenalina"
   },
   {
     "id": "aftercare",
@@ -37,7 +41,8 @@
     "owner": "Jeff Johansen",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_aftercare.png/revision/latest/scale-to-width-down/96?cb=20181128100931",
-    "name_pt": "Cuidados posteriores"
+    "name_pt": "Cuidados posteriores",
+    "name_es": "Cuidado por los convalecientes"
   },
   {
     "id": "agitation",
@@ -45,7 +50,8 @@
     "owner": "The Trapper",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_agitation.png/revision/latest/scale-to-width-down/96?cb=20160605204807",
-    "name_pt": "Agitação"
+    "name_pt": "Agitação",
+    "name_es": "Agitación"
   },
   {
     "id": "alert",
@@ -53,7 +59,8 @@
     "owner": "Feng Min",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/71/IconPerks_alert.png/revision/latest/scale-to-width-down/96?cb=20170511153335",
-    "name_pt": "Alerta"
+    "name_pt": "Alerta",
+    "name_es": "Alerta"
   },
   {
     "id": "alien_instinct",
@@ -61,7 +68,8 @@
     "owner": "The Xenomorph",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/34/IconPerks_alienInstinct.png/revision/latest/scale-to-width-down/96?cb=20230808160213",
-    "name_pt": "Instinto Alienígena"
+    "name_pt": "Instinto Alienígena",
+    "name_es": "Instinto alienígena"
   },
   {
     "id": "all_shaking_thunder",
@@ -69,7 +77,8 @@
     "owner": "The Houndmaster",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_allShakingThunder.png/revision/latest/scale-to-width-down/96?cb=20241107202158",
-    "name_pt": "Trovão Abalador"
+    "name_pt": "Trovão Abalador",
+    "name_es": "Trueno que todo lo sacude"
   },
   {
     "id": "any_means_necessary",
@@ -77,7 +86,8 @@
     "owner": "Yui Kimura",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_anyMeansNecessary.png/revision/latest/scale-to-width-down/96?cb=20191126213542",
-    "name_pt": "Qualquer meio necessário"
+    "name_pt": "Qualquer meio necessário",
+    "name_es": "Cualquier medio necesario"
   },
   {
     "id": "apocalyptic_ingenuity",
@@ -85,7 +95,8 @@
     "owner": "Rick Grimes",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_apocalypticIngenuity.png?271ffd",
-    "name_pt": "Engenhosidade Apocalíptica"
+    "name_pt": "Engenhosidade Apocalíptica",
+    "name_es": "Ingenio apocalíptico"
   },
   {
     "id": "appraisal",
@@ -93,7 +104,8 @@
     "owner": "Elodie Rakoto",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/IconPerks_appraisal.png/revision/latest/scale-to-width-down/96?cb=20201112095004",
-    "name_pt": "Avaliação"
+    "name_pt": "Avaliação",
+    "name_es": "Evaluación"
   },
   {
     "id": "autodidact",
@@ -101,7 +113,8 @@
     "owner": "Adam Francis",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/IconPerks_autodidact.png/revision/latest/scale-to-width-down/96?cb=20180828173011",
-    "name_pt": "Autodidata"
+    "name_pt": "Autodidata",
+    "name_es": "Autodidacta"
   },
   {
     "id": "awakened_awareness",
@@ -109,7 +122,8 @@
     "owner": "The Mastermind",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_awakenedAwareness.png/revision/latest/scale-to-width-down/96?cb=20220815051648",
-    "name_pt": "Consciência Desperta"
+    "name_pt": "Consciência Desperta",
+    "name_es": "Conciencia despierta"
   },
   {
     "id": "babysitter",
@@ -117,7 +131,8 @@
     "owner": "Steve Harrington",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_babysitter.png/revision/latest/scale-to-width-down/96?cb=20190903174955",
-    "name_pt": "Babá"
+    "name_pt": "Babá",
+    "name_es": "Niñera"
   },
   {
     "id": "background_player",
@@ -125,7 +140,8 @@
     "owner": "Renato Lyra",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/IconPerks_backgroundPlayer.png/revision/latest/scale-to-width-down/96?cb=20230218135313",
-    "name_pt": "Jogador em segundo plano"
+    "name_pt": "Jogador em segundo plano",
+    "name_es": "Reproductor de fondo"
   },
   {
     "id": "bada_bada_boom",
@@ -133,7 +149,8 @@
     "owner": "Dustin Henderson",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_BadaBadaBoom.png?7a75d9",
-    "name_pt": "Bada Bada Boom"
+    "name_pt": "Bada Bada Boom",
+    "name_es": "Bada Bada Boom"
   },
   {
     "id": "balanced_landing",
@@ -141,7 +158,8 @@
     "owner": "Nea Karlsson",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/IconPerks_balancedLanding.png/revision/latest/scale-to-width-down/96?cb=20160821133918",
-    "name_pt": "Aterrissagem Equilibrada"
+    "name_pt": "Aterrissagem Equilibrada",
+    "name_es": "Aterrizaje equilibrado"
   },
   {
     "id": "bamboozle",
@@ -149,7 +167,8 @@
     "owner": "The Clown",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/IconPerks_bamboozle.png/revision/latest/scale-to-width-down/96?cb=20180529205216",
-    "name_pt": "Enganar"
+    "name_pt": "Enganar",
+    "name_es": "Embaucar"
   },
   {
     "id": "barbecue_and_chili",
@@ -157,7 +176,8 @@
     "owner": "The Cannibal",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/IconPerks_barbecueAndChilli.png/revision/latest/scale-to-width-down/96?cb=20170914173637",
-    "name_pt": "Churrasco e pimentão"
+    "name_pt": "Churrasco e pimentão",
+    "name_es": "Barbacoa y chile"
   },
   {
     "id": "bardic_inspiration",
@@ -165,7 +185,8 @@
     "owner": "Aestri Yazar",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconPerks_bardicInspiration.png/revision/latest/scale-to-width-down/96?cb=20240514174158",
-    "name_pt": "Inspiração Bárdica"
+    "name_pt": "Inspiração Bárdica",
+    "name_es": "Inspiración bárdica"
   },
   {
     "id": "batteries_included",
@@ -173,7 +194,8 @@
     "owner": "The Good Guy",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_batteriesIncluded.png/revision/latest/scale-to-width-down/96?cb=20231108172942",
-    "name_pt": "Baterias incluídas"
+    "name_pt": "Baterias incluídas",
+    "name_es": "Pilas incluidas"
   },
   {
     "id": "beast_of_prey",
@@ -181,7 +203,8 @@
     "owner": "The Huntress",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/IconPerks_beastOfPrey.png/revision/latest/scale-to-width-down/96?cb=20170727160820",
-    "name_pt": "Besta Predadora"
+    "name_pt": "Besta Predadora",
+    "name_es": "Bestia de presa"
   },
   {
     "id": "better_than_new",
@@ -189,7 +212,8 @@
     "owner": "Rebecca Chambers",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_betterThanNew.png/revision/latest/scale-to-width-down/96?cb=20220815051705",
-    "name_pt": "Melhor que novo"
+    "name_pt": "Melhor que novo",
+    "name_es": "Mejor que nuevo"
   },
   {
     "id": "better_together",
@@ -197,7 +221,8 @@
     "owner": "Nancy Wheeler",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_betterTogether.png/revision/latest/scale-to-width-down/96?cb=20190903175013",
-    "name_pt": "Melhor Juntos"
+    "name_pt": "Melhor Juntos",
+    "name_es": "Mejor juntos"
   },
   {
     "id": "bite_the_bullet",
@@ -205,7 +230,8 @@
     "owner": "Leon S. Kennedy",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_biteTheBullet.png/revision/latest/scale-to-width-down/96?cb=20210526102647",
-    "name_pt": "Morda a bala"
+    "name_pt": "Morda a bala",
+    "name_es": "Muerde la bala"
   },
   {
     "id": "bitter_murmur",
@@ -213,7 +239,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_bitterMurmur.png/revision/latest/scale-to-width-down/96?cb=20160605204819",
-    "name_pt": "Murmúrio amargo"
+    "name_pt": "Murmúrio amargo",
+    "name_es": "Murmullo amargo"
   },
   {
     "id": "blast_mine",
@@ -221,7 +248,8 @@
     "owner": "Jill Valentine",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_blastMine.png/revision/latest/scale-to-width-down/96?cb=20210526102812",
-    "name_pt": "Explodir Mina"
+    "name_pt": "Explodir Mina",
+    "name_es": "Mina explosiva"
   },
   {
     "id": "blood_echo",
@@ -229,7 +257,8 @@
     "owner": "The Oni",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_bloodEcho.png/revision/latest/scale-to-width-down/96?cb=20191126213547",
-    "name_pt": "Eco de Sangue"
+    "name_pt": "Eco de Sangue",
+    "name_es": "Eco de sangre"
   },
   {
     "id": "blood_pact",
@@ -237,7 +266,8 @@
     "owner": "Cheryl Mason",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_bloodPact.png/revision/latest/scale-to-width-down/96?cb=20200526201448",
-    "name_pt": "Pacto de Sangue"
+    "name_pt": "Pacto de Sangue",
+    "name_es": "Pacto de sangre"
   },
   {
     "id": "blood_rush",
@@ -245,7 +275,8 @@
     "owner": "Renato Lyra",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/IconPerks_bloodRush.png/revision/latest/scale-to-width-down/96?cb=20230218135314",
-    "name_pt": "Corrida de Sangue"
+    "name_pt": "Corrida de Sangue",
+    "name_es": "fiebre de sangre"
   },
   {
     "id": "blood_warden",
@@ -253,7 +284,8 @@
     "owner": "The Nightmare",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_bloodWarden.png/revision/latest/scale-to-width-down/96?cb=20171026225711",
-    "name_pt": "Guardião de Sangue"
+    "name_pt": "Guardião de Sangue",
+    "name_es": "Guardián de sangre"
   },
   {
     "id": "bloodhound",
@@ -261,7 +293,8 @@
     "owner": "The Wraith",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_bloodhound.png/revision/latest/scale-to-width-down/96?cb=20160605204825",
-    "name_pt": "Cão de caça"
+    "name_pt": "Cão de caça",
+    "name_es": "Sabueso"
   },
   {
     "id": "boil_over",
@@ -269,7 +302,8 @@
     "owner": "Kate Denson",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_boilOver.png/revision/latest/scale-to-width-down/96?cb=20180529195012",
-    "name_pt": "Transbordar"
+    "name_pt": "Transbordar",
+    "name_es": "Derramarse"
   },
   {
     "id": "bond",
@@ -277,7 +311,8 @@
     "owner": "Dwight Fairfield",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_bond.png/revision/latest/scale-to-width-down/96?cb=20160605204830",
-    "name_pt": "Ligação"
+    "name_pt": "Ligação",
+    "name_es": "Vínculo"
   },
   {
     "id": "boon_circle_of_healing",
@@ -285,7 +320,8 @@
     "owner": "Mikaela Reid",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/54/IconPerks_boonCircleOfHealing.png/revision/latest/scale-to-width-down/96?cb=20210929054308",
-    "name_pt": "Benefício: Círculo de Cura"
+    "name_pt": "Benefício: Círculo de Cura",
+    "name_es": "Bendición: Círculo de curación"
   },
   {
     "id": "boon_dark_theory",
@@ -293,7 +329,8 @@
     "owner": "Yoichi Asakawa",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_boonDarkTheory.png/revision/latest/scale-to-width-down/96?cb=20220216115947",
-    "name_pt": "Benefício: Teoria das Trevas"
+    "name_pt": "Benefício: Teoria das Trevas",
+    "name_es": "Bendición: Teoría Oscura"
   },
   {
     "id": "boon_exponential",
@@ -301,7 +338,8 @@
     "owner": "Jonah Vasquez",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/IconPerks_boonExponential.png/revision/latest/scale-to-width-down/96?cb=20211109175033",
-    "name_pt": "Benefício: Exponencial"
+    "name_pt": "Benefício: Exponencial",
+    "name_es": "Beneficio: exponencial"
   },
   {
     "id": "boon_illumination",
@@ -309,7 +347,8 @@
     "owner": "Alan Wake",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/IconPerks_boonIllumination.png/revision/latest/scale-to-width-down/96?cb=20240109231534",
-    "name_pt": "Benefício: Iluminação"
+    "name_pt": "Benefício: Iluminação",
+    "name_es": "Bendición: iluminación"
   },
   {
     "id": "boon_shadow_step",
@@ -317,7 +356,8 @@
     "owner": "Mikaela Reid",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_boonShadowStep.png/revision/latest/scale-to-width-down/96?cb=20210929054304",
-    "name_pt": "Benefício: Passo Sombrio"
+    "name_pt": "Benefício: Passo Sombrio",
+    "name_es": "Bendición: Paso de las Sombras"
   },
   {
     "id": "boon_steadfast",
@@ -325,7 +365,8 @@
     "owner": "Aurora Stardotter",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_BoonSteadfast.png?69ff59",
-    "name_pt": "Benefício: Constante"
+    "name_pt": "Benefício: Constante",
+    "name_es": "Bendición: firme"
   },
   {
     "id": "borrowed_time",
@@ -333,7 +374,8 @@
     "owner": "William \"Bill\" Overbeck",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_borrowedTime.png/revision/latest/scale-to-width-down/96?cb=20170308184730",
-    "name_pt": "Tempo emprestado"
+    "name_pt": "Tempo emprestado",
+    "name_es": "Tiempo prestado"
   },
   {
     "id": "botany_knowledge",
@@ -341,7 +383,8 @@
     "owner": "Claudette Morel",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/IconPerks_botanyKnowledge.png/revision/latest/scale-to-width-down/96?cb=20160605204836",
-    "name_pt": "Conhecimento Botânico"
+    "name_pt": "Conhecimento Botânico",
+    "name_es": "Conocimiento de botánica"
   },
   {
     "id": "breakdown",
@@ -349,7 +392,8 @@
     "owner": "Jeff Johansen",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_breakdown.png/revision/latest/scale-to-width-down/96?cb=20181128100926",
-    "name_pt": "Discriminação"
+    "name_pt": "Discriminação",
+    "name_es": "Descomponer"
   },
   {
     "id": "breakout",
@@ -357,7 +401,8 @@
     "owner": "Yui Kimura",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_breakout.png/revision/latest/scale-to-width-down/96?cb=20191126213552",
-    "name_pt": "Saia"
+    "name_pt": "Saia",
+    "name_es": "Fugarse"
   },
   {
     "id": "brutal_strength",
@@ -365,7 +410,8 @@
     "owner": "The Trapper",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_brutalStrength.png/revision/latest/scale-to-width-down/96?cb=20160605204842",
-    "name_pt": "Força brutal"
+    "name_pt": "Força brutal",
+    "name_es": "Fuerza bruta"
   },
   {
     "id": "buckle_up",
@@ -373,7 +419,8 @@
     "owner": "Ashley J. Williams",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/IconPerks_buckleUp.png/revision/latest/scale-to-width-down/96?cb=20190402180455",
-    "name_pt": "Aperte o cinto"
+    "name_pt": "Aperte o cinto",
+    "name_es": "Abróchate el cinturón"
   },
   {
     "id": "built_to_last",
@@ -381,7 +428,8 @@
     "owner": "Felix Richter",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_builtToLast.png/revision/latest/scale-to-width-down/96?cb=20200819114105",
-    "name_pt": "Construído para durar"
+    "name_pt": "Construído para durar",
+    "name_es": "Construido para durar"
   },
   {
     "id": "call_of_brine",
@@ -389,7 +437,8 @@
     "owner": "The Onryō",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_callOfBrine.png/revision/latest/scale-to-width-down/96?cb=20220216115938",
-    "name_pt": "Chamado de Salmoura"
+    "name_pt": "Chamado de Salmoura",
+    "name_es": "llamada de salmuera"
   },
   {
     "id": "calm_spirit",
@@ -397,7 +446,8 @@
     "owner": "Jake Park",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_calmSpirit.png/revision/latest/scale-to-width-down/96?cb=20160605204847",
-    "name_pt": "Espírito Calmo"
+    "name_pt": "Espírito Calmo",
+    "name_es": "Espíritu tranquilo"
   },
   {
     "id": "camaraderie",
@@ -405,7 +455,8 @@
     "owner": "Steve Harrington",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_camaraderie.png/revision/latest/scale-to-width-down/96?cb=20190903175027",
-    "name_pt": "Camaradagem"
+    "name_pt": "Camaradagem",
+    "name_es": "Camaradería"
   },
   {
     "id": "celestial_witness",
@@ -413,7 +464,8 @@
     "owner": "The Judgment",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_CelestialWitness.png?d93f72",
-    "name_pt": "Testemunha Celestial"
+    "name_pt": "Testemunha Celestial",
+    "name_es": "Testigo celestial"
   },
   {
     "id": "champion_of_light",
@@ -421,7 +473,8 @@
     "owner": "Alan Wake",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_championOfLight.png/revision/latest/scale-to-width-down/96?cb=20240109231532",
-    "name_pt": "Campeão da Luz"
+    "name_pt": "Campeão da Luz",
+    "name_es": "Campeón de la luz"
   },
   {
     "id": "change_of_plan",
@@ -429,7 +482,8 @@
     "owner": "Dustin Henderson",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_ChangeOfPlan.png?86afb8",
-    "name_pt": "Mudança de plano"
+    "name_pt": "Mudança de plano",
+    "name_es": "Cambio de plan"
   },
   {
     "id": "chemical_trap",
@@ -437,7 +491,8 @@
     "owner": "Ellen Ripley",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_chemicalTrap.png/revision/latest/scale-to-width-down/96?cb=20230808160213",
-    "name_pt": "Armadilha Química"
+    "name_pt": "Armadilha Química",
+    "name_es": "Trampa química"
   },
   {
     "id": "clairvoyance",
@@ -445,7 +500,8 @@
     "owner": "Mikaela Reid",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_clairvoyance.png/revision/latest/scale-to-width-down/96?cb=20210929054440",
-    "name_pt": "Clarividência"
+    "name_pt": "Clarividência",
+    "name_es": "Clarividencia"
   },
   {
     "id": "clean_break",
@@ -453,7 +509,8 @@
     "owner": "Taurie Cain",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/IconPerks_cleanBreak.png/revision/latest/scale-to-width-down/96?cb=20241107202155",
-    "name_pt": "Pausa Limpa"
+    "name_pt": "Pausa Limpa",
+    "name_es": "descanso limpio"
   },
   {
     "id": "come_and_get_me",
@@ -461,7 +518,8 @@
     "owner": "Rick Grimes",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_comeAndGetMe.png?f4490c",
-    "name_pt": "Venha e me pegue!"
+    "name_pt": "Venha e me pegue!",
+    "name_es": "¡Ven a buscarme!"
   },
   {
     "id": "conviction",
@@ -469,7 +527,8 @@
     "owner": "Michonne Grimes",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_conviction.png?ad7956",
-    "name_pt": "Convicção"
+    "name_pt": "Convicção",
+    "name_es": "Convicción"
   },
   {
     "id": "corrective_action",
@@ -477,7 +536,8 @@
     "owner": "Jonah Vasquez",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_correctiveAction.png/revision/latest/scale-to-width-down/96?cb=20240918105401",
-    "name_pt": "Ação Corretiva"
+    "name_pt": "Ação Corretiva",
+    "name_es": "Acción correctiva"
   },
   {
     "id": "corrupt_intervention",
@@ -485,7 +545,8 @@
     "owner": "The Plague",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/IconPerks_corruptIntervention.png/revision/latest/scale-to-width-down/96?cb=20190306195826",
-    "name_pt": "Intervenção Corrupta"
+    "name_pt": "Intervenção Corrupta",
+    "name_es": "Intervención corrupta"
   },
   {
     "id": "coulrophobia",
@@ -493,7 +554,8 @@
     "owner": "The Clown",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/IconPerks_coulrophobia.png/revision/latest/scale-to-width-down/96?cb=20180529205206",
-    "name_pt": "Coulrofobia"
+    "name_pt": "Coulrofobia",
+    "name_es": "Coulrofobia"
   },
   {
     "id": "counterforce",
@@ -501,7 +563,8 @@
     "owner": "Jill Valentine",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconPerks_counterforce.png/revision/latest/scale-to-width-down/96?cb=20210526103441",
-    "name_pt": "Contraforça"
+    "name_pt": "Contraforça",
+    "name_es": "contrafuerza"
   },
   {
     "id": "coup_de_grace",
@@ -509,7 +572,8 @@
     "owner": "The Twins",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/IconPerks_coupDeGr%C3%A2ce.png/revision/latest/scale-to-width-down/96?cb=20201112095015",
-    "name_pt": "Golpe de graça"
+    "name_pt": "Golpe de graça",
+    "name_es": "Golpe de gracia"
   },
   {
     "id": "cross_examination",
@@ -517,7 +581,8 @@
     "owner": "Shane Wiigwaas",
     "role": "survivor",
     "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dead-by-daylight/7/72/Cross_Examination.png?width=150&format=jpg&auto=webp&quality=80",
-    "name_pt": "Interrogatório"
+    "name_pt": "Interrogatório",
+    "name_es": "Contrainterrogatorio"
   },
   {
     "id": "cruel_limits",
@@ -525,7 +590,8 @@
     "owner": "The Demogorgon",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_cruelLimits.png/revision/latest/scale-to-width-down/96?cb=20190903175111",
-    "name_pt": "Limites cruéis"
+    "name_pt": "Limites cruéis",
+    "name_es": "Límites crueles"
   },
   {
     "id": "cut_loose",
@@ -533,7 +599,8 @@
     "owner": "Thalita Lyra",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_cutLoose.png/revision/latest/scale-to-width-down/96?cb=20230218135315",
-    "name_pt": "Corte solto"
+    "name_pt": "Corte solto",
+    "name_es": "Cortar suelto"
   },
   {
     "id": "dance_with_me",
@@ -541,7 +608,8 @@
     "owner": "Kate Denson",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_danceWithMe.png/revision/latest/scale-to-width-down/96?cb=20180529195003",
-    "name_pt": "Dance comigo"
+    "name_pt": "Dance comigo",
+    "name_es": "baila conmigo"
   },
   {
     "id": "dark_arrogance",
@@ -549,7 +617,8 @@
     "owner": "The Lich",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_darkArrogance.png/revision/latest/scale-to-width-down/96?cb=20240514174200",
-    "name_pt": "Arrogância Negra"
+    "name_pt": "Arrogância Negra",
+    "name_es": "Arrogancia Oscura"
   },
   {
     "id": "dark_devotion",
@@ -557,7 +626,8 @@
     "owner": "The Plague",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_darkDevotion.png/revision/latest/scale-to-width-down/96?cb=20190306195813",
-    "name_pt": "Devoção Negra"
+    "name_pt": "Devoção Negra",
+    "name_es": "Devoción oscura"
   },
   {
     "id": "dark_sense",
@@ -565,7 +635,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/IconPerks_darkSense.png/revision/latest/scale-to-width-down/96?cb=20160605204853",
-    "name_pt": "Sentido Sombrio"
+    "name_pt": "Sentido Sombrio",
+    "name_es": "Sentido oscuro"
   },
   {
     "id": "darkness_revealed",
@@ -573,7 +644,8 @@
     "owner": "The Dredge",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/IconPerks_darknessRevealed.png/revision/latest/scale-to-width-down/96?cb=20220518112818",
-    "name_pt": "Escuridão revelada"
+    "name_pt": "Escuridão revelada",
+    "name_es": "Oscuridad revelada"
   },
   {
     "id": "dead_hard",
@@ -581,7 +653,8 @@
     "owner": "David King",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_deadHard.png/revision/latest/scale-to-width-down/96?cb=20170727160956",
-    "name_pt": "Muito difícil"
+    "name_pt": "Muito difícil",
+    "name_es": "Muerto duro"
   },
   {
     "id": "dead_mans_switch",
@@ -589,7 +662,8 @@
     "owner": "The Deathslinger",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_deadMansSwitch.png/revision/latest/scale-to-width-down/96?cb=20200218172942",
-    "name_pt": "Interruptor do Homem Morto"
+    "name_pt": "Interruptor do Homem Morto",
+    "name_es": "El interruptor del hombre muerto"
   },
   {
     "id": "deadline",
@@ -597,7 +671,8 @@
     "owner": "Alan Wake",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_deadline.png/revision/latest/scale-to-width-down/96?cb=20240109231533",
-    "name_pt": "Prazo final"
+    "name_pt": "Prazo final",
+    "name_es": "Fecha límite"
   },
   {
     "id": "deadlock",
@@ -605,7 +680,8 @@
     "owner": "The Cenobite",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_deadlock.png?8c19ec",
-    "name_pt": "Impasse"
+    "name_pt": "Impasse",
+    "name_es": "Punto muerto"
   },
   {
     "id": "deathbound",
@@ -613,7 +689,8 @@
     "owner": "The Executioner",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/IconPerks_deathbound.png/revision/latest/scale-to-width-down/96?cb=20200526201504",
-    "name_pt": "Preso à morte"
+    "name_pt": "Preso à morte",
+    "name_es": "Atado a la muerte"
   },
   {
     "id": "deception",
@@ -621,7 +698,8 @@
     "owner": "Elodie Rakoto",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_deception.png/revision/latest/scale-to-width-down/256?cb=20201112095028",
-    "name_pt": "Decepção"
+    "name_pt": "Decepção",
+    "name_es": "Engaño"
   },
   {
     "id": "decisive_strike",
@@ -629,7 +707,8 @@
     "owner": "Laurie Strode",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_decisiveStrike.png/revision/latest/scale-to-width-down/96?cb=20161023112852",
-    "name_pt": "Golpe Decisivo"
+    "name_pt": "Golpe Decisivo",
+    "name_es": "Golpe decisivo"
   },
   {
     "id": "deerstalker",
@@ -637,7 +716,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/IconPerks_deerstalker.png/revision/latest/scale-to-width-down/96?cb=20160605204859",
-    "name_pt": "Espreitador de Veados"
+    "name_pt": "Espreitador de Veados",
+    "name_es": "Gorro de cazador"
   },
   {
     "id": "deja_vu",
@@ -645,7 +725,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/IconPerks_dejaVu.png/revision/latest/scale-to-width-down/96?cb=20160605204905",
-    "name_pt": "Déjà Vu"
+    "name_pt": "Déjà Vu",
+    "name_es": "Déjà Vu"
   },
   {
     "id": "deliverance",
@@ -653,7 +734,8 @@
     "owner": "Adam Francis",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_deliverance.png/revision/latest/scale-to-width-down/96?cb=20180828173004",
-    "name_pt": "Libertação"
+    "name_pt": "Libertação",
+    "name_es": "Liberación"
   },
   {
     "id": "desperate_measures",
@@ -661,7 +743,8 @@
     "owner": "Felix Richter",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/IconPerks_desperateMeasures.png/revision/latest/scale-to-width-down/96?cb=20200819113949",
-    "name_pt": "Medidas desesperadas"
+    "name_pt": "Medidas desesperadas",
+    "name_es": "Medidas desesperadas"
   },
   {
     "id": "detectives_hunch",
@@ -669,7 +752,8 @@
     "owner": "Detective Tapp",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7b/IconPerks_detectivesHunch.png/revision/latest/scale-to-width-down/96?cb=20180123224231",
-    "name_pt": "Pressentimento do Detetive"
+    "name_pt": "Pressentimento do Detetive",
+    "name_es": "La corazonada del detective"
   },
   {
     "id": "discordance",
@@ -677,7 +761,8 @@
     "owner": "The Legion",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_discordance.png/revision/latest/scale-to-width-down/96?cb=20181128100920",
-    "name_pt": "Discordância"
+    "name_pt": "Discordância",
+    "name_es": "Discordancia"
   },
   {
     "id": "dissolution",
@@ -685,7 +770,8 @@
     "owner": "The Dredge",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_dissolution.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
-    "name_pt": "Dissolução"
+    "name_pt": "Dissolução",
+    "name_es": "Disolución"
   },
   {
     "id": "distortion",
@@ -693,7 +779,8 @@
     "owner": "Jeff Johansen",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/IconPerks_distortion.png/revision/latest/scale-to-width-down/96?cb=20181128100914",
-    "name_pt": "Distorção"
+    "name_pt": "Distorção",
+    "name_es": "Distorsión"
   },
   {
     "id": "distressing",
@@ -701,7 +788,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_distressing.png/revision/latest/scale-to-width-down/96?cb=20160605204911",
-    "name_pt": "Angustiante"
+    "name_pt": "Angustiante",
+    "name_es": "Angustioso"
   },
   {
     "id": "diversion",
@@ -709,7 +797,8 @@
     "owner": "Adam Francis",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_diversion.png/revision/latest/scale-to-width-down/96?cb=20180828172956",
-    "name_pt": "Desvio"
+    "name_pt": "Desvio",
+    "name_es": "Desviación"
   },
   {
     "id": "do_no_harm",
@@ -717,7 +806,8 @@
     "owner": "Orela Rose",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_DoNoHarm.png?2073b4",
-    "name_pt": "Não faça mal"
+    "name_pt": "Não faça mal",
+    "name_es": "No hacer daño"
   },
   {
     "id": "dominance",
@@ -725,7 +815,8 @@
     "owner": "The Dark Lord",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/IconPerks_Dominance.png/revision/latest/scale-to-width-down/96?cb=20240806171415",
-    "name_pt": "Domínio"
+    "name_pt": "Domínio",
+    "name_es": "Dominio"
   },
   {
     "id": "dragons_grip",
@@ -733,7 +824,8 @@
     "owner": "The Blight",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_dragonsGrip.png/revision/latest/scale-to-width-down/96?cb=20200819113412",
-    "name_pt": "Aperto do Dragão"
+    "name_pt": "Aperto do Dragão",
+    "name_es": "Agarre del dragón"
   },
   {
     "id": "dramaturgy",
@@ -741,7 +833,8 @@
     "owner": "Nicolas Cage",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/IconPerks_dramaturgy.png/revision/latest/scale-to-width-down/96?cb=20230705160003",
-    "name_pt": "Dramaturgia"
+    "name_pt": "Dramaturgia",
+    "name_es": "Dramaturgia"
   },
   {
     "id": "duty_of_care",
@@ -749,7 +842,8 @@
     "owner": "Orela Rose",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_DutyOfCare.png?a2c25e",
-    "name_pt": "Dever de cuidado"
+    "name_pt": "Dever de cuidado",
+    "name_es": "Deber de diligencia"
   },
   {
     "id": "dying_light",
@@ -757,7 +851,8 @@
     "owner": "The Shape",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_dyingLight.png/revision/latest/scale-to-width-down/96?cb=20161023113257",
-    "name_pt": "Luz Morrendo"
+    "name_pt": "Luz Morrendo",
+    "name_es": "Luz moribunda"
   },
   {
     "id": "empathic_connection",
@@ -765,7 +860,8 @@
     "owner": "Yoichi Asakawa",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_empathicConnection.png/revision/latest/scale-to-width-down/96?cb=20220216115951",
-    "name_pt": "Conexão Empática"
+    "name_pt": "Conexão Empática",
+    "name_es": "Conexión empática"
   },
   {
     "id": "empathy",
@@ -773,7 +869,8 @@
     "owner": "Claudette Morel",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_empathy.png/revision/latest/scale-to-width-down/96?cb=20160605204916",
-    "name_pt": "Empatia"
+    "name_pt": "Empatia",
+    "name_es": "Empatía"
   },
   {
     "id": "enduring",
@@ -781,7 +878,8 @@
     "owner": "The Hillbilly",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_enduring.png/revision/latest/scale-to-width-down/96?cb=20160605204922",
-    "name_pt": "Duradouro"
+    "name_pt": "Duradouro",
+    "name_es": "Duradero"
   },
   {
     "id": "eruption",
@@ -789,7 +887,8 @@
     "owner": "The Nemesis",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dd/IconPerks_eruption.png/revision/latest/scale-to-width-down/96?cb=20210526102859",
-    "name_pt": "Erupção"
+    "name_pt": "Erupção",
+    "name_es": "Erupción"
   },
   {
     "id": "extrasensory_perception",
@@ -797,7 +896,8 @@
     "owner": "Eleven",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_ExtrasensoryPerception.png?2084c6",
-    "name_pt": "Percepção extra-sensorial"
+    "name_pt": "Percepção extra-sensorial",
+    "name_es": "Percepción extrasensorial"
   },
   {
     "id": "exultation",
@@ -805,7 +905,8 @@
     "owner": "Trevor Belmont",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/IconPerks_Exultation.png/revision/latest/scale-to-width-down/96?cb=20240806171416",
-    "name_pt": "Exultação"
+    "name_pt": "Exultação",
+    "name_es": "Exultación"
   },
   {
     "id": "eyes_of_belmont",
@@ -813,7 +914,8 @@
     "owner": "Trevor Belmont",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/IconPerks_EyesOfBelmont.png/revision/latest/scale-to-width-down/96?cb=20240806171417",
-    "name_pt": "Olhos de Belmont"
+    "name_pt": "Olhos de Belmont",
+    "name_es": "Ojos de Belmont"
   },
   {
     "id": "fast_track",
@@ -821,7 +923,8 @@
     "owner": "Lee Yun-Jin",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_fastTrack.png/revision/latest/scale-to-width-down/96?cb=20210302172243",
-    "name_pt": "Via rápida"
+    "name_pt": "Via rápida",
+    "name_es": "Vía rápida"
   },
   {
     "id": "finesse",
@@ -829,7 +932,8 @@
     "owner": "Lara Croft",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/IconPerks_finesse.png/revision/latest/scale-to-width-down/96?cb=20240625161544",
-    "name_pt": "Delicadeza"
+    "name_pt": "Delicadeza",
+    "name_es": "Finura"
   },
   {
     "id": "fire_up",
@@ -837,7 +941,8 @@
     "owner": "The Nightmare",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5c/IconPerks_fireUp.png/revision/latest/scale-to-width-down/96?cb=20171026225645",
-    "name_pt": "Acenda"
+    "name_pt": "Acenda",
+    "name_es": "Enciende"
   },
   {
     "id": "five_moves_ahead",
@@ -845,7 +950,8 @@
     "owner": "Kwon Tae-young",
     "role": "survivor",
     "image": "https://deadbydaylight.com/static/cff74c1c770557d8eff1c4e1fe662619/388f3/T_UI_icons_Perks_Five_Moves_Ahead_55df9a457e.png",
-    "name_pt": "Cinco passos à frente"
+    "name_pt": "Cinco passos à frente",
+    "name_es": "Cinco pasos adelante"
   },
   {
     "id": "fixated",
@@ -853,7 +959,8 @@
     "owner": "Nancy Wheeler",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_fixated.png/revision/latest/scale-to-width-down/96?cb=20190903175127",
-    "name_pt": "Fixado"
+    "name_pt": "Fixado",
+    "name_es": "Fijado"
   },
   {
     "id": "flashbang",
@@ -861,7 +968,8 @@
     "owner": "Leon S. Kennedy",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_flashbang.png/revision/latest/scale-to-width-down/96?cb=20210526102947",
-    "name_pt": "Flashbang"
+    "name_pt": "Flashbang",
+    "name_es": "explosión explosiva"
   },
   {
     "id": "flip_flop",
@@ -869,7 +977,8 @@
     "owner": "Ashley J. Williams",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_flip-Flop.png/revision/latest/scale-to-width-down/96?cb=20190402180450",
-    "name_pt": "Chinelo de dedo"
+    "name_pt": "Chinelo de dedo",
+    "name_es": "Chanclas"
   },
   {
     "id": "flow_state",
@@ -877,7 +986,8 @@
     "owner": "Kwon Tae-young",
     "role": "survivor",
     "image": "https://deadbydaylight.com/static/273ea213482d97ebf5058246299305c0/388f3/T_UI_icons_Perks_Flow_State_548030e603.png",
-    "name_pt": "Estado de fluxo"
+    "name_pt": "Estado de fluxo",
+    "name_es": "Estado de flujo"
   },
   {
     "id": "fogwise",
@@ -885,7 +995,8 @@
     "owner": "Vittorio Toscano",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png/revision/latest/scale-to-width-down/96?cb=20221102143122",
-    "name_pt": "Névoa"
+    "name_pt": "Névoa",
+    "name_es": "niebla"
   },
   {
     "id": "for_the_people",
@@ -893,7 +1004,8 @@
     "owner": "Zarina Kassir",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_forThePeople.png/revision/latest/scale-to-width-down/96?cb=20200218172919",
-    "name_pt": "Para o povo"
+    "name_pt": "Para o povo",
+    "name_es": "Para la gente"
   },
   {
     "id": "forced_hesitation",
@@ -901,7 +1013,8 @@
     "owner": "The Singularity",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_forcedHesitation.png/revision/latest/scale-to-width-down/96?cb=20230524214839",
-    "name_pt": "Hesitação Forçada"
+    "name_pt": "Hesitação Forçada",
+    "name_es": "Vacilación forzada"
   },
   {
     "id": "forced_penance",
@@ -909,7 +1022,8 @@
     "owner": "The Executioner",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_forcedPenance.png/revision/latest/scale-to-width-down/96?cb=20200526201518",
-    "name_pt": "Penitência Forçada"
+    "name_pt": "Penitência Forçada",
+    "name_es": "Penitencia forzada"
   },
   {
     "id": "forever_entwined",
@@ -917,7 +1031,8 @@
     "owner": "The Ghoul",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_foreverEntwined.png/revision/latest/scale-to-width-down/96?cb=20250616212701",
-    "name_pt": "Para sempre entrelaçados"
+    "name_pt": "Para sempre entrelaçados",
+    "name_es": "Siempre entrelazados"
   },
   {
     "id": "franklins_demise",
@@ -925,7 +1040,8 @@
     "owner": "The Cannibal",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_franklinsDemise.png/revision/latest/scale-to-width-down/96?cb=20170914173626",
-    "name_pt": "A morte de Franklin"
+    "name_pt": "A morte de Franklin",
+    "name_es": "La desaparición de Franklin"
   },
   {
     "id": "friendly_competition",
@@ -933,7 +1049,8 @@
     "owner": "Thalita Lyra",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_friendlyCompetition.png/revision/latest/scale-to-width-down/96?cb=20230218135316",
-    "name_pt": "Competição Amigável"
+    "name_pt": "Competição Amigável",
+    "name_es": "Competencia amistosa"
   },
   {
     "id": "friends_til_the_end",
@@ -941,7 +1058,8 @@
     "owner": "The Good Guy",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/IconPerks_friendsTilTheEnd.png/revision/latest/scale-to-width-down/96?cb=20231108172943",
-    "name_pt": "Amigos até o fim"
+    "name_pt": "Amigos até o fim",
+    "name_es": "Amigos hasta el final"
   },
   {
     "id": "fruits_of_your_labor",
@@ -949,7 +1067,8 @@
     "owner": "Aurora Stardotter",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_FruitsOfYourLabor.png?6e8560",
-    "name_pt": "Frutos do seu trabalho"
+    "name_pt": "Frutos do seu trabalho",
+    "name_es": "Frutos de tu trabajo"
   },
   {
     "id": "furtive_chase",
@@ -957,7 +1076,8 @@
     "owner": "The Ghost Face",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_furtiveChase.png/revision/latest/scale-to-width-down/96?cb=20190606094409",
-    "name_pt": "Perseguição furtiva"
+    "name_pt": "Perseguição furtiva",
+    "name_es": "Persecución furtiva"
   },
   {
     "id": "game_afoot",
@@ -965,7 +1085,8 @@
     "owner": "The Skull Merchant",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/IconPerks_gameAfoot.png/revision/latest/scale-to-width-down/96?cb=20230218135317",
-    "name_pt": "Jogo em andamento"
+    "name_pt": "Jogo em andamento",
+    "name_es": "Juego en marcha"
   },
   {
     "id": "gearhead",
@@ -973,7 +1094,8 @@
     "owner": "The Deathslinger",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_gearhead.png/revision/latest/scale-to-width-down/96?cb=20200218172900",
-    "name_pt": "Redutor"
+    "name_pt": "Redutor",
+    "name_es": "cabeza de engranaje"
   },
   {
     "id": "genetic_limits",
@@ -981,7 +1103,8 @@
     "owner": "The Singularity",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_geneticLimits.png/revision/latest/scale-to-width-down/96?cb=20230524214956",
-    "name_pt": "Limites Genéticos"
+    "name_pt": "Limites Genéticos",
+    "name_es": "Límites genéticos"
   },
   {
     "id": "ghost_notes",
@@ -989,7 +1112,8 @@
     "owner": "Vee Boonyasak",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_GhostNotes.png?92b28f",
-    "name_pt": "Notas Fantasmas"
+    "name_pt": "Notas Fantasmas",
+    "name_es": "Notas fantasma"
   },
   {
     "id": "grim_embrace",
@@ -997,7 +1121,8 @@
     "owner": "The Artist",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_grimEmbrace.png/revision/latest/scale-to-width-down/96?cb=20211109180734",
-    "name_pt": "Abraço Sombrio"
+    "name_pt": "Abraço Sombrio",
+    "name_es": "Abrazo sombrío"
   },
   {
     "id": "hardened",
@@ -1005,7 +1130,8 @@
     "owner": "Lara Croft",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_hardened.png/revision/latest/scale-to-width-down/96?cb=20240625161545",
-    "name_pt": "Endurecido"
+    "name_pt": "Endurecido",
+    "name_es": "Curtido"
   },
   {
     "id": "haywire",
@@ -1013,7 +1139,8 @@
     "owner": "The Animatronic",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_haywire.png/revision/latest/scale-to-width-down/96?cb=20250528034521",
-    "name_pt": "Descontrolado"
+    "name_pt": "Descontrolado",
+    "name_es": "Loco"
   },
   {
     "id": "head_on",
@@ -1021,7 +1148,8 @@
     "owner": "Jane Romero",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/IconPerks_headOn.png/revision/latest/scale-to-width-down/96?cb=20190308175420",
-    "name_pt": "De cabeça erguida"
+    "name_pt": "De cabeça erguida",
+    "name_es": "De frente"
   },
   {
     "id": "help_wanted",
@@ -1029,7 +1157,8 @@
     "owner": "The Animatronic",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/IconPerks_helpWanted.png/revision/latest/scale-to-width-down/96?cb=20250528034403",
-    "name_pt": "Procura-se ajuda"
+    "name_pt": "Procura-se ajuda",
+    "name_es": "Se busca ayudante"
   },
   {
     "id": "hex_blood_favor",
@@ -1037,7 +1166,8 @@
     "owner": "The Blight",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/IconPerks_hexBloodFavour.png/revision/latest/scale-to-width-down/96?cb=20200819113451",
-    "name_pt": "Hex: Favor de Sangue"
+    "name_pt": "Hex: Favor de Sangue",
+    "name_es": "Maleficio: favor de sangre"
   },
   {
     "id": "hex_crowd_control",
@@ -1045,7 +1175,8 @@
     "owner": "The Trickster",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_hexCrowdControl.png/revision/latest/scale-to-width-down/96?cb=20210302172300",
-    "name_pt": "Hex: Controle de Multidão"
+    "name_pt": "Hex: Controle de Multidão",
+    "name_es": "Hexadecimal: control de multitudes"
   },
   {
     "id": "hex_devour_hope",
@@ -1053,7 +1184,8 @@
     "owner": "The Hag",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_hexDevourHope.png/revision/latest/scale-to-width-down/96?cb=20161209192341",
-    "name_pt": "Hex: Devorar Esperança"
+    "name_pt": "Hex: Devorar Esperança",
+    "name_es": "Maleficio: devorar la esperanza"
   },
   {
     "id": "hex_face_the_darkness",
@@ -1061,7 +1193,8 @@
     "owner": "The Knight",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/IconPerks_hexFaceTheDarkness.png/revision/latest/scale-to-width-down/96?cb=20221102143124",
-    "name_pt": "Hex: Enfrente a Escuridão"
+    "name_pt": "Hex: Enfrente a Escuridão",
+    "name_es": "Hex: Enfréntate a la oscuridad"
   },
   {
     "id": "hex_haunted_ground",
@@ -1069,7 +1202,8 @@
     "owner": "The Spirit",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/IconPerks_hexHauntedGround.png/revision/latest/scale-to-width-down/96?cb=20180828172944",
-    "name_pt": "Hex: Solo Assombrado"
+    "name_pt": "Hex: Solo Assombrado",
+    "name_es": "Maleficio: Tierra encantada"
   },
   {
     "id": "hex_hive_mind",
@@ -1077,7 +1211,8 @@
     "owner": "The First",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_HexHiveMind.png?db4284",
-    "name_pt": "Hex: Mente Colmeia"
+    "name_pt": "Hex: Mente Colmeia",
+    "name_es": "Maleficio: mente colmena"
   },
   {
     "id": "hex_huntress_lullaby",
@@ -1085,7 +1220,8 @@
     "owner": "The Huntress",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/IconPerks_hexHuntressLullaby.png/revision/latest/scale-to-width-down/96?cb=20170727160900",
-    "name_pt": "Hex: Canção de Ninar da Caçadora"
+    "name_pt": "Hex: Canção de Ninar da Caçadora",
+    "name_es": "Hex: Canción de cuna de la cazadora"
   },
   {
     "id": "hex_no_one_escapes_death",
@@ -1093,7 +1229,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/IconPerks_hexNoOneEscapesDeath.png/revision/latest/scale-to-width-down/96?cb=20160605205020",
-    "name_pt": "Hex: Ninguém escapa da morte"
+    "name_pt": "Hex: Ninguém escapa da morte",
+    "name_es": "Maleficio: nadie escapa de la muerte"
   },
   {
     "id": "hex_nothing_but_misery",
@@ -1101,7 +1238,8 @@
     "owner": "The Ghoul",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/IconPerks_hexNothingButMisery.png/revision/latest/scale-to-width-down/96?cb=20250616212702",
-    "name_pt": "Hex: nada além de miséria"
+    "name_pt": "Hex: nada além de miséria",
+    "name_es": "Maleficio: nada más que miseria"
   },
   {
     "id": "hex_overture_of_doom",
@@ -1109,7 +1247,8 @@
     "owner": "The Krasue",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_HexOvertureOfDoom.png?a22807",
-    "name_pt": "Hex: Abertura da Perdição"
+    "name_pt": "Hex: Abertura da Perdição",
+    "name_es": "Maleficio: Obertura de la Perdición"
   },
   {
     "id": "hex_pentimento",
@@ -1117,7 +1256,8 @@
     "owner": "The Artist",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hexPentimento.png/revision/latest/scale-to-width-down/96?cb=20211109175002",
-    "name_pt": "Hex: Pentimento"
+    "name_pt": "Hex: Pentimento",
+    "name_es": "Maleficio: Pentimento"
   },
   {
     "id": "hex_plaything",
@@ -1125,7 +1265,8 @@
     "owner": "The Cenobite",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_hexPlaything.png?59f6fb",
-    "name_pt": "Hex: Brinquedo"
+    "name_pt": "Hex: Brinquedo",
+    "name_es": "Maleficio: juguete"
   },
   {
     "id": "hex_retribution",
@@ -1133,7 +1274,8 @@
     "owner": "The Deathslinger",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/IconPerks_hexRetribution.png/revision/latest/scale-to-width-down/96?cb=20200218172811",
-    "name_pt": "Hex: Retribuição"
+    "name_pt": "Hex: Retribuição",
+    "name_es": "Maleficio: retribución"
   },
   {
     "id": "hex_ruin",
@@ -1141,7 +1283,8 @@
     "owner": "The Hag",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_hexRuin.png/revision/latest/scale-to-width-down/96?cb=20161209193143",
-    "name_pt": "Hex: Ruína"
+    "name_pt": "Hex: Ruína",
+    "name_es": "Maleficio: ruina"
   },
   {
     "id": "hex_scared_to_death",
@@ -1149,7 +1292,8 @@
     "owner": "The Slasher",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_ScaredToDeath.png?dc3716",
-    "name_pt": "Hex: Morrendo de medo"
+    "name_pt": "Hex: Morrendo de medo",
+    "name_es": "Hex: Muerto de miedo"
   },
   {
     "id": "hex_the_third_seal",
@@ -1157,7 +1301,8 @@
     "owner": "The Hag",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/IconPerks_hexTheThirdSeal.png/revision/latest/scale-to-width-down/96?cb=20161210091328",
-    "name_pt": "Hex: O Terceiro Selo"
+    "name_pt": "Hex: O Terceiro Selo",
+    "name_es": "Maleficio: el tercer sello"
   },
   {
     "id": "hex_thrill_of_the_hunt",
@@ -1165,7 +1310,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_hexThrillOfTheHunt.png/revision/latest/scale-to-width-down/96?cb=20161210091341",
-    "name_pt": "Hex: Emoção da Caçada"
+    "name_pt": "Hex: Emoção da Caçada",
+    "name_es": "Hex: Emoción de la caza"
   },
   {
     "id": "hex_two_can_play",
@@ -1173,7 +1319,8 @@
     "owner": "The Good Guy",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/64/IconPerks_hexTwoCanPlay.png/revision/latest/scale-to-width-down/96?cb=20231108172944",
-    "name_pt": "Hex: Dois podem jogar"
+    "name_pt": "Hex: Dois podem jogar",
+    "name_es": "Maleficio: dos pueden jugar"
   },
   {
     "id": "hex_under_your_thumb",
@@ -1181,7 +1328,8 @@
     "owner": "The Judgment",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_HexUnderYourThumb.png?57c1f4",
-    "name_pt": "Hex: sob seu polegar"
+    "name_pt": "Hex: sob seu polegar",
+    "name_es": "Hexágono: bajo tu pulgar"
   },
   {
     "id": "hex_undying",
@@ -1189,7 +1337,8 @@
     "owner": "The Blight",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_hexUndying.png/revision/latest/scale-to-width-down/96?cb=20200819113555",
-    "name_pt": "Hex: Imortal"
+    "name_pt": "Hex: Imortal",
+    "name_es": "Maleficio: inmortal"
   },
   {
     "id": "hex_wretched_fate",
@@ -1197,7 +1346,8 @@
     "owner": "The Dark Lord",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/81/IconPerks_HexWretchedFate.png/revision/latest/scale-to-width-down/96?cb=20240806171418",
-    "name_pt": "Hex: Destino Miserável"
+    "name_pt": "Hex: Destino Miserável",
+    "name_es": "Maleficio: destino miserable"
   },
   {
     "id": "hoarder",
@@ -1205,7 +1355,8 @@
     "owner": "The Twins",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_hoarder.png/revision/latest/scale-to-width-down/96?cb=20201112100327",
-    "name_pt": "Acumulador"
+    "name_pt": "Acumulador",
+    "name_es": "acaparador"
   },
   {
     "id": "hope",
@@ -1213,7 +1364,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_hope.png/revision/latest/scale-to-width-down/96?cb=20160605204928",
-    "name_pt": "Ter esperança"
+    "name_pt": "Ter esperança",
+    "name_es": "Esperanza"
   },
   {
     "id": "hubris",
@@ -1221,7 +1373,8 @@
     "owner": "The Knight",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_hubris.png/revision/latest/scale-to-width-down/96?cb=20221102143125",
-    "name_pt": "Arrogância"
+    "name_pt": "Arrogância",
+    "name_es": "arrogancia"
   },
   {
     "id": "human_greed",
@@ -1229,7 +1382,8 @@
     "owner": "The Dark Lord",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/IconPerks_HumanGreed.png/revision/latest/scale-to-width-down/96?cb=20240806171419",
-    "name_pt": "Ganância Humana"
+    "name_pt": "Ganância Humana",
+    "name_es": "La codicia humana"
   },
   {
     "id": "hyperfocus",
@@ -1237,7 +1391,8 @@
     "owner": "Rebecca Chambers",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png/revision/latest/scale-to-width-down/96?cb=20220815051721",
-    "name_pt": "Hiperfoco"
+    "name_pt": "Hiperfoco",
+    "name_es": "Hiperenfoque"
   },
   {
     "id": "hysteria",
@@ -1245,7 +1400,8 @@
     "owner": "The Nemesis",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/IconPerks_hysteria.png/revision/latest/scale-to-width-down/96?cb=20210526103043",
-    "name_pt": "Histeria"
+    "name_pt": "Histeria",
+    "name_es": "Histeria"
   },
   {
     "id": "im_all_ears",
@@ -1253,7 +1409,8 @@
     "owner": "The Ghost Face",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/IconPerks_imAllEars.png/revision/latest/scale-to-width-down/96?cb=20190606094404",
-    "name_pt": "Eu sou todo ouvidos"
+    "name_pt": "Eu sou todo ouvidos",
+    "name_es": "Soy todo oídos"
   },
   {
     "id": "infectious_fright",
@@ -1261,7 +1418,8 @@
     "owner": "The Plague",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_infectiousFright.png/revision/latest/scale-to-width-down/96?cb=20190306195819",
-    "name_pt": "Medo Infeccioso"
+    "name_pt": "Medo Infeccioso",
+    "name_es": "Susto infeccioso"
   },
   {
     "id": "inner_focus",
@@ -1269,7 +1427,8 @@
     "owner": "Haddie Kaur",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_innerFocus.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
-    "name_pt": "Foco Interno"
+    "name_pt": "Foco Interno",
+    "name_es": "Enfoque interior"
   },
   {
     "id": "inner_strength",
@@ -1277,7 +1436,8 @@
     "owner": "Nancy Wheeler",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/47/IconPerks_innerStrength.png/revision/latest/scale-to-width-down/96?cb=20190903175147",
-    "name_pt": "Força Interior"
+    "name_pt": "Força Interior",
+    "name_es": "Fuerza interior"
   },
   {
     "id": "insidious",
@@ -1285,7 +1445,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/IconPerks_insidious.png/revision/latest/scale-to-width-down/96?cb=20160605204933",
-    "name_pt": "Insidioso"
+    "name_pt": "Insidioso",
+    "name_es": "Insidioso"
   },
   {
     "id": "invocation_treacherous_crows",
@@ -1293,7 +1454,8 @@
     "owner": "Taurie Cain",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_invocationTreacherousCrows.png/revision/latest/scale-to-width-down/96?cb=20241107202156",
-    "name_pt": "Invocação: Corvos Traiçoeiros"
+    "name_pt": "Invocação: Corvos Traiçoeiros",
+    "name_es": "Invocación: Cuervos Traidores"
   },
   {
     "id": "invocation_weaving_spiders",
@@ -1301,7 +1463,8 @@
     "owner": "Sable Ward",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_invocationWeavingSpiders.png/revision/latest/scale-to-width-down/96?cb=20240220182529",
-    "name_pt": "Invocação: Tecelagem de Aranhas"
+    "name_pt": "Invocação: Tecelagem de Aranhas",
+    "name_es": "Invocación: Tejiendo Arañas"
   },
   {
     "id": "iron_grasp",
@@ -1309,7 +1472,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_ironGrasp.png/revision/latest/scale-to-width-down/96?cb=20160605204939",
-    "name_pt": "Aperto de Ferro"
+    "name_pt": "Aperto de Ferro",
+    "name_es": "Agarre de hierro"
   },
   {
     "id": "iron_maiden",
@@ -1317,7 +1481,8 @@
     "owner": "The Legion",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_ironMaiden.png/revision/latest/scale-to-width-down/96?cb=20181128100910",
-    "name_pt": "Donzela de Ferro"
+    "name_pt": "Donzela de Ferro",
+    "name_es": "doncella de hierro"
   },
   {
     "id": "iron_will",
@@ -1325,7 +1490,8 @@
     "owner": "Jake Park",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_ironWill.png/revision/latest/scale-to-width-down/96?cb=20160605204945",
-    "name_pt": "Vontade de Ferro"
+    "name_pt": "Vontade de Ferro",
+    "name_es": "Voluntad de hierro"
   },
   {
     "id": "kindred",
@@ -1333,7 +1499,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_kindred.png/revision/latest/scale-to-width-down/96?cb=20160819130530",
-    "name_pt": "Membros"
+    "name_pt": "Membros",
+    "name_es": "Parientes"
   },
   {
     "id": "knock_out",
@@ -1341,7 +1508,8 @@
     "owner": "The Cannibal",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_knockOut.png/revision/latest/scale-to-width-down/96?cb=20170914173607",
-    "name_pt": "Suprimir"
+    "name_pt": "Suprimir",
+    "name_es": "Knockear"
   },
   {
     "id": "languid_touch",
@@ -1349,7 +1517,8 @@
     "owner": "The Lich",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_languidTouch.png/revision/latest/scale-to-width-down/96?cb=20240514174201",
-    "name_pt": "Toque Lânguido"
+    "name_pt": "Toque Lânguido",
+    "name_es": "Toque lánguido"
   },
   {
     "id": "last_stand",
@@ -1357,7 +1526,8 @@
     "owner": "Michonne Grimes",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_lastStand.png?cb8a9f",
-    "name_pt": "Última posição"
+    "name_pt": "Última posição",
+    "name_es": "Última resistencia"
   },
   {
     "id": "lay_waste",
@@ -1365,7 +1535,8 @@
     "owner": "The Judgment",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_LayWaste.png?a49aeb",
-    "name_pt": "Desperdício"
+    "name_pt": "Desperdício",
+    "name_es": "Devastar"
   },
   {
     "id": "leader",
@@ -1373,7 +1544,8 @@
     "owner": "Dwight Fairfield",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_leader.png/revision/latest/scale-to-width-down/96?cb=20160605204957",
-    "name_pt": "Líder"
+    "name_pt": "Líder",
+    "name_es": "Líder"
   },
   {
     "id": "left_behind",
@@ -1381,7 +1553,8 @@
     "owner": "William \"Bill\" Overbeck",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_leftBehind.png/revision/latest/scale-to-width-down/96?cb=20170308184910",
-    "name_pt": "Deixado para trás"
+    "name_pt": "Deixado para trás",
+    "name_es": "dejado atrás"
   },
   {
     "id": "lend_a_hand",
@@ -1389,7 +1562,8 @@
     "owner": "Shane Wiigwaas",
     "role": "survivor",
     "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dead-by-daylight/a/a1/Lend_a_Hand.png?width=150&format=jpg&auto=webp&quality=80",
-    "name_pt": "Dê uma mão"
+    "name_pt": "Dê uma mão",
+    "name_es": "Ayudar"
   },
   {
     "id": "lethal_pursuer",
@@ -1397,7 +1571,8 @@
     "owner": "The Nemesis",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/61/IconPerks_lethalPursuer.png/revision/latest/scale-to-width-down/96?cb=20210526103144",
-    "name_pt": "Perseguidor Letal"
+    "name_pt": "Perseguidor Letal",
+    "name_es": "Perseguidor letal"
   },
   {
     "id": "leverage",
@@ -1405,7 +1580,8 @@
     "owner": "The Skull Merchant",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_leverage.png/revision/latest/scale-to-width-down/96?cb=20230218135317",
-    "name_pt": "Aproveitar"
+    "name_pt": "Aproveitar",
+    "name_es": "Aprovechar"
   },
   {
     "id": "light_footed",
@@ -1413,7 +1589,8 @@
     "owner": "Ellen Ripley",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/IconPerks_light-Footed.png/revision/latest/scale-to-width-down/96?cb=20230808160213",
-    "name_pt": "Pés leves"
+    "name_pt": "Pés leves",
+    "name_es": "Pies ligeros"
   },
   {
     "id": "lightborn",
@@ -1421,7 +1598,8 @@
     "owner": "The Hillbilly",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_lightborn.png/revision/latest/scale-to-width-down/96?cb=20160605205002",
-    "name_pt": "Nascido da luz"
+    "name_pt": "Nascido da luz",
+    "name_es": "nacido de la luz"
   },
   {
     "id": "lightweight",
@@ -1429,7 +1607,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/IconPerks_lightweight.png/revision/latest/scale-to-width-down/96?cb=20160605205008",
-    "name_pt": "Leve"
+    "name_pt": "Leve",
+    "name_es": "Ligero"
   },
   {
     "id": "lithe",
@@ -1437,7 +1616,8 @@
     "owner": "Feng Min",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/IconPerks_lithe.png/revision/latest/scale-to-width-down/96?cb=20170511153301",
-    "name_pt": "Ágil"
+    "name_pt": "Ágil",
+    "name_es": "Ágil"
   },
   {
     "id": "low_profile",
@@ -1445,7 +1625,8 @@
     "owner": "Ada Wong",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/IconPerks_lowProfile.png/revision/latest/scale-to-width-down/96?cb=20220815051740",
-    "name_pt": "Perfil discreto"
+    "name_pt": "Perfil discreto",
+    "name_es": "Perfil bajo"
   },
   {
     "id": "lucky_break",
@@ -1453,7 +1634,8 @@
     "owner": "Yui Kimura",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a7/IconPerks_luckyBreak.png/revision/latest/scale-to-width-down/96?cb=20191126213558",
-    "name_pt": "Sorte"
+    "name_pt": "Sorte",
+    "name_es": "Golpe de suerte"
   },
   {
     "id": "lucky_star",
@@ -1461,7 +1643,8 @@
     "owner": "Ellen Ripley",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/IconPerks_luckyStar.png/revision/latest/scale-to-width-down/96?cb=20230808160212",
-    "name_pt": "Estrela da Sorte"
+    "name_pt": "Estrela da Sorte",
+    "name_es": "estrella de la suerte"
   },
   {
     "id": "machine_learning",
@@ -1469,7 +1652,8 @@
     "owner": "The Singularity",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/IconPerks_machineLearning.png/revision/latest/scale-to-width-down/96?cb=20230524214741",
-    "name_pt": "Aprendizado de máquina"
+    "name_pt": "Aprendizado de máquina",
+    "name_es": "Aprendizaje automático"
   },
   {
     "id": "mad_grit",
@@ -1477,7 +1661,8 @@
     "owner": "The Legion",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/da/IconPerks_madGrit.png/revision/latest/scale-to-width-down/96?cb=20181128100906",
-    "name_pt": "Grit louco"
+    "name_pt": "Grit louco",
+    "name_es": "Valor loco"
   },
   {
     "id": "made_for_this",
@@ -1485,7 +1670,8 @@
     "owner": "Gabriel Soma",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/IconPerks_madeForThis.png/revision/latest/scale-to-width-down/96?cb=20230524205724",
-    "name_pt": "Feito para isso"
+    "name_pt": "Feito para isso",
+    "name_es": "Hecho para esto"
   },
   {
     "id": "make_your_choice",
@@ -1493,7 +1679,8 @@
     "owner": "The Pig",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/IconPerks_makeYourChoice.png/revision/latest/scale-to-width-down/96?cb=20180123224326",
-    "name_pt": "Faça sua escolha"
+    "name_pt": "Faça sua escolha",
+    "name_es": "Haz tu elección"
   },
   {
     "id": "merciless_storm",
@@ -1501,7 +1688,8 @@
     "owner": "The Onryō",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/IconPerks_mercilessStorm.png/revision/latest/scale-to-width-down/96?cb=20220216120012",
-    "name_pt": "Tempestade Impiedosa"
+    "name_pt": "Tempestade Impiedosa",
+    "name_es": "Tormenta despiadada"
   },
   {
     "id": "mettle_of_man",
@@ -1509,7 +1697,8 @@
     "owner": "Ashley J. Williams",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_mettleOfMan.png/revision/latest/scale-to-width-down/96?cb=20190402180459",
-    "name_pt": "Coragem do Homem"
+    "name_pt": "Coragem do Homem",
+    "name_es": "Temple del hombre"
   },
   {
     "id": "mindbreaker",
@@ -1517,7 +1706,8 @@
     "owner": "The Demogorgon",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_mindbreaker.png/revision/latest/scale-to-width-down/96?cb=20190903175217",
-    "name_pt": "Quebra-mentes"
+    "name_pt": "Quebra-mentes",
+    "name_es": "rompementes"
   },
   {
     "id": "mirrored_illusion",
@@ -1525,7 +1715,8 @@
     "owner": "Aestri Yazar",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_mirroredIllusion.png/revision/latest/scale-to-width-down/96?cb=20240514174203",
-    "name_pt": "Ilusão Espelhada"
+    "name_pt": "Ilusão Espelhada",
+    "name_es": "Ilusión reflejada"
   },
   {
     "id": "moment_of_glory",
@@ -1533,7 +1724,8 @@
     "owner": "Trevor Belmont",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/98/IconPerks_MomentOfGlory.png/revision/latest/scale-to-width-down/96?cb=20240806171421",
-    "name_pt": "Momento de Glória"
+    "name_pt": "Momento de Glória",
+    "name_es": "Momento de gloria"
   },
   {
     "id": "monitor_and_abuse",
@@ -1541,7 +1733,8 @@
     "owner": "The Doctor",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_monitorAndAbuse.png/revision/latest/scale-to-width-down/96?cb=20170511153248",
-    "name_pt": "Monitorar e abusar"
+    "name_pt": "Monitorar e abusar",
+    "name_es": "Monitoreo y Abuso"
   },
   {
     "id": "nemesis",
@@ -1549,7 +1742,8 @@
     "owner": "The Oni",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/IconPerks_nemesis.png/revision/latest/scale-to-width-down/96?cb=20191126213602",
-    "name_pt": "Nêmesis"
+    "name_pt": "Nêmesis",
+    "name_es": "Justicia"
   },
   {
     "id": "no_mither",
@@ -1557,7 +1751,8 @@
     "owner": "David King",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_noMither.png/revision/latest/scale-to-width-down/96?cb=20170727161003",
-    "name_pt": "Não Mither"
+    "name_pt": "Não Mither",
+    "name_es": "Sin madre"
   },
   {
     "id": "no_one_left_behind",
@@ -1565,7 +1760,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_noOneLeftBehind.png/revision/latest/scale-to-width-down/96?cb=20160605205026",
-    "name_pt": "Ninguém ficou para trás"
+    "name_pt": "Ninguém ficou para trás",
+    "name_es": "Nadie se queda atrás"
   },
   {
     "id": "no_quarter",
@@ -1573,7 +1769,8 @@
     "owner": "The Houndmaster",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_noQuarter.png/revision/latest/scale-to-width-down/96?cb=20241107202153",
-    "name_pt": "Sem trimestre"
+    "name_pt": "Sem trimestre",
+    "name_es": "Sin cuarto"
   },
   {
     "id": "no_way_out",
@@ -1581,7 +1778,8 @@
     "owner": "The Trickster",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_noWayOut.png/revision/latest/scale-to-width-down/96?cb=20210302172337",
-    "name_pt": "Sem saída"
+    "name_pt": "Sem saída",
+    "name_es": "No hay salida"
   },
   {
     "id": "none_are_free",
@@ -1589,7 +1787,8 @@
     "owner": "The Ghoul",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5c/IconPerks_noneAreFree.png/revision/latest/scale-to-width-down/96?cb=20250616212702",
-    "name_pt": "Nenhum é gratuito"
+    "name_pt": "Nenhum é gratuito",
+    "name_es": "Ninguno es gratis"
   },
   {
     "id": "nowhere_to_hide",
@@ -1597,7 +1796,8 @@
     "owner": "The Knight",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/IconPerks_nowhereToHide.png/revision/latest/scale-to-width-down/96?cb=20221102143126",
-    "name_pt": "Nenhum lugar para se esconder"
+    "name_pt": "Nenhum lugar para se esconder",
+    "name_es": "Ningún lugar donde esconderse"
   },
   {
     "id": "object_of_obsession",
@@ -1605,7 +1805,8 @@
     "owner": "Laurie Strode",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_objectOfObsession.png/revision/latest/scale-to-width-down/96?cb=20161023112952",
-    "name_pt": "Objeto de Obsessão"
+    "name_pt": "Objeto de Obsessão",
+    "name_es": "Objeto de obsesión"
   },
   {
     "id": "off_the_record",
@@ -1613,7 +1814,8 @@
     "owner": "Zarina Kassir",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_offTheRecord.png/revision/latest/scale-to-width-down/96?cb=20200218172747",
-    "name_pt": "Fora do registro"
+    "name_pt": "Fora do registro",
+    "name_es": "Fuera del registro"
   },
   {
     "id": "one_two_three_four",
@@ -1621,7 +1823,8 @@
     "owner": "Vee Boonyasak",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_OneTwoThreeFour.png?bc3808",
-    "name_pt": "UM-DOIS-TRÊS-QUATRO!"
+    "name_pt": "UM-DOIS-TRÊS-QUATRO!",
+    "name_es": "¡UNO-DOS-TRES-CUATRO!"
   },
   {
     "id": "open_handed",
@@ -1629,7 +1832,8 @@
     "owner": "Ace Visconti",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_open-Handed.png/revision/latest/scale-to-width-down/96?cb=20161210091243",
-    "name_pt": "De mãos abertas"
+    "name_pt": "De mãos abertas",
+    "name_es": "Con la mano abierta"
   },
   {
     "id": "oppression",
@@ -1637,7 +1841,8 @@
     "owner": "The Twins",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/IconPerks_oppression.png/revision/latest/scale-to-width-down/96?cb=20201112095043",
-    "name_pt": "Opressão"
+    "name_pt": "Opressão",
+    "name_es": "Opresión"
   },
   {
     "id": "overcharge",
@@ -1645,7 +1850,8 @@
     "owner": "The Doctor",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_overcharge.png/revision/latest/scale-to-width-down/96?cb=20170511153315",
-    "name_pt": "Sobrecarga"
+    "name_pt": "Sobrecarga",
+    "name_es": "Sobrecargar"
   },
   {
     "id": "overcome",
@@ -1653,7 +1859,8 @@
     "owner": "Jonah Vasquez",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_overcome.png/revision/latest/scale-to-width-down/96?cb=20211109180747",
-    "name_pt": "Superar"
+    "name_pt": "Superar",
+    "name_es": "Superar"
   },
   {
     "id": "overwhelming_presence",
@@ -1661,7 +1868,8 @@
     "owner": "The Doctor",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_overwhelmingPresence.png/revision/latest/scale-to-width-down/96?cb=20170511153235",
-    "name_pt": "Presença esmagadora"
+    "name_pt": "Presença esmagadora",
+    "name_es": "Presencia abrumadora"
   },
   {
     "id": "overzealous",
@@ -1669,7 +1877,8 @@
     "owner": "Haddie Kaur",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/IconPerks_overzealous.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
-    "name_pt": "Excesso de zelo"
+    "name_pt": "Excesso de zelo",
+    "name_es": "Demasiado entusiasta"
   },
   {
     "id": "parental_guidance",
@@ -1677,7 +1886,8 @@
     "owner": "Yoichi Asakawa",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_parentalGuidance.png/revision/latest/scale-to-width-down/96?cb=20220216120019",
-    "name_pt": "Orientação Parental"
+    "name_pt": "Orientação Parental",
+    "name_es": "Orientación de los padres"
   },
   {
     "id": "phantom_fear",
@@ -1685,7 +1895,8 @@
     "owner": "The Animatronic",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_phantomFear.png/revision/latest/scale-to-width-down/96?cb=20250528034546",
-    "name_pt": "Medo Fantasma"
+    "name_pt": "Medo Fantasma",
+    "name_es": "Miedo fantasma"
   },
   {
     "id": "pharmacy",
@@ -1693,7 +1904,8 @@
     "owner": "Quentin Smith",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_pharmacy.png/revision/latest/scale-to-width-down/96?cb=20171026230450",
-    "name_pt": "Farmácia"
+    "name_pt": "Farmácia",
+    "name_es": "Farmacia"
   },
   {
     "id": "play_with_your_food",
@@ -1701,7 +1913,8 @@
     "owner": "The Shape",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_playWithYourFood.png/revision/latest/scale-to-width-down/96?cb=20161023113758",
-    "name_pt": "Brinque com sua comida"
+    "name_pt": "Brinque com sua comida",
+    "name_es": "Juega con tu comida"
   },
   {
     "id": "plot_twist",
@@ -1709,7 +1922,8 @@
     "owner": "Nicolas Cage",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_plotTwist.png/revision/latest/scale-to-width-down/96?cb=20230705160003",
-    "name_pt": "Reviravolta na história"
+    "name_pt": "Reviravolta na história",
+    "name_es": "Giro de la trama"
   },
   {
     "id": "plunderers_instinct",
@@ -1717,7 +1931,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/IconPerks_plunderersInstinct.png/revision/latest/scale-to-width-down/96?cb=20160605205031",
-    "name_pt": "Instinto do Saqueador"
+    "name_pt": "Instinto do Saqueador",
+    "name_es": "El instinto del saqueador"
   },
   {
     "id": "poised",
@@ -1725,7 +1940,8 @@
     "owner": "Jane Romero",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_poised.png/revision/latest/scale-to-width-down/96?cb=20190308175429",
-    "name_pt": "Preparado"
+    "name_pt": "Preparado",
+    "name_es": "Listo"
   },
   {
     "id": "pop_goes_the_weasel",
@@ -1733,7 +1949,8 @@
     "owner": "The Clown",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_popGoesTheWeasel.png/revision/latest/scale-to-width-down/96?cb=20180529205138",
-    "name_pt": "Pop vai a doninha"
+    "name_pt": "Pop vai a doninha",
+    "name_es": "Pop se vuelve comadreja"
   },
   {
     "id": "potential_energy",
@@ -1741,7 +1958,8 @@
     "owner": "Vittorio Toscano",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_potentialEnergy.png/revision/latest/scale-to-width-down/96?cb=20221102143127",
-    "name_pt": "Energia Potencial"
+    "name_pt": "Energia Potencial",
+    "name_es": "Energía potencial"
   },
   {
     "id": "power_struggle",
@@ -1749,7 +1967,8 @@
     "owner": "Elodie Rakoto",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/IconPerks_powerStruggle.png/revision/latest/scale-to-width-down/96?cb=20201112095050",
-    "name_pt": "Luta pelo poder"
+    "name_pt": "Luta pelo poder",
+    "name_es": "Lucha por el poder"
   },
   {
     "id": "predator",
@@ -1757,7 +1976,8 @@
     "owner": "The Wraith",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/IconPerks_predator.png/revision/latest/scale-to-width-down/96?cb=20160605205037",
-    "name_pt": "Predador"
+    "name_pt": "Predador",
+    "name_es": "Depredador"
   },
   {
     "id": "premonition",
@@ -1765,7 +1985,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/IconPerks_premonition.png/revision/latest/scale-to-width-down/96?cb=20160605205043",
-    "name_pt": "Premonição"
+    "name_pt": "Premonição",
+    "name_es": "Premonición"
   },
   {
     "id": "prove_thyself",
@@ -1773,7 +1994,8 @@
     "owner": "Dwight Fairfield",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_proveThyself.png/revision/latest/scale-to-width-down/96?cb=20160605205049",
-    "name_pt": "Prove a si mesmo"
+    "name_pt": "Prove a si mesmo",
+    "name_es": "Ponte a prueba"
   },
   {
     "id": "quick_and_quiet",
@@ -1781,7 +2003,8 @@
     "owner": "Meg Thomas",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_quickAndQuiet.png/revision/latest/scale-to-width-down/96?cb=20160605205055",
-    "name_pt": "Rápido e silencioso"
+    "name_pt": "Rápido e silencioso",
+    "name_es": "Rápido y silencioso"
   },
   {
     "id": "quick_gambit",
@@ -1789,7 +2012,8 @@
     "owner": "Vittorio Toscano",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_quickGambit.png/revision/latest/scale-to-width-down/96?cb=20221102143123",
-    "name_pt": "Gambito Rápido"
+    "name_pt": "Gambito Rápido",
+    "name_es": "Gambito rápido"
   },
   {
     "id": "rampage",
@@ -1797,7 +2021,8 @@
     "owner": "The Slasher",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_Rampage.png?8e42eb",
-    "name_pt": "Fúria"
+    "name_pt": "Fúria",
+    "name_es": "Alboroto"
   },
   {
     "id": "rancor",
@@ -1805,7 +2030,8 @@
     "owner": "The Spirit",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_rancor.png/revision/latest/scale-to-width-down/96?cb=20180828172949",
-    "name_pt": "Rancor"
+    "name_pt": "Rancor",
+    "name_es": "Rencor"
   },
   {
     "id": "rapid_brutality",
@@ -1813,7 +2039,8 @@
     "owner": "The Xenomorph",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/IconPerks_rapidBrutality.png/revision/latest/scale-to-width-down/96?cb=20230808160213",
-    "name_pt": "Brutalidade Rápida"
+    "name_pt": "Brutalidade Rápida",
+    "name_es": "Brutalidad rápida"
   },
   {
     "id": "rapid_response",
@@ -1821,7 +2048,8 @@
     "owner": "Orela Rose",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_RapidResponse.png?25c13f",
-    "name_pt": "Resposta Rápida"
+    "name_pt": "Resposta Rápida",
+    "name_es": "Respuesta Rápida"
   },
   {
     "id": "ravenous",
@@ -1829,7 +2057,8 @@
     "owner": "The Krasue",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_Ravenous.png?c9c858",
-    "name_pt": "Voraz"
+    "name_pt": "Voraz",
+    "name_es": "Voraz"
   },
   {
     "id": "reactive_healing",
@@ -1837,7 +2066,8 @@
     "owner": "Ada Wong",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_reactiveHealing.png/revision/latest/scale-to-width-down/96?cb=20220815051757",
-    "name_pt": "Cura Reativa"
+    "name_pt": "Cura Reativa",
+    "name_es": "Curación reactiva"
   },
   {
     "id": "reassurance",
@@ -1845,7 +2075,8 @@
     "owner": "Rebecca Chambers",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/IconPerks_reassurance.png/revision/latest/scale-to-width-down/96?cb=20220815051841",
-    "name_pt": "Resseguro"
+    "name_pt": "Resseguro",
+    "name_es": "Seguridades"
   },
   {
     "id": "red_herring",
@@ -1853,7 +2084,8 @@
     "owner": "Zarina Kassir",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_redHerring.png/revision/latest/scale-to-width-down/96?cb=20200218172728",
-    "name_pt": "Arenque Vermelho"
+    "name_pt": "Arenque Vermelho",
+    "name_es": "arenque rojo"
   },
   {
     "id": "remember_me",
@@ -1861,7 +2093,8 @@
     "owner": "The Nightmare",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_rememberMe.png/revision/latest/scale-to-width-down/96?cb=20171026225659",
-    "name_pt": "Lembre de mim"
+    "name_pt": "Lembre de mim",
+    "name_es": "Acuérdate de mí"
   },
   {
     "id": "repressed_alliance",
@@ -1869,7 +2102,8 @@
     "owner": "Cheryl Mason",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_repressedAlliance.png/revision/latest/scale-to-width-down/96?cb=20200526201745",
-    "name_pt": "Aliança Reprimida"
+    "name_pt": "Aliança Reprimida",
+    "name_es": "Alianza reprimida"
   },
   {
     "id": "residual_manifest",
@@ -1877,7 +2111,8 @@
     "owner": "Haddie Kaur",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_residualManifest.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
-    "name_pt": "Manifesto Residual"
+    "name_pt": "Manifesto Residual",
+    "name_es": "Manifiesto residual"
   },
   {
     "id": "resilience",
@@ -1885,7 +2120,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_resilience.png/revision/latest/scale-to-width-down/96?cb=20160605205100",
-    "name_pt": "Resiliência"
+    "name_pt": "Resiliência",
+    "name_es": "Resiliencia"
   },
   {
     "id": "resurgence",
@@ -1893,7 +2129,8 @@
     "owner": "Jill Valentine",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/IconPerks_resurgence.png/revision/latest/scale-to-width-down/96?cb=20210526103300",
-    "name_pt": "Ressurgimento"
+    "name_pt": "Ressurgimento",
+    "name_es": "Resurgimiento"
   },
   {
     "id": "road_life",
@@ -1901,7 +2138,8 @@
     "owner": "Vee Boonyasak",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_RoadLife.png?e0ae39",
-    "name_pt": "Vida na estrada"
+    "name_pt": "Vida na estrada",
+    "name_es": "vida en la carretera"
   },
   {
     "id": "rookie_spirit",
@@ -1909,7 +2147,8 @@
     "owner": "Leon S. Kennedy",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/IconPerks_rookieSpirit.png/revision/latest/scale-to-width-down/96?cb=20210526103548",
-    "name_pt": "Espírito Novato"
+    "name_pt": "Espírito Novato",
+    "name_es": "Espíritu novato"
   },
   {
     "id": "saboteur",
@@ -1917,7 +2156,8 @@
     "owner": "Jake Park",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/IconPerks_saboteur.png/revision/latest/scale-to-width-down/96?cb=20200220105714",
-    "name_pt": "Sabotador"
+    "name_pt": "Sabotador",
+    "name_es": "Saboteador"
   },
   {
     "id": "salvations_cry",
@@ -1925,7 +2165,8 @@
     "owner": "Aurora Stardotter",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_SalvationsCry.png?697de7",
-    "name_pt": "O grito de salvação"
+    "name_pt": "O grito de salvação",
+    "name_es": "El grito de salvación"
   },
   {
     "id": "save_the_best_for_last",
@@ -1933,7 +2174,8 @@
     "owner": "The Shape",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_saveTheBestForLast.png/revision/latest/scale-to-width-down/96?cb=20161023113950",
-    "name_pt": "Guarde o melhor para o final"
+    "name_pt": "Guarde o melhor para o final",
+    "name_es": "Guarda lo mejor para el final"
   },
   {
     "id": "scavenger",
@@ -1941,7 +2183,8 @@
     "owner": "Gabriel Soma",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_scavenger.png/revision/latest/scale-to-width-down/96?cb=20230524205539",
-    "name_pt": "Catador"
+    "name_pt": "Catador",
+    "name_es": "Basurero"
   },
   {
     "id": "scene_partner",
@@ -1949,7 +2192,8 @@
     "owner": "Nicolas Cage",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/IconPerks_scenePartner.png/revision/latest/scale-to-width-down/96?cb=20230705160003",
-    "name_pt": "Parceiro de cena"
+    "name_pt": "Parceiro de cena",
+    "name_es": "Compañero de escena"
   },
   {
     "id": "scourge_hook_floods_of_rage",
@@ -1957,7 +2201,8 @@
     "owner": "The Onryō",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_scourgeHookFloodsOfRage.png/revision/latest/scale-to-width-down/96?cb=20220216120003",
-    "name_pt": "Gancho do Flagelo: Inundações de Fúria"
+    "name_pt": "Gancho do Flagelo: Inundações de Fúria",
+    "name_es": "Gancho de la Plaga: Inundaciones de ira"
   },
   {
     "id": "scourge_hook_gift_of_pain",
@@ -1965,7 +2210,8 @@
     "owner": "The Cenobite",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_scourgeHookGiftOfPain.png?7199eb",
-    "name_pt": "Gancho do Flagelo: Dádiva da Dor"
+    "name_pt": "Gancho do Flagelo: Dádiva da Dor",
+    "name_es": "Gancho de la Plaga: Regalo del dolor"
   },
   {
     "id": "scourge_hook_hangmans_trick",
@@ -1973,7 +2219,8 @@
     "owner": "The Pig",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_scourgeHookHangmansTrick.png/revision/latest/scale-to-width-down/96?cb=20180123224254",
-    "name_pt": "Gancho do Flagelo: Truque do Carrasco"
+    "name_pt": "Gancho do Flagelo: Truque do Carrasco",
+    "name_es": "Gancho de la Plaga: el truco del ahorcado"
   },
   {
     "id": "scourge_hook_jagged_compass",
@@ -1981,7 +2228,8 @@
     "owner": "The Houndmaster",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/IconPerks_scourgeHookJaggedCompass.png/revision/latest/scale-to-width-down/96?cb=20241107202154",
-    "name_pt": "Gancho do Flagelo: Bússola Jagged"
+    "name_pt": "Gancho do Flagelo: Bússola Jagged",
+    "name_es": "Gancho de la Plaga: Brújula dentada"
   },
   {
     "id": "scourge_hook_monstrous_shrine",
@@ -1989,7 +2237,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_scourgeHookMonstrousShrine.png/revision/latest/scale-to-width-down/96?cb=20160605205014",
-    "name_pt": "Gancho do Flagelo: Santuário Monstruoso"
+    "name_pt": "Gancho do Flagelo: Santuário Monstruoso",
+    "name_es": "Gancho de la Plaga: Santuario monstruoso"
   },
   {
     "id": "scourge_hook_pain_resonance",
@@ -1997,7 +2246,8 @@
     "owner": "The Artist",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_scourgeHookPainResonance.png/revision/latest/scale-to-width-down/96?cb=20211109180802",
-    "name_pt": "Gancho do Flagelo: Ressonância da Dor"
+    "name_pt": "Gancho do Flagelo: Ressonância da Dor",
+    "name_es": "Gancho de la Plaga: Resonancia del dolor"
   },
   {
     "id": "second_wind",
@@ -2005,7 +2255,8 @@
     "owner": "Steve Harrington",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_secondWind.png/revision/latest/scale-to-width-down/96?cb=20190903175238",
-    "name_pt": "Segundo Vento"
+    "name_pt": "Segundo Vento",
+    "name_es": "Segundo aliento"
   },
   {
     "id": "secret_project",
@@ -2013,7 +2264,8 @@
     "owner": "The First",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_SecretProject.png?139f37",
-    "name_pt": "Projeto Secreto"
+    "name_pt": "Projeto Secreto",
+    "name_es": "Proyecto secreto"
   },
   {
     "id": "self_care",
@@ -2021,7 +2273,8 @@
     "owner": "Claudette Morel",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_self-Care.png/revision/latest/scale-to-width-down/96?cb=20160605205112",
-    "name_pt": "Autocuidados"
+    "name_pt": "Autocuidados",
+    "name_es": "Cuidados personales"
   },
   {
     "id": "self_preservation",
@@ -2029,7 +2282,8 @@
     "owner": "Lee Yun-Jin",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/IconPerks_self-Preservation.png/revision/latest/scale-to-width-down/96?cb=20210302172351",
-    "name_pt": "Autopreservação"
+    "name_pt": "Autopreservação",
+    "name_es": "Autoconservación"
   },
   {
     "id": "septic_touch",
@@ -2037,7 +2291,8 @@
     "owner": "The Dredge",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconPerks_septicTouch.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
-    "name_pt": "Toque Séptico"
+    "name_pt": "Toque Séptico",
+    "name_es": "Toque séptico"
   },
   {
     "id": "shadowborn",
@@ -2045,7 +2300,8 @@
     "owner": "The Wraith",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_shadowborn.png/revision/latest/scale-to-width-down/96?cb=20160605205118",
-    "name_pt": "Nascido das Sombras"
+    "name_pt": "Nascido das Sombras",
+    "name_es": "Nacido de las sombras"
   },
   {
     "id": "shattered_hope",
@@ -2053,7 +2309,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_shatteredHope.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
-    "name_pt": "Esperança despedaçada"
+    "name_pt": "Esperança despedaçada",
+    "name_es": "Esperanza destrozada"
   },
   {
     "id": "shoulder_the_burden",
@@ -2061,7 +2318,8 @@
     "owner": "Taurie Cain",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/IconPerks_shoulderTheBurden.png/revision/latest/scale-to-width-down/96?cb=20241107202157",
-    "name_pt": "Assuma o fardo"
+    "name_pt": "Assuma o fardo",
+    "name_es": "Asumir la carga"
   },
   {
     "id": "silent_shadow",
@@ -2069,7 +2327,8 @@
     "owner": "The Slasher",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/T_UI_iconsPerks_SilentShadow.png?bbf33d",
-    "name_pt": "Sombra Silenciosa"
+    "name_pt": "Sombra Silenciosa",
+    "name_es": "Sombra silenciosa"
   },
   {
     "id": "slippery_meat",
@@ -2077,7 +2336,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/IconPerks_slipperyMeat.png/revision/latest/scale-to-width-down/96?cb=20201105152240",
-    "name_pt": "Carne escorregadia"
+    "name_pt": "Carne escorregadia",
+    "name_es": "Carne resbaladiza"
   },
   {
     "id": "sloppy_butcher",
@@ -2085,7 +2345,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_sloppyButcher.png/revision/latest/scale-to-width-down/96?cb=20160605205130",
-    "name_pt": "Açougueiro Desleixado"
+    "name_pt": "Açougueiro Desleixado",
+    "name_es": "carnicero descuidado"
   },
   {
     "id": "small_game",
@@ -2093,7 +2354,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/IconPerks_smallGame.png/revision/latest/scale-to-width-down/96?cb=20210414100522",
-    "name_pt": "Jogo Pequeno"
+    "name_pt": "Jogo Pequeno",
+    "name_es": "Caza menor"
   },
   {
     "id": "smash_hit",
@@ -2101,7 +2363,8 @@
     "owner": "Lee Yun-Jin",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_smashHit.png/revision/latest/scale-to-width-down/96?cb=20210302172407",
-    "name_pt": "Golpe Esmagador"
+    "name_pt": "Golpe Esmagador",
+    "name_es": "Golpe aplastante"
   },
   {
     "id": "sole_survivor",
@@ -2109,7 +2372,8 @@
     "owner": "Laurie Strode",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/IconPerks_soleSurvivor.png/revision/latest/scale-to-width-down/96?cb=20161023113045",
-    "name_pt": "Único Sobrevivente"
+    "name_pt": "Único Sobrevivente",
+    "name_es": "Único superviviente"
   },
   {
     "id": "solidarity",
@@ -2117,7 +2381,8 @@
     "owner": "Jane Romero",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_solidarity.png/revision/latest/scale-to-width-down/96?cb=20190308175435",
-    "name_pt": "Solidariedade"
+    "name_pt": "Solidariedade",
+    "name_es": "Solidaridad"
   },
   {
     "id": "soul_guard",
@@ -2125,7 +2390,8 @@
     "owner": "Cheryl Mason",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_soulGuard.png/revision/latest/scale-to-width-down/96?cb=20200526201807",
-    "name_pt": "Guarda da Alma"
+    "name_pt": "Guarda da Alma",
+    "name_es": "Guardia del alma"
   },
   {
     "id": "specialist",
@@ -2133,7 +2399,8 @@
     "owner": "Lara Croft",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_specialist.png/revision/latest/scale-to-width-down/96?cb=20240625161548",
-    "name_pt": "Especialista"
+    "name_pt": "Especialista",
+    "name_es": "Especialista"
   },
   {
     "id": "spies_from_the_shadows",
@@ -2141,7 +2408,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_spiesFromTheShadows.png/revision/latest/scale-to-width-down/96?cb=20160605205141",
-    "name_pt": "Espiões das Sombras"
+    "name_pt": "Espiões das Sombras",
+    "name_es": "Espías de las sombras"
   },
   {
     "id": "spine_chill",
@@ -2149,7 +2417,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_spineChill.png/revision/latest/scale-to-width-down/96?cb=20160605205147",
-    "name_pt": "Arrepio na espinha"
+    "name_pt": "Arrepio na espinha",
+    "name_es": "Escalofrío de la columna vertebral"
   },
   {
     "id": "spirit_fury",
@@ -2157,7 +2426,8 @@
     "owner": "The Spirit",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_spiritFury.png/revision/latest/scale-to-width-down/96?cb=20180828172940",
-    "name_pt": "Fúria Espiritual"
+    "name_pt": "Fúria Espiritual",
+    "name_es": "Furia espiritual"
   },
   {
     "id": "sprint_burst",
@@ -2165,7 +2435,8 @@
     "owner": "Meg Thomas",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e4/IconPerks_sprintBurst.png/revision/latest/scale-to-width-down/96?cb=20160605205153",
-    "name_pt": "Explosão de velocidade"
+    "name_pt": "Explosão de velocidade",
+    "name_es": "Explosión de velocidad"
   },
   {
     "id": "stake_out",
@@ -2173,7 +2444,8 @@
     "owner": "Detective Tapp",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/IconPerks_stakeOut.png/revision/latest/scale-to-width-down/96?cb=20180123224338",
-    "name_pt": "Demarcar"
+    "name_pt": "Demarcar",
+    "name_es": "Replantear"
   },
   {
     "id": "starstruck",
@@ -2181,7 +2453,8 @@
     "owner": "The Trickster",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/IconPerks_starstruck.png/revision/latest/scale-to-width-down/96?cb=20210302172426",
-    "name_pt": "Fascinado pelas estrelas"
+    "name_pt": "Fascinado pelas estrelas",
+    "name_es": "deslumbrado"
   },
   {
     "id": "still_sight",
@@ -2189,7 +2462,8 @@
     "owner": "Aestri Yazar",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/IconPerks_stillSight.png/revision/latest/scale-to-width-down/96?cb=20240514174204",
-    "name_pt": "Ainda vista"
+    "name_pt": "Ainda vista",
+    "name_es": "Vista fija"
   },
   {
     "id": "strength_in_shadows",
@@ -2197,7 +2471,8 @@
     "owner": "Sable Ward",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/IconPerks_strengthInShadows.png/revision/latest/scale-to-width-down/96?cb=20240220182529",
-    "name_pt": "Força nas sombras"
+    "name_pt": "Força nas sombras",
+    "name_es": "Fuerza en las sombras"
   },
   {
     "id": "stridor",
@@ -2205,7 +2480,8 @@
     "owner": "The Nurse",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/IconPerks_stridor.png/revision/latest/scale-to-width-down/96?cb=20160820085653",
-    "name_pt": "Estridor"
+    "name_pt": "Estridor",
+    "name_es": "estridor"
   },
   {
     "id": "streetwise",
@@ -2213,7 +2489,8 @@
     "owner": "Nea Karlsson",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_streetwise.png/revision/latest/scale-to-width-down/96?cb=20160821134155",
-    "name_pt": "Manha"
+    "name_pt": "Manha",
+    "name_es": "astuto"
   },
   {
     "id": "superior_anatomy",
@@ -2221,7 +2498,8 @@
     "owner": "The Mastermind",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/IconPerks_superiorAnatomy.png/revision/latest/scale-to-width-down/96?cb=20220815051818",
-    "name_pt": "Anatomia Superior"
+    "name_pt": "Anatomia Superior",
+    "name_es": "Anatomía Superior"
   },
   {
     "id": "surge",
@@ -2229,7 +2507,8 @@
     "owner": "The Demogorgon",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_surge.png/revision/latest/scale-to-width-down/96?cb=20190903175259",
-    "name_pt": "Surto"
+    "name_pt": "Surto",
+    "name_es": "Aumento"
   },
   {
     "id": "surveillance",
@@ -2237,7 +2516,8 @@
     "owner": "The Pig",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_surveillance.png/revision/latest/scale-to-width-down/96?cb=20180123224351",
-    "name_pt": "Vigilância"
+    "name_pt": "Vigilância",
+    "name_es": "Vigilancia"
   },
   {
     "id": "teamwork_collective_stealth",
@@ -2245,7 +2525,8 @@
     "owner": "Renato Lyra",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_teamworkCollectiveStealth.png/revision/latest/scale-to-width-down/96?cb=20230218135318",
-    "name_pt": "Trabalho em equipe: furtividade coletiva"
+    "name_pt": "Trabalho em equipe: furtividade coletiva",
+    "name_es": "Trabajo en equipo: sigilo colectivo"
   },
   {
     "id": "teamwork_full_circuit",
@@ -2253,7 +2534,8 @@
     "owner": "Dustin Henderson",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_TeamworkFullCircuit.png?33a898",
-    "name_pt": "Trabalho em equipe: circuito completo"
+    "name_pt": "Trabalho em equipe: circuito completo",
+    "name_es": "Trabajo en equipo: circuito completo"
   },
   {
     "id": "teamwork_power_of_two",
@@ -2261,7 +2543,8 @@
     "owner": "Thalita Lyra",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_teamworkPowerOfTwo.png/revision/latest/scale-to-width-down/96?cb=20230218135319",
-    "name_pt": "Trabalho em equipe: poder de dois"
+    "name_pt": "Trabalho em equipe: poder de dois",
+    "name_es": "Trabajo en equipo: poder de dos"
   },
   {
     "id": "teamwork_soft_spoken",
@@ -2269,7 +2552,8 @@
     "owner": "Eleven",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_TeamworkSoftSpoken.png?67d34c",
-    "name_pt": "Trabalho em equipe: fala mansa"
+    "name_pt": "Trabalho em equipe: fala mansa",
+    "name_es": "Trabajo en equipo: de voz suave"
   },
   {
     "id": "teamwork_throw_down",
@@ -2277,7 +2561,8 @@
     "owner": "Michonne Grimes",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_teamworkThrowDown.png?69a5fd",
-    "name_pt": "Trabalho em equipe: jogar para baixo"
+    "name_pt": "Trabalho em equipe: jogar para baixo",
+    "name_es": "Trabajo en equipo: tirar abajo"
   },
   {
     "id": "teamwork_toughen_up",
@@ -2285,7 +2570,8 @@
     "owner": "Rick Grimes",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_teamworkToughenUp.png?f0b7f2",
-    "name_pt": "Trabalho em equipe: fortalecer"
+    "name_pt": "Trabalho em equipe: fortalecer",
+    "name_es": "Trabajo en equipo: endurecerse"
   },
   {
     "id": "technician",
@@ -2293,7 +2579,8 @@
     "owner": "Feng Min",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_technician.png/revision/latest/scale-to-width-down/96?cb=20170511153221",
-    "name_pt": "Técnico"
+    "name_pt": "Técnico",
+    "name_es": "Técnico"
   },
   {
     "id": "tenacity",
@@ -2301,7 +2588,8 @@
     "owner": "Detective Tapp",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/IconPerks_tenacity.png/revision/latest/scale-to-width-down/96?cb=20180123224404",
-    "name_pt": "Tenacidade"
+    "name_pt": "Tenacidade",
+    "name_es": "Tenacidad"
   },
   {
     "id": "terminus",
@@ -2309,7 +2597,8 @@
     "owner": "The Mastermind",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_terminus.png/revision/latest/scale-to-width-down/96?cb=20220815051853",
-    "name_pt": "Término"
+    "name_pt": "Término",
+    "name_es": "Término"
   },
   {
     "id": "territorial_imperative",
@@ -2317,7 +2606,8 @@
     "owner": "The Huntress",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/IconPerks_territorialImperative.png/revision/latest/scale-to-width-down/96?cb=20170727160846",
-    "name_pt": "Imperativo Territorial"
+    "name_pt": "Imperativo Territorial",
+    "name_es": "Imperativo Territorial"
   },
   {
     "id": "thanatophobia",
@@ -2325,7 +2615,8 @@
     "owner": "The Nurse",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_thanatophobia.png/revision/latest/scale-to-width-down/96?cb=20160820090639",
-    "name_pt": "Tanatofobia"
+    "name_pt": "Tanatofobia",
+    "name_es": "tanatofobia"
   },
   {
     "id": "this_is_not_happening",
@@ -2333,7 +2624,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_thisIsNotHappening.png/revision/latest/scale-to-width-down/96?cb=20160605205158",
-    "name_pt": "Isso não está acontecendo"
+    "name_pt": "Isso não está acontecendo",
+    "name_es": "Esto no está pasando"
   },
   {
     "id": "thrilling_tremors",
@@ -2341,7 +2633,8 @@
     "owner": "The Ghost Face",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_thrillingTremors.png/revision/latest/scale-to-width-down/96?cb=20190606094359",
-    "name_pt": "Tremores emocionantes"
+    "name_pt": "Tremores emocionantes",
+    "name_es": "Temblores emocionantes"
   },
   {
     "id": "thwack",
@@ -2349,7 +2642,8 @@
     "owner": "The Skull Merchant",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_thwack.png/revision/latest/scale-to-width-down/96?cb=20230218135321",
-    "name_pt": "PAULADA!"
+    "name_pt": "PAULADA!",
+    "name_es": "¡APORREAR!"
   },
   {
     "id": "tinkerer",
@@ -2357,7 +2651,8 @@
     "owner": "The Hillbilly",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/IconPerks_tinkerer.png/revision/latest/scale-to-width-down/96?cb=20160605205204",
-    "name_pt": "Funileiro"
+    "name_pt": "Funileiro",
+    "name_es": "manitas"
   },
   {
     "id": "trail_of_torment",
@@ -2365,7 +2660,8 @@
     "owner": "The Executioner",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_trailOfTorment.png/revision/latest/scale-to-width-down/96?cb=20200526201821",
-    "name_pt": "Trilha do Tormento"
+    "name_pt": "Trilha do Tormento",
+    "name_es": "Rastro del tormento"
   },
   {
     "id": "troubleshooter",
@@ -2373,7 +2669,8 @@
     "owner": "Gabriel Soma",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_troubleshooter.png/revision/latest/scale-to-width-down/96?cb=20230524205359",
-    "name_pt": "Solucionador de problemas"
+    "name_pt": "Solucionador de problemas",
+    "name_es": "Bombero"
   },
   {
     "id": "turn_back_the_clock",
@@ -2381,7 +2678,8 @@
     "owner": "The First",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_TurnBackTheClock.png?17d1df",
-    "name_pt": "Volte o relógio"
+    "name_pt": "Volte o relógio",
+    "name_es": "Retroceder el reloj"
   },
   {
     "id": "ultimate_weapon",
@@ -2389,7 +2687,8 @@
     "owner": "The Xenomorph",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/IconPerks_ultimateWeapon.png/revision/latest/scale-to-width-down/96?cb=20230808160213",
-    "name_pt": "Arma definitiva"
+    "name_pt": "Arma definitiva",
+    "name_es": "Arma definitiva"
   },
   {
     "id": "unbound",
@@ -2397,7 +2696,8 @@
     "owner": "The Unknown",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_unbound.png/revision/latest/scale-to-width-down/96?cb=20240220182527",
-    "name_pt": "Não consolidado"
+    "name_pt": "Não consolidado",
+    "name_es": "Sin consolidar"
   },
   {
     "id": "unbreakable",
@@ -2405,7 +2705,8 @@
     "owner": "William \"Bill\" Overbeck",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/IconPerks_unbreakable.png/revision/latest/scale-to-width-down/96?cb=20170308184922",
-    "name_pt": "Inquebrável"
+    "name_pt": "Inquebrável",
+    "name_es": "Irrompible"
   },
   {
     "id": "undone",
@@ -2413,7 +2714,8 @@
     "owner": "The Unknown",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/IconPerks_undone.png/revision/latest/scale-to-width-down/96?cb=20240220182527",
-    "name_pt": "Desfeito"
+    "name_pt": "Desfeito",
+    "name_es": "Deshecho"
   },
   {
     "id": "unforeseen",
@@ -2421,7 +2723,8 @@
     "owner": "The Unknown",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/IconPerks_unforeseen.png/revision/latest/scale-to-width-down/96?cb=20240220182528",
-    "name_pt": "Imprevisto"
+    "name_pt": "Imprevisto",
+    "name_es": "imprevisto"
   },
   {
     "id": "unnerving_presence",
@@ -2429,7 +2732,8 @@
     "owner": "The Trapper",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/IconPerks_unnervingPresence.png/revision/latest/scale-to-width-down/96?cb=20160605205217",
-    "name_pt": "Presença enervante"
+    "name_pt": "Presença enervante",
+    "name_es": "Presencia desconcertante"
   },
   {
     "id": "unrelenting",
@@ -2437,7 +2741,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_unrelenting.png/revision/latest/scale-to-width-down/96?cb=20160605205223",
-    "name_pt": "Implacável"
+    "name_pt": "Implacável",
+    "name_es": "Implacable"
   },
   {
     "id": "up_the_ante",
@@ -2445,7 +2750,8 @@
     "owner": "Ace Visconti",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_upTheAnte.png/revision/latest/scale-to-width-down/96?cb=20161210091356",
-    "name_pt": "Aumente a aposta"
+    "name_pt": "Aumente a aposta",
+    "name_es": "Arriba la apuesta"
   },
   {
     "id": "urban_evasion",
@@ -2453,7 +2759,8 @@
     "owner": "Nea Karlsson",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_urbanEvasion.png/revision/latest/scale-to-width-down/96?cb=20160821134257",
-    "name_pt": "Evasão Urbana"
+    "name_pt": "Evasão Urbana",
+    "name_es": "Evasión urbana"
   },
   {
     "id": "vigil",
@@ -2461,7 +2768,8 @@
     "owner": "Quentin Smith",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_vigil.png/revision/latest/scale-to-width-down/96?cb=20171026230511",
-    "name_pt": "Vigília"
+    "name_pt": "Vigília",
+    "name_es": "Vigilia"
   },
   {
     "id": "visionary",
@@ -2469,7 +2777,8 @@
     "owner": "Felix Richter",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_visionary.png/revision/latest/scale-to-width-down/96?cb=20200819113857",
-    "name_pt": "Visionário"
+    "name_pt": "Visionário",
+    "name_es": "Visionario"
   },
   {
     "id": "wake_up",
@@ -2477,7 +2786,8 @@
     "owner": "Quentin Smith",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_wakeUp.png/revision/latest/scale-to-width-down/96?cb=20171026230520",
-    "name_pt": "Acordar!"
+    "name_pt": "Acordar!",
+    "name_es": "¡Despertar!"
   },
   {
     "id": "wandering_eye",
@@ -2485,7 +2795,8 @@
     "owner": "The Krasue",
     "role": "killer",
     "image": "https://deadbydaylight.wiki.gg/images/IconPerks_WanderingEye.png?80a47c",
-    "name_pt": "Olho Errante"
+    "name_pt": "Olho Errante",
+    "name_es": "Ojo errante"
   },
   {
     "id": "we_see_you",
@@ -2493,7 +2804,8 @@
     "owner": "Eleven",
     "role": "survivor",
     "image": "https://deadbydaylight.wiki.gg/images/IconsPerks_WeSeeYou.png?f6308b",
-    "name_pt": "Nós vemos você"
+    "name_pt": "Nós vemos você",
+    "name_es": "Te vemos"
   },
   {
     "id": "well_make_it",
@@ -2501,7 +2813,8 @@
     "owner": "Survivor",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/IconPerks_wellMakeIt.png/revision/latest/scale-to-width-down/96?cb=20160605205228",
-    "name_pt": "Nós vamos conseguir"
+    "name_pt": "Nós vamos conseguir",
+    "name_es": "lo lograremos"
   },
   {
     "id": "were_gonna_live_forever",
@@ -2509,7 +2822,8 @@
     "owner": "David King",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_wereGonnaLiveForever.png/revision/latest/scale-to-width-down/96?cb=20170727160948",
-    "name_pt": "Nós vamos viver para sempre"
+    "name_pt": "Nós vamos viver para sempre",
+    "name_es": "Vamos a vivir para siempre"
   },
   {
     "id": "weave_attunement",
@@ -2517,7 +2831,8 @@
     "owner": "The Lich",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/IconPerks_weaveAttunement.png/revision/latest/scale-to-width-down/96?cb=20240514174206",
-    "name_pt": "Tecer sintonização"
+    "name_pt": "Tecer sintonização",
+    "name_es": "Sintonización del tejido"
   },
   {
     "id": "whispers",
@@ -2525,7 +2840,8 @@
     "owner": "Killer",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_whispers.png/revision/latest/scale-to-width-down/96?cb=20160605205234",
-    "name_pt": "Sussurros"
+    "name_pt": "Sussurros",
+    "name_es": "susurros"
   },
   {
     "id": "wicked",
@@ -2533,7 +2849,8 @@
     "owner": "Sable Ward",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/IconPerks_wicked.png/revision/latest/scale-to-width-down/96?cb=20240220182530",
-    "name_pt": "Malvado"
+    "name_pt": "Malvado",
+    "name_es": "Malvado"
   },
   {
     "id": "wide_open_throttle",
@@ -2541,7 +2858,8 @@
     "owner": "Shane Wiigwaas",
     "role": "survivor",
     "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dead-by-daylight/4/44/WideOpenThrottle.png?width=150&format=jpg&auto=webp&quality=80",
-    "name_pt": "Acelerador totalmente aberto"
+    "name_pt": "Acelerador totalmente aberto",
+    "name_es": "Acelerador completamente abierto"
   },
   {
     "id": "windows_of_opportunity",
@@ -2549,7 +2867,8 @@
     "owner": "Kate Denson",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_windowsOfOpportunity.png/revision/latest/scale-to-width-down/96?cb=20180529195008",
-    "name_pt": "Janelas de oportunidade"
+    "name_pt": "Janelas de oportunidade",
+    "name_es": "Ventanas de oportunidad"
   },
   {
     "id": "wiretap",
@@ -2557,7 +2876,8 @@
     "owner": "Ada Wong",
     "role": "survivor",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_wiretap.png/revision/latest/scale-to-width-down/96?cb=20220815051906",
-    "name_pt": "Escuta telefônica"
+    "name_pt": "Escuta telefônica",
+    "name_es": "escuchas telefónicas"
   },
   {
     "id": "zanshin_tactics",
@@ -2565,6 +2885,7 @@
     "owner": "The Oni",
     "role": "killer",
     "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d3/IconPerks_zanshinTactics.png/revision/latest/scale-to-width-down/96?cb=20191126213608",
-    "name_pt": "Táticas Zanshin"
+    "name_pt": "Táticas Zanshin",
+    "name_es": "Tácticas Zanshin"
   }
 ]

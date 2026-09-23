@@ -1,43 +1,47 @@
 import React, { useState } from 'react';
+import { useSettings } from '../context/SettingsContext';
+import { translations } from '../utils/translations';
 import { bgKiller, bgSurvivor, killerIcon, survivorIcon } from '../utils/rarityConfig';
 import './RollHistory.css';
 
-function timeAgo(ts) {
+function timeAgo(ts, language) {
   const diff = Math.floor((Date.now() - ts) / 1000);
-  if (diff < 60)       return 'Agora mesmo';
-  if (diff < 3600)     return `${Math.floor(diff / 60)}min atrás`;
-  if (diff < 86400)    return `${Math.floor(diff / 3600)}h atrás`;
-  return               `${Math.floor(diff / 86400)}d atrás`;
+  const isEn = language === 'en';
+  if (diff < 60)       return isEn ? 'Just now' : 'Agora mesmo';
+  if (diff < 3600)     return isEn ? `${Math.floor(diff / 60)}min ago` : `${Math.floor(diff / 60)}min atrás`;
+  if (diff < 86400)    return isEn ? `${Math.floor(diff / 3600)}h ago` : `${Math.floor(diff / 3600)}h atrás`;
+  return               isEn ? `${Math.floor(diff / 86400)}d ago` : `${Math.floor(diff / 86400)}d atrás`;
 }
 
 export default function RollHistory({ history, onClear, onSelectEntry }) {
+  const { language } = useSettings();
+  const t = translations[language];
   const MAX_VISIBLE = 5;
   const hasHistory = history && history.length > 0;
   const visible = history ? history.slice(0, MAX_VISIBLE) : [];
 
   return (
-    <section className="roll-history" aria-label="Histórico de roletagens">
+    <section className="roll-history" aria-label={t.history}>
       <div className="roll-history__header">
         <h3 className="roll-history__title">
-
-          Histórico
+          {t.history}
         </h3>
         {hasHistory && (
           <button
             className="roll-history__clear-btn"
             onClick={onClear}
             id="btn-history-clear"
-            title="Limpar histórico"
+            title={t.clearHistory}
           >
-            ✕ Limpar
+            ✕ {t.clearHistory}
           </button>
         )}
       </div>
 
       {!hasHistory ? (
         <div className="roll-history__empty">
-          <p>Nenhuma roletagem recente</p>
-          <span className="roll-history__empty-hint">Suas últimas roletagens aparecerão aqui.</span>
+          <p>{t.noRecentRolls}</p>
+          <span className="roll-history__empty-hint">{t.lastRollsAppearHere}</span>
         </div>
       ) : (
         <ul className="roll-history__list">
@@ -51,7 +55,7 @@ export default function RollHistory({ history, onClear, onSelectEntry }) {
                 className={`roll-history__item roll-history__item--${entry.role} roll-history__item--clickable`}
                 style={{ animationDelay: `${i * 0.04}s`, cursor: 'pointer' }}
                 onClick={() => onSelectEntry && onSelectEntry(entry)}
-                title="Clique para restaurar este resultado"
+                title={language === 'en' ? "Click to restore this result" : "Clique para restaurar este resultado"}
               >
                 {/* Avatar (Square icon box with bgKiller / bgSurvivor, no rounding) */}
                 <div
@@ -75,7 +79,7 @@ export default function RollHistory({ history, onClear, onSelectEntry }) {
                 <div className="roll-history__info">
                   <div className="roll-history__name-row">
                     <span className="roll-history__char-name">{entry.character.name}</span>
-                    <span className="roll-history__time">{timeAgo(entry.timestamp)}</span>
+                    <span className="roll-history__time">{timeAgo(entry.timestamp, language)}</span>
                   </div>
                   {/* Perk mini-icons */}
                   {entry.perks.length > 0 && (

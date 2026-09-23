@@ -4,6 +4,7 @@ import { killerIcon, survivorIcon, bgKiller, bgSurvivor, bgPerk } from '../utils
 import killers from '../data/killers.json';
 import survivors from '../data/survivors.json';
 import perks from '../data/perks.json';
+import { translations } from '../utils/translations';
 import './SettingsPanel.css';
 
 const TABS = ['Killers', 'Survivors', 'Perks'];
@@ -14,7 +15,9 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
     disabledKillers, disabledSurvivors, disabledPerks,
     toggleKiller, toggleSurvivor, togglePerk,
     setAllKillers, setAllSurvivors, setAllPerks,
+    language
   } = useSettings();
+  const t = translations[language] || translations.pt;
 
   const [activeTab, setActiveTab]       = useState(initialTab);
   const [perkFilter, setPerkFilter]     = useState('Todos');
@@ -73,10 +76,9 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
         {/* Header */}
         <div className="settings-panel__header">
           <div className="settings-panel__title-group">
-
-            <h2 className="settings-panel__title">Configurações</h2>
+            <h2 className="settings-panel__title">{t.settings}</h2>
           </div>
-          <button className="settings-panel__close" onClick={onClose} id="btn-settings-close">✕</button>
+          <button className="settings-panel__close" onClick={onClose} id="btn-settings-close" title={t.closeSettings}>✕</button>
         </div>
 
         {/* Tabs */}
@@ -91,7 +93,7 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
               {tab === 'Killers'   && <img src={killerIcon} alt="" className="settings-tab-icon" />}
               {tab === 'Survivors' && <img src={survivorIcon} alt="" className="settings-tab-icon" />}
               {tab === 'Perks'     && <img src={bgPerk} alt="" className="settings-tab-icon settings-tab-icon--perk" />}
-              {tab}
+              {tab === 'Killers' ? t.killers : tab === 'Survivors' ? t.survivors : t.perks}
               <span className="settings-tab__count">
                 {tab === 'Killers'   && `${activeKillers}/${killers.length}`}
                 {tab === 'Survivors' && `${activeSurvivors}/${survivors.length}`}
@@ -106,7 +108,7 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
           <input
             className="settings-search"
             type="text"
-            placeholder="Buscar..."
+            placeholder={t.search}
             value={searchQuery}
             onChange={e => setSearchQuery(e.target.value)}
             id="input-settings-search"
@@ -114,10 +116,10 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
 
           {activeTab === 'Perks' && (
             <div className="settings-perk-filters">
-              {PERK_FILTERS.map(f => (
+              {[t.all, 'Killer', 'Survivor'].map(f => (
                 <button
                   key={f}
-                  className={`perk-filter-btn ${perkFilter === f ? 'perk-filter-btn--active' : ''}`}
+                  className={`perk-filter-btn ${perkFilter === f || (f === t.all && perkFilter === 'Todos') ? 'perk-filter-btn--active' : ''}`}
                   onClick={() => setPerkFilter(f)}
                   id={`btn-perk-filter-${f.toLowerCase()}`}
                 >
@@ -137,7 +139,7 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
               }}
               id="btn-settings-enable-all"
             >
-              ✓ Habilitar Todos
+              ✓ {t.enableAll}
             </button>
             <button
               className="bulk-btn bulk-btn--disable"
@@ -148,7 +150,7 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
               }}
               id="btn-settings-disable-all"
             >
-              ✕ Desabilitar Todos
+              ✕ {t.disableAll}
             </button>
           </div>
         </div>
@@ -165,7 +167,7 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
                     className={`settings-card settings-card--killer ${disabled ? 'settings-card--disabled' : ''}`}
                     onClick={() => toggleKiller(killer.id)}
                     id={`btn-toggle-killer-${killer.id}`}
-                    title={disabled ? `Habilitar ${killer.name}` : `Desabilitar ${killer.name}`}
+                    title={disabled ? `${t.enable} ${killer.name}` : `${t.disable} ${killer.name}`}
                   >
                     <div
                       className="settings-card__img-wrap"
@@ -198,7 +200,7 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
                     className={`settings-card settings-card--survivor ${disabled ? 'settings-card--disabled' : ''}`}
                     onClick={() => toggleSurvivor(survivor.id)}
                     id={`btn-toggle-survivor-${survivor.id}`}
-                    title={disabled ? `Habilitar ${survivor.name}` : `Desabilitar ${survivor.name}`}
+                    title={disabled ? `${t.enable} ${survivor.name}` : `${t.disable} ${survivor.name}`}
                   >
                     <div
                       className="settings-card__img-wrap"
@@ -229,20 +231,20 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
                   killerPerkActive < MIN_PERKS ? 'perk-status-item--danger' :
                   killerPerkActive === MIN_PERKS ? 'perk-status-item--warn' : ''
                 }`}>
-                  <span>Killer perks</span>
+                  <span>{t.killerPerks}</span>
                   <strong>{killerPerkActive}/{killerPerkTotal}</strong>
                   {killerPerkActive < MIN_PERKS && (
-                    <span className="perk-status-alert">mín. 4</span>
+                    <span className="perk-status-alert">{t.min4}</span>
                   )}
                 </div>
                 <div className={`perk-status-item ${
                   survivorPerkActive < MIN_PERKS ? 'perk-status-item--danger' :
                   survivorPerkActive === MIN_PERKS ? 'perk-status-item--warn' : ''
                 }`}>
-                  <span>Survivor perks</span>
+                  <span>{t.survivorPerks}</span>
                   <strong>{survivorPerkActive}/{survivorPerkTotal}</strong>
                   {survivorPerkActive < MIN_PERKS && (
-                    <span className="perk-status-alert">mín. 4</span>
+                    <span className="perk-status-alert">{t.min4}</span>
                   )}
                 </div>
               </div>
@@ -265,9 +267,9 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
                       }}
                       id={`btn-toggle-perk-${perk.id}`}
                       title={
-                        blocked  ? `Mínimo de ${MIN_PERKS} perks de ${perk.role} ativo` :
-                        disabled ? `Habilitar ${perk.name}` :
-                                   `Desabilitar ${perk.name}`
+                        blocked  ? t.minPerksActive(MIN_PERKS, perk.role) :
+                        disabled ? `${t.enable} ${perk.name}` :
+                                   `${t.disable} ${perk.name}`
                       }
                     >
                       <div className="settings-card__img-wrap settings-card__img-wrap--perk">
@@ -276,7 +278,7 @@ export default function SettingsPanel({ onClose, initialTab = 'Killers' }) {
                           : <div className="settings-card__placeholder">{perk.name.charAt(0)}</div>
                         }
                         {disabled  && <div className="settings-card__overlay">✕</div>}
-                        {blocked   && <div className="settings-card__overlay settings-card__overlay--lock">Bloq.</div>}
+                        {blocked   && <div className="settings-card__overlay settings-card__overlay--lock">{t.blocked}</div>}
                       </div>
                       <span className="settings-card__name">{perk.name}</span>
                       {perk.owner && <span className="settings-card__owner">{perk.owner}</span>}

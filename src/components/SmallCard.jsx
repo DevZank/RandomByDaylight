@@ -1,10 +1,12 @@
 import React from 'react';
 import RARITY_CONFIG, { PERK_BG } from '../utils/rarityConfig';
+import { translations } from '../utils/translations';
 import './SmallCard.css';
 
 export default function SmallCard({ item, showType = false, language = 'pt' }) {
   if (!item) return null;
   const rarity = item.rarity ? RARITY_CONFIG[item.rarity] : null;
+  const t = translations[language];
 
   // Background: perks use a universal bg; addons use rarity-specific bg
   const isPerk  = Boolean(item.role);
@@ -35,8 +37,11 @@ export default function SmallCard({ item, showType = false, language = 'pt' }) {
         )}
       </div>
       <div className="small-card__info">
-        <h4 className="small-card__name" title={language === 'pt' && item.name_pt ? item.name_pt : item.name}>
-          {language === 'pt' && item.name_pt ? item.name_pt : item.name}
+        <h4 
+          className="small-card__name" 
+          title={language === 'es' && item.name_es ? item.name_es : (language === 'pt' && item.name_pt ? item.name_pt : item.name)}
+        >
+          {language === 'es' && item.name_es ? item.name_es : (language === 'pt' && item.name_pt ? item.name_pt : item.name)}
         </h4>
         {showType && item.type && (
           <p className="small-card__type">{item.type}</p>
@@ -45,7 +50,7 @@ export default function SmallCard({ item, showType = false, language = 'pt' }) {
           <p className="small-card__owner">{item.owner}</p>
         )}
         {rarity && (
-          <span className="small-card__rarity">{rarity.label}</span>
+          <span className="small-card__rarity">{t.rarity[item.rarity] || rarity.label}</span>
         )}
       </div>
     </div>

@@ -11,94 +11,108 @@
         "name": "Bandages",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_bandages.png?eb0625",
-        "name_pt": "Bandagens"
+        "name_pt": "Bandagens",
+        "name_es": "Vendas"
       },
       {
         "id": "addon_butterfly_tape",
         "name": "Butterfly Tape",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_butterflyTape.png?f18e7b",
-        "name_pt": "Fita Borboleta"
+        "name_pt": "Fita Borboleta",
+        "name_es": "Cinta de mariposa"
       },
       {
         "id": "addon_rubber_gloves",
         "name": "Rubber Gloves",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_rubberGloves.png?763724",
-        "name_pt": "Luvas de Borracha"
+        "name_pt": "Luvas de Borracha",
+        "name_es": "guantes de goma"
       },
       {
         "id": "addon_medical_scissors",
         "name": "Medical Scissors",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_medicalScissors.png?ec20a2",
-        "name_pt": "Tesoura Médica"
+        "name_pt": "Tesoura Médica",
+        "name_es": "Tijeras medicas"
       },
       {
         "id": "addon_needle_and_thread",
         "name": "Needle & Thread",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_needle%26Thread.png?a433ea",
-        "name_pt": "Agulha e Linha"
+        "name_pt": "Agulha e Linha",
+        "name_es": "Aguja e hilo"
       },
       {
         "id": "addon_self_adherent_wrap",
         "name": "Self Adherent Wrap",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_selfAdherentWrap.png?cb4dfe",
-        "name_pt": "Faixa Autoaderente"
+        "name_pt": "Faixa Autoaderente",
+        "name_es": "Envoltura autoadherente"
       },
       {
         "id": "addon_sponge",
         "name": "Sponge",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_sponge.png?cb4971",
-        "name_pt": "Esponja"
+        "name_pt": "Esponja",
+        "name_es": "Esponja"
       },
       {
         "id": "addon_gauze_roll",
         "name": "Gauze Roll",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gauzeRoll.png?a94896",
-        "name_pt": "Rolo de Gaze"
+        "name_pt": "Rolo de Gaze",
+        "name_es": "Rollo de gasa"
       },
       {
         "id": "addon_surgical_suture",
         "name": "Surgical Suture",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_surgicalSuture.png?b14f4b",
-        "name_pt": "Sutura Cirúrgica"
+        "name_pt": "Sutura Cirúrgica",
+        "name_es": "Sutura Quirúrgica"
       },
       {
         "id": "addon_abdominal_dressing",
         "name": "Abdominal Dressing",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_abdominalDressing.png?279ed7",
-        "name_pt": "Curativo Abdominal"
+        "name_pt": "Curativo Abdominal",
+        "name_es": "Apósito abdominal"
       },
       {
         "id": "addon_styptic_agent",
         "name": "Styptic Agent",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_stypticAgent.png?f659ee",
-        "name_pt": "Agente Hemostático"
+        "name_pt": "Agente Hemostático",
+        "name_es": "Agente estíptico"
       },
       {
         "id": "addon_anti_exhaustion_syringe",
         "name": "Anti-Exhaustion Syringe",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_anti-haemorrhagicSyringe.png?871c87",
-        "name_pt": "Seringa Antiemorrágica"
+        "name_pt": "Seringa Antiemorrágica",
+        "name_es": "Jeringa antiagotamiento"
       },
       {
         "id": "addon_gel_dressings",
         "name": "Gel Dressings",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gelDressings.png?f8cce7",
-        "name_pt": "Curativos de Gel"
+        "name_pt": "Curativos de Gel",
+        "name_es": "Apósitos de gel"
       }
     ],
-    "name_pt": "Estojo de Primeiros Socorros"
+    "name_pt": "Estojo de Primeiros Socorros",
+    "name_es": "Kit de ayuda para acampar"
   },
   {
     "id": "first_aid_kit",
@@ -112,94 +126,108 @@
         "name": "Bandages",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_bandages.png?eb0625",
-        "name_pt": "Bandagens"
+        "name_pt": "Bandagens",
+        "name_es": "Vendas"
       },
       {
         "id": "addon_butterfly_tape",
         "name": "Butterfly Tape",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_butterflyTape.png?f18e7b",
-        "name_pt": "Fita Borboleta"
+        "name_pt": "Fita Borboleta",
+        "name_es": "Cinta de mariposa"
       },
       {
         "id": "addon_rubber_gloves",
         "name": "Rubber Gloves",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_rubberGloves.png?763724",
-        "name_pt": "Luvas de Borracha"
+        "name_pt": "Luvas de Borracha",
+        "name_es": "guantes de goma"
       },
       {
         "id": "addon_medical_scissors",
         "name": "Medical Scissors",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_medicalScissors.png?ec20a2",
-        "name_pt": "Tesoura Médica"
+        "name_pt": "Tesoura Médica",
+        "name_es": "Tijeras medicas"
       },
       {
         "id": "addon_needle_and_thread",
         "name": "Needle & Thread",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_needle%26Thread.png?a433ea",
-        "name_pt": "Agulha e Linha"
+        "name_pt": "Agulha e Linha",
+        "name_es": "Aguja e hilo"
       },
       {
         "id": "addon_self_adherent_wrap",
         "name": "Self Adherent Wrap",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_selfAdherentWrap.png?cb4dfe",
-        "name_pt": "Faixa Autoaderente"
+        "name_pt": "Faixa Autoaderente",
+        "name_es": "Envoltura autoadherente"
       },
       {
         "id": "addon_sponge",
         "name": "Sponge",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_sponge.png?cb4971",
-        "name_pt": "Esponja"
+        "name_pt": "Esponja",
+        "name_es": "Esponja"
       },
       {
         "id": "addon_gauze_roll",
         "name": "Gauze Roll",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gauzeRoll.png?a94896",
-        "name_pt": "Rolo de Gaze"
+        "name_pt": "Rolo de Gaze",
+        "name_es": "Rollo de gasa"
       },
       {
         "id": "addon_surgical_suture",
         "name": "Surgical Suture",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_surgicalSuture.png?b14f4b",
-        "name_pt": "Sutura Cirúrgica"
+        "name_pt": "Sutura Cirúrgica",
+        "name_es": "Sutura Quirúrgica"
       },
       {
         "id": "addon_abdominal_dressing",
         "name": "Abdominal Dressing",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_abdominalDressing.png?279ed7",
-        "name_pt": "Curativo Abdominal"
+        "name_pt": "Curativo Abdominal",
+        "name_es": "Apósito abdominal"
       },
       {
         "id": "addon_styptic_agent",
         "name": "Styptic Agent",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_stypticAgent.png?f659ee",
-        "name_pt": "Agente Hemostático"
+        "name_pt": "Agente Hemostático",
+        "name_es": "Agente estíptico"
       },
       {
         "id": "addon_anti_exhaustion_syringe",
         "name": "Anti-Exhaustion Syringe",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_anti-haemorrhagicSyringe.png?871c87",
-        "name_pt": "Seringa Antiemorrágica"
+        "name_pt": "Seringa Antiemorrágica",
+        "name_es": "Jeringa antiagotamiento"
       },
       {
         "id": "addon_gel_dressings",
         "name": "Gel Dressings",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gelDressings.png?f8cce7",
-        "name_pt": "Curativos de Gel"
+        "name_pt": "Curativos de Gel",
+        "name_es": "Apósitos de gel"
       }
     ],
-    "name_pt": "Kit de Primeiros Socorros"
+    "name_pt": "Kit de Primeiros Socorros",
+    "name_es": "Botiquín de primeros auxilios"
   },
   {
     "id": "emergency_med_kit",
@@ -213,94 +241,108 @@
         "name": "Bandages",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_bandages.png?eb0625",
-        "name_pt": "Bandagens"
+        "name_pt": "Bandagens",
+        "name_es": "Vendas"
       },
       {
         "id": "addon_butterfly_tape",
         "name": "Butterfly Tape",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_butterflyTape.png?f18e7b",
-        "name_pt": "Fita Borboleta"
+        "name_pt": "Fita Borboleta",
+        "name_es": "Cinta de mariposa"
       },
       {
         "id": "addon_rubber_gloves",
         "name": "Rubber Gloves",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_rubberGloves.png?763724",
-        "name_pt": "Luvas de Borracha"
+        "name_pt": "Luvas de Borracha",
+        "name_es": "guantes de goma"
       },
       {
         "id": "addon_medical_scissors",
         "name": "Medical Scissors",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_medicalScissors.png?ec20a2",
-        "name_pt": "Tesoura Médica"
+        "name_pt": "Tesoura Médica",
+        "name_es": "Tijeras medicas"
       },
       {
         "id": "addon_needle_and_thread",
         "name": "Needle & Thread",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_needle%26Thread.png?a433ea",
-        "name_pt": "Agulha e Linha"
+        "name_pt": "Agulha e Linha",
+        "name_es": "Aguja e hilo"
       },
       {
         "id": "addon_self_adherent_wrap",
         "name": "Self Adherent Wrap",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_selfAdherentWrap.png?cb4dfe",
-        "name_pt": "Faixa Autoaderente"
+        "name_pt": "Faixa Autoaderente",
+        "name_es": "Envoltura autoadherente"
       },
       {
         "id": "addon_sponge",
         "name": "Sponge",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_sponge.png?cb4971",
-        "name_pt": "Esponja"
+        "name_pt": "Esponja",
+        "name_es": "Esponja"
       },
       {
         "id": "addon_gauze_roll",
         "name": "Gauze Roll",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gauzeRoll.png?a94896",
-        "name_pt": "Rolo de Gaze"
+        "name_pt": "Rolo de Gaze",
+        "name_es": "Rollo de gasa"
       },
       {
         "id": "addon_surgical_suture",
         "name": "Surgical Suture",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_surgicalSuture.png?b14f4b",
-        "name_pt": "Sutura Cirúrgica"
+        "name_pt": "Sutura Cirúrgica",
+        "name_es": "Sutura Quirúrgica"
       },
       {
         "id": "addon_abdominal_dressing",
         "name": "Abdominal Dressing",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_abdominalDressing.png?279ed7",
-        "name_pt": "Curativo Abdominal"
+        "name_pt": "Curativo Abdominal",
+        "name_es": "Apósito abdominal"
       },
       {
         "id": "addon_styptic_agent",
         "name": "Styptic Agent",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_stypticAgent.png?f659ee",
-        "name_pt": "Agente Hemostático"
+        "name_pt": "Agente Hemostático",
+        "name_es": "Agente estíptico"
       },
       {
         "id": "addon_anti_exhaustion_syringe",
         "name": "Anti-Exhaustion Syringe",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_anti-haemorrhagicSyringe.png?871c87",
-        "name_pt": "Seringa Antiemorrágica"
+        "name_pt": "Seringa Antiemorrágica",
+        "name_es": "Jeringa antiagotamiento"
       },
       {
         "id": "addon_gel_dressings",
         "name": "Gel Dressings",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gelDressings.png?f8cce7",
-        "name_pt": "Curativos de Gel"
+        "name_pt": "Curativos de Gel",
+        "name_es": "Apósitos de gel"
       }
     ],
-    "name_pt": "Kit Médico de Emergência"
+    "name_pt": "Kit Médico de Emergência",
+    "name_es": "Botiquín de emergencia"
   },
   {
     "id": "ranger_med_kit",
@@ -314,94 +356,108 @@
         "name": "Bandages",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_bandages.png?eb0625",
-        "name_pt": "Bandagens"
+        "name_pt": "Bandagens",
+        "name_es": "Vendas"
       },
       {
         "id": "addon_butterfly_tape",
         "name": "Butterfly Tape",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_butterflyTape.png?f18e7b",
-        "name_pt": "Fita Borboleta"
+        "name_pt": "Fita Borboleta",
+        "name_es": "Cinta de mariposa"
       },
       {
         "id": "addon_rubber_gloves",
         "name": "Rubber Gloves",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_rubberGloves.png?763724",
-        "name_pt": "Luvas de Borracha"
+        "name_pt": "Luvas de Borracha",
+        "name_es": "guantes de goma"
       },
       {
         "id": "addon_medical_scissors",
         "name": "Medical Scissors",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_medicalScissors.png?ec20a2",
-        "name_pt": "Tesoura Médica"
+        "name_pt": "Tesoura Médica",
+        "name_es": "Tijeras medicas"
       },
       {
         "id": "addon_needle_and_thread",
         "name": "Needle & Thread",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_needle%26Thread.png?a433ea",
-        "name_pt": "Agulha e Linha"
+        "name_pt": "Agulha e Linha",
+        "name_es": "Aguja e hilo"
       },
       {
         "id": "addon_self_adherent_wrap",
         "name": "Self Adherent Wrap",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_selfAdherentWrap.png?cb4dfe",
-        "name_pt": "Faixa Autoaderente"
+        "name_pt": "Faixa Autoaderente",
+        "name_es": "Envoltura autoadherente"
       },
       {
         "id": "addon_sponge",
         "name": "Sponge",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_sponge.png?cb4971",
-        "name_pt": "Esponja"
+        "name_pt": "Esponja",
+        "name_es": "Esponja"
       },
       {
         "id": "addon_gauze_roll",
         "name": "Gauze Roll",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gauzeRoll.png?a94896",
-        "name_pt": "Rolo de Gaze"
+        "name_pt": "Rolo de Gaze",
+        "name_es": "Rollo de gasa"
       },
       {
         "id": "addon_surgical_suture",
         "name": "Surgical Suture",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_surgicalSuture.png?b14f4b",
-        "name_pt": "Sutura Cirúrgica"
+        "name_pt": "Sutura Cirúrgica",
+        "name_es": "Sutura Quirúrgica"
       },
       {
         "id": "addon_abdominal_dressing",
         "name": "Abdominal Dressing",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_abdominalDressing.png?279ed7",
-        "name_pt": "Curativo Abdominal"
+        "name_pt": "Curativo Abdominal",
+        "name_es": "Apósito abdominal"
       },
       {
         "id": "addon_styptic_agent",
         "name": "Styptic Agent",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_stypticAgent.png?f659ee",
-        "name_pt": "Agente Hemostático"
+        "name_pt": "Agente Hemostático",
+        "name_es": "Agente estíptico"
       },
       {
         "id": "addon_anti_exhaustion_syringe",
         "name": "Anti-Exhaustion Syringe",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_anti-haemorrhagicSyringe.png?871c87",
-        "name_pt": "Seringa Antiemorrágica"
+        "name_pt": "Seringa Antiemorrágica",
+        "name_es": "Jeringa antiagotamiento"
       },
       {
         "id": "addon_gel_dressings",
         "name": "Gel Dressings",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gelDressings.png?f8cce7",
-        "name_pt": "Curativos de Gel"
+        "name_pt": "Curativos de Gel",
+        "name_es": "Apósitos de gel"
       }
     ],
-    "name_pt": "Kit Médico de Patrulheiro"
+    "name_pt": "Kit Médico de Patrulheiro",
+    "name_es": "Botiquín médico de guardabosques"
   },
   {
     "id": "flashlight",
@@ -415,94 +471,108 @@
         "name": "Battery",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_battery.png?a920d6",
-        "name_pt": "Bateria"
+        "name_pt": "Bateria",
+        "name_es": "Batería"
       },
       {
         "id": "addon_leather_grip",
         "name": "Leather Grip",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_leatherGrip.png?a65ecf",
-        "name_pt": "Empunhadura de Couro"
+        "name_pt": "Empunhadura de Couro",
+        "name_es": "Empuñadura de cuero"
       },
       {
         "id": "addon_power_bulb",
         "name": "Power Bulb",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_powerBulb.png?5ed525",
-        "name_pt": "Lâmpada Potente"
+        "name_pt": "Lâmpada Potente",
+        "name_es": "Bombilla de energía"
       },
       {
         "id": "addon_wide_lens",
         "name": "Wide Lens",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wideLens.png?c54743",
-        "name_pt": "Lente Larga"
+        "name_pt": "Lente Larga",
+        "name_es": "Lente ancha"
       },
       {
         "id": "addon_focus_lens",
         "name": "Focus Lens",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_focusLens.png?10aa35",
-        "name_pt": "Lente de Foco"
+        "name_pt": "Lente de Foco",
+        "name_es": "Lente de enfoque"
       },
       {
         "id": "addon_heavy_duty_battery",
         "name": "Heavy Duty Battery",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_heavyDutyBattery.png?35eb69",
-        "name_pt": "Bateria Reforçada"
+        "name_pt": "Bateria Reforçada",
+        "name_es": "Batería de alta resistencia"
       },
       {
         "id": "addon_low_amp_filament",
         "name": "Low Amp Filament",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_lowAmpFilament.png?f5a968",
-        "name_pt": "Filamento de Baixa Amperagem"
+        "name_pt": "Filamento de Baixa Amperagem",
+        "name_es": "Filamento de bajo amperaje"
       },
       {
         "id": "addon_rubber_grip",
         "name": "Rubber Grip",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_rubberGrip.png?22b372",
-        "name_pt": "Empunhadura de Borracha"
+        "name_pt": "Empunhadura de Borracha",
+        "name_es": "Agarre de goma"
       },
       {
         "id": "addon_tir_optic",
         "name": "TIR Optic",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_tirOptic.png?3ff606",
-        "name_pt": "Ótica TIR"
+        "name_pt": "Ótica TIR",
+        "name_es": "Óptica TIR"
       },
       {
         "id": "addon_intense_halogen",
         "name": "Intense Halogen",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_intenseHalogen.png?63ceae",
-        "name_pt": "Halógeno Intenso"
+        "name_pt": "Halógeno Intenso",
+        "name_es": "Halógeno intenso"
       },
       {
         "id": "addon_long_life_battery",
         "name": "Long Life Battery",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_longLifeBattery.png?7901dd",
-        "name_pt": "Bateria de Longa Duração"
+        "name_pt": "Bateria de Longa Duração",
+        "name_es": "Batería de larga duración"
       },
       {
         "id": "addon_high_end_sapphire_lens",
         "name": "High-End Sapphire Lens",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_high-EndSapphireLens.png?366d07",
-        "name_pt": "Lente de Safira Fina"
+        "name_pt": "Lente de Safira Fina",
+        "name_es": "Lente de zafiro de alta gama"
       },
       {
         "id": "addon_odd_bulb",
         "name": "Odd Bulb",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_oddBulb.png?3dac55",
-        "name_pt": "Lâmpada Esquisita"
+        "name_pt": "Lâmpada Esquisita",
+        "name_es": "Bombilla impar"
       }
     ],
-    "name_pt": "Lanterna"
+    "name_pt": "Lanterna",
+    "name_es": "Flash"
   },
   {
     "id": "sport_flashlight",
@@ -516,94 +586,108 @@
         "name": "Battery",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_battery.png?a920d6",
-        "name_pt": "Bateria"
+        "name_pt": "Bateria",
+        "name_es": "Batería"
       },
       {
         "id": "addon_leather_grip",
         "name": "Leather Grip",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_leatherGrip.png?a65ecf",
-        "name_pt": "Empunhadura de Couro"
+        "name_pt": "Empunhadura de Couro",
+        "name_es": "Empuñadura de cuero"
       },
       {
         "id": "addon_power_bulb",
         "name": "Power Bulb",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_powerBulb.png?5ed525",
-        "name_pt": "Lâmpada Potente"
+        "name_pt": "Lâmpada Potente",
+        "name_es": "Bombilla de energía"
       },
       {
         "id": "addon_wide_lens",
         "name": "Wide Lens",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wideLens.png?c54743",
-        "name_pt": "Lente Larga"
+        "name_pt": "Lente Larga",
+        "name_es": "Lente ancha"
       },
       {
         "id": "addon_focus_lens",
         "name": "Focus Lens",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_focusLens.png?10aa35",
-        "name_pt": "Lente de Foco"
+        "name_pt": "Lente de Foco",
+        "name_es": "Lente de enfoque"
       },
       {
         "id": "addon_heavy_duty_battery",
         "name": "Heavy Duty Battery",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_heavyDutyBattery.png?35eb69",
-        "name_pt": "Bateria Reforçada"
+        "name_pt": "Bateria Reforçada",
+        "name_es": "Batería de alta resistencia"
       },
       {
         "id": "addon_low_amp_filament",
         "name": "Low Amp Filament",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_lowAmpFilament.png?f5a968",
-        "name_pt": "Filamento de Baixa Amperagem"
+        "name_pt": "Filamento de Baixa Amperagem",
+        "name_es": "Filamento de bajo amperaje"
       },
       {
         "id": "addon_rubber_grip",
         "name": "Rubber Grip",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_rubberGrip.png?22b372",
-        "name_pt": "Empunhadura de Borracha"
+        "name_pt": "Empunhadura de Borracha",
+        "name_es": "Agarre de goma"
       },
       {
         "id": "addon_tir_optic",
         "name": "TIR Optic",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_tirOptic.png?3ff606",
-        "name_pt": "Ótica TIR"
+        "name_pt": "Ótica TIR",
+        "name_es": "Óptica TIR"
       },
       {
         "id": "addon_intense_halogen",
         "name": "Intense Halogen",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_intenseHalogen.png?63ceae",
-        "name_pt": "Halógeno Intenso"
+        "name_pt": "Halógeno Intenso",
+        "name_es": "Halógeno intenso"
       },
       {
         "id": "addon_long_life_battery",
         "name": "Long Life Battery",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_longLifeBattery.png?7901dd",
-        "name_pt": "Bateria de Longa Duração"
+        "name_pt": "Bateria de Longa Duração",
+        "name_es": "Batería de larga duración"
       },
       {
         "id": "addon_high_end_sapphire_lens",
         "name": "High-End Sapphire Lens",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_high-EndSapphireLens.png?366d07",
-        "name_pt": "Lente de Safira Fina"
+        "name_pt": "Lente de Safira Fina",
+        "name_es": "Lente de zafiro de alta gama"
       },
       {
         "id": "addon_odd_bulb",
         "name": "Odd Bulb",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_oddBulb.png?3dac55",
-        "name_pt": "Lâmpada Esquisita"
+        "name_pt": "Lâmpada Esquisita",
+        "name_es": "Bombilla impar"
       }
     ],
-    "name_pt": "Lanterna Esportiva"
+    "name_pt": "Lanterna Esportiva",
+    "name_es": "Linterna deportiva"
   },
   {
     "id": "utility_flashlight",
@@ -617,94 +701,108 @@
         "name": "Battery",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_battery.png?a920d6",
-        "name_pt": "Bateria"
+        "name_pt": "Bateria",
+        "name_es": "Batería"
       },
       {
         "id": "addon_leather_grip",
         "name": "Leather Grip",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_leatherGrip.png?a65ecf",
-        "name_pt": "Empunhadura de Couro"
+        "name_pt": "Empunhadura de Couro",
+        "name_es": "Empuñadura de cuero"
       },
       {
         "id": "addon_power_bulb",
         "name": "Power Bulb",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_powerBulb.png?5ed525",
-        "name_pt": "Lâmpada Potente"
+        "name_pt": "Lâmpada Potente",
+        "name_es": "Bombilla de energía"
       },
       {
         "id": "addon_wide_lens",
         "name": "Wide Lens",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wideLens.png?c54743",
-        "name_pt": "Lente Larga"
+        "name_pt": "Lente Larga",
+        "name_es": "Lente ancha"
       },
       {
         "id": "addon_focus_lens",
         "name": "Focus Lens",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_focusLens.png?10aa35",
-        "name_pt": "Lente de Foco"
+        "name_pt": "Lente de Foco",
+        "name_es": "Lente de enfoque"
       },
       {
         "id": "addon_heavy_duty_battery",
         "name": "Heavy Duty Battery",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_heavyDutyBattery.png?35eb69",
-        "name_pt": "Bateria Reforçada"
+        "name_pt": "Bateria Reforçada",
+        "name_es": "Batería de alta resistencia"
       },
       {
         "id": "addon_low_amp_filament",
         "name": "Low Amp Filament",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_lowAmpFilament.png?f5a968",
-        "name_pt": "Filamento de Baixa Amperagem"
+        "name_pt": "Filamento de Baixa Amperagem",
+        "name_es": "Filamento de bajo amperaje"
       },
       {
         "id": "addon_rubber_grip",
         "name": "Rubber Grip",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_rubberGrip.png?22b372",
-        "name_pt": "Empunhadura de Borracha"
+        "name_pt": "Empunhadura de Borracha",
+        "name_es": "Agarre de goma"
       },
       {
         "id": "addon_tir_optic",
         "name": "TIR Optic",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_tirOptic.png?3ff606",
-        "name_pt": "Ótica TIR"
+        "name_pt": "Ótica TIR",
+        "name_es": "Óptica TIR"
       },
       {
         "id": "addon_intense_halogen",
         "name": "Intense Halogen",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_intenseHalogen.png?63ceae",
-        "name_pt": "Halógeno Intenso"
+        "name_pt": "Halógeno Intenso",
+        "name_es": "Halógeno intenso"
       },
       {
         "id": "addon_long_life_battery",
         "name": "Long Life Battery",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_longLifeBattery.png?7901dd",
-        "name_pt": "Bateria de Longa Duração"
+        "name_pt": "Bateria de Longa Duração",
+        "name_es": "Batería de larga duración"
       },
       {
         "id": "addon_high_end_sapphire_lens",
         "name": "High-End Sapphire Lens",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_high-EndSapphireLens.png?366d07",
-        "name_pt": "Lente de Safira Fina"
+        "name_pt": "Lente de Safira Fina",
+        "name_es": "Lente de zafiro de alta gama"
       },
       {
         "id": "addon_odd_bulb",
         "name": "Odd Bulb",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_oddBulb.png?3dac55",
-        "name_pt": "Lâmpada Esquisita"
+        "name_pt": "Lâmpada Esquisita",
+        "name_es": "Bombilla impar"
       }
     ],
-    "name_pt": "Lanterna Utilitária"
+    "name_pt": "Lanterna Utilitária",
+    "name_es": "Linterna utilitaria"
   },
   {
     "id": "worn_out_tools",
@@ -718,80 +816,92 @@
         "name": "Clean Rag",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cleanRag.png?a8f97d",
-        "name_pt": "Pano Limpo"
+        "name_pt": "Pano Limpo",
+        "name_es": "trapo limpio"
       },
       {
         "id": "addon_instructions",
         "name": "Instructions",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_instructions.png?2c2543",
-        "name_pt": "Instruções"
+        "name_pt": "Instruções",
+        "name_es": "Instrucciones"
       },
       {
         "id": "addon_scraps",
         "name": "Scraps",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_scraps.png?60a345",
-        "name_pt": "Sucata"
+        "name_pt": "Sucata",
+        "name_es": "Residuos"
       },
       {
         "id": "addon_cutting_wire",
         "name": "Cutting Wire",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cuttingWire.png?87513b",
-        "name_pt": "Fio de Corte"
+        "name_pt": "Fio de Corte",
+        "name_es": "Alambre de corte"
       },
       {
         "id": "addon_protective_gloves",
         "name": "Protective Gloves",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_protectiveGloves.png?6b4406",
-        "name_pt": "Luvas Protetoras"
+        "name_pt": "Luvas Protetoras",
+        "name_es": "Guantes protectores"
       },
       {
         "id": "addon_socket_swivels",
         "name": "Socket Swivels",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_socketSwivels.png?360bd5",
-        "name_pt": "Chaves Articuladas"
+        "name_pt": "Chaves Articuladas",
+        "name_es": "Conectores giratorios"
       },
       {
         "id": "addon_spring_clamp",
         "name": "Spring Clamp",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_springClamp.png?b651b6",
-        "name_pt": "Braçadeira de Mola"
+        "name_pt": "Braçadeira de Mola",
+        "name_es": "Abrazadera de resorte"
       },
       {
         "id": "addon_wire_spool",
         "name": "Wire Spool",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wireSpool.png?9d265d",
-        "name_pt": "Carretel de Fio"
+        "name_pt": "Carretel de Fio",
+        "name_es": "Carrete de alambre"
       },
       {
         "id": "addon_grip_wrench",
         "name": "Grip Wrench",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gripWrench.png?367484",
-        "name_pt": "Chave de Grifo"
+        "name_pt": "Chave de Grifo",
+        "name_es": "Llave de agarre"
       },
       {
         "id": "addon_hacksaw",
         "name": "Hacksaw",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_hacksaw.png?b7e4cf",
-        "name_pt": "Serra"
+        "name_pt": "Serra",
+        "name_es": "Sierra"
       },
       {
         "id": "addon_brand_new_part",
         "name": "Brand New Part",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_brandNewPart.png?b863d0",
-        "name_pt": "Peça Nova em Folha"
+        "name_pt": "Peça Nova em Folha",
+        "name_es": "Pieza nueva"
       }
     ],
-    "name_pt": "Ferramentas Gastas"
+    "name_pt": "Ferramentas Gastas",
+    "name_es": "Herramientas desgastadas"
   },
   {
     "id": "toolbox",
@@ -805,80 +915,92 @@
         "name": "Clean Rag",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cleanRag.png?a8f97d",
-        "name_pt": "Pano Limpo"
+        "name_pt": "Pano Limpo",
+        "name_es": "trapo limpio"
       },
       {
         "id": "addon_instructions",
         "name": "Instructions",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_instructions.png?2c2543",
-        "name_pt": "Instruções"
+        "name_pt": "Instruções",
+        "name_es": "Instrucciones"
       },
       {
         "id": "addon_scraps",
         "name": "Scraps",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_scraps.png?60a345",
-        "name_pt": "Sucata"
+        "name_pt": "Sucata",
+        "name_es": "Residuos"
       },
       {
         "id": "addon_cutting_wire",
         "name": "Cutting Wire",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cuttingWire.png?87513b",
-        "name_pt": "Fio de Corte"
+        "name_pt": "Fio de Corte",
+        "name_es": "Alambre de corte"
       },
       {
         "id": "addon_protective_gloves",
         "name": "Protective Gloves",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_protectiveGloves.png?6b4406",
-        "name_pt": "Luvas Protetoras"
+        "name_pt": "Luvas Protetoras",
+        "name_es": "Guantes protectores"
       },
       {
         "id": "addon_socket_swivels",
         "name": "Socket Swivels",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_socketSwivels.png?360bd5",
-        "name_pt": "Chaves Articuladas"
+        "name_pt": "Chaves Articuladas",
+        "name_es": "Conectores giratorios"
       },
       {
         "id": "addon_spring_clamp",
         "name": "Spring Clamp",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_springClamp.png?b651b6",
-        "name_pt": "Braçadeira de Mola"
+        "name_pt": "Braçadeira de Mola",
+        "name_es": "Abrazadera de resorte"
       },
       {
         "id": "addon_wire_spool",
         "name": "Wire Spool",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wireSpool.png?9d265d",
-        "name_pt": "Carretel de Fio"
+        "name_pt": "Carretel de Fio",
+        "name_es": "Carrete de alambre"
       },
       {
         "id": "addon_grip_wrench",
         "name": "Grip Wrench",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gripWrench.png?367484",
-        "name_pt": "Chave de Grifo"
+        "name_pt": "Chave de Grifo",
+        "name_es": "Llave de agarre"
       },
       {
         "id": "addon_hacksaw",
         "name": "Hacksaw",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_hacksaw.png?b7e4cf",
-        "name_pt": "Serra"
+        "name_pt": "Serra",
+        "name_es": "Sierra"
       },
       {
         "id": "addon_brand_new_part",
         "name": "Brand New Part",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_brandNewPart.png?b863d0",
-        "name_pt": "Peça Nova em Folha"
+        "name_pt": "Peça Nova em Folha",
+        "name_es": "Pieza nueva"
       }
     ],
-    "name_pt": "Caixa de Ferramentas"
+    "name_pt": "Caixa de Ferramentas",
+    "name_es": "Caja de instrumento"
   },
   {
     "id": "commodious_toolbox",
@@ -892,80 +1014,92 @@
         "name": "Clean Rag",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cleanRag.png?a8f97d",
-        "name_pt": "Pano Limpo"
+        "name_pt": "Pano Limpo",
+        "name_es": "trapo limpio"
       },
       {
         "id": "addon_instructions",
         "name": "Instructions",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_instructions.png?2c2543",
-        "name_pt": "Instruções"
+        "name_pt": "Instruções",
+        "name_es": "Instrucciones"
       },
       {
         "id": "addon_scraps",
         "name": "Scraps",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_scraps.png?60a345",
-        "name_pt": "Sucata"
+        "name_pt": "Sucata",
+        "name_es": "Residuos"
       },
       {
         "id": "addon_cutting_wire",
         "name": "Cutting Wire",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cuttingWire.png?87513b",
-        "name_pt": "Fio de Corte"
+        "name_pt": "Fio de Corte",
+        "name_es": "Alambre de corte"
       },
       {
         "id": "addon_protective_gloves",
         "name": "Protective Gloves",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_protectiveGloves.png?6b4406",
-        "name_pt": "Luvas Protetoras"
+        "name_pt": "Luvas Protetoras",
+        "name_es": "Guantes protectores"
       },
       {
         "id": "addon_socket_swivels",
         "name": "Socket Swivels",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_socketSwivels.png?360bd5",
-        "name_pt": "Chaves Articuladas"
+        "name_pt": "Chaves Articuladas",
+        "name_es": "Conectores giratorios"
       },
       {
         "id": "addon_spring_clamp",
         "name": "Spring Clamp",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_springClamp.png?b651b6",
-        "name_pt": "Braçadeira de Mola"
+        "name_pt": "Braçadeira de Mola",
+        "name_es": "Abrazadera de resorte"
       },
       {
         "id": "addon_wire_spool",
         "name": "Wire Spool",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wireSpool.png?9d265d",
-        "name_pt": "Carretel de Fio"
+        "name_pt": "Carretel de Fio",
+        "name_es": "Carrete de alambre"
       },
       {
         "id": "addon_grip_wrench",
         "name": "Grip Wrench",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gripWrench.png?367484",
-        "name_pt": "Chave de Grifo"
+        "name_pt": "Chave de Grifo",
+        "name_es": "Llave de agarre"
       },
       {
         "id": "addon_hacksaw",
         "name": "Hacksaw",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_hacksaw.png?b7e4cf",
-        "name_pt": "Serra"
+        "name_pt": "Serra",
+        "name_es": "Sierra"
       },
       {
         "id": "addon_brand_new_part",
         "name": "Brand New Part",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_brandNewPart.png?b863d0",
-        "name_pt": "Peça Nova em Folha"
+        "name_pt": "Peça Nova em Folha",
+        "name_es": "Pieza nueva"
       }
     ],
-    "name_pt": "Caixa de Ferramentas Espaçosa"
+    "name_pt": "Caixa de Ferramentas Espaçosa",
+    "name_es": "Cómoda caja de herramientas"
   },
   {
     "id": "mechanics_toolbox",
@@ -979,80 +1113,92 @@
         "name": "Clean Rag",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cleanRag.png?a8f97d",
-        "name_pt": "Pano Limpo"
+        "name_pt": "Pano Limpo",
+        "name_es": "trapo limpio"
       },
       {
         "id": "addon_instructions",
         "name": "Instructions",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_instructions.png?2c2543",
-        "name_pt": "Instruções"
+        "name_pt": "Instruções",
+        "name_es": "Instrucciones"
       },
       {
         "id": "addon_scraps",
         "name": "Scraps",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_scraps.png?60a345",
-        "name_pt": "Sucata"
+        "name_pt": "Sucata",
+        "name_es": "Residuos"
       },
       {
         "id": "addon_cutting_wire",
         "name": "Cutting Wire",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cuttingWire.png?87513b",
-        "name_pt": "Fio de Corte"
+        "name_pt": "Fio de Corte",
+        "name_es": "Alambre de corte"
       },
       {
         "id": "addon_protective_gloves",
         "name": "Protective Gloves",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_protectiveGloves.png?6b4406",
-        "name_pt": "Luvas Protetoras"
+        "name_pt": "Luvas Protetoras",
+        "name_es": "Guantes protectores"
       },
       {
         "id": "addon_socket_swivels",
         "name": "Socket Swivels",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_socketSwivels.png?360bd5",
-        "name_pt": "Chaves Articuladas"
+        "name_pt": "Chaves Articuladas",
+        "name_es": "Conectores giratorios"
       },
       {
         "id": "addon_spring_clamp",
         "name": "Spring Clamp",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_springClamp.png?b651b6",
-        "name_pt": "Braçadeira de Mola"
+        "name_pt": "Braçadeira de Mola",
+        "name_es": "Abrazadera de resorte"
       },
       {
         "id": "addon_wire_spool",
         "name": "Wire Spool",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wireSpool.png?9d265d",
-        "name_pt": "Carretel de Fio"
+        "name_pt": "Carretel de Fio",
+        "name_es": "Carrete de alambre"
       },
       {
         "id": "addon_grip_wrench",
         "name": "Grip Wrench",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gripWrench.png?367484",
-        "name_pt": "Chave de Grifo"
+        "name_pt": "Chave de Grifo",
+        "name_es": "Llave de agarre"
       },
       {
         "id": "addon_hacksaw",
         "name": "Hacksaw",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_hacksaw.png?b7e4cf",
-        "name_pt": "Serra"
+        "name_pt": "Serra",
+        "name_es": "Sierra"
       },
       {
         "id": "addon_brand_new_part",
         "name": "Brand New Part",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_brandNewPart.png?b863d0",
-        "name_pt": "Peça Nova em Folha"
+        "name_pt": "Peça Nova em Folha",
+        "name_es": "Pieza nueva"
       }
     ],
-    "name_pt": "Caixa de Ferramentas de Mecânico"
+    "name_pt": "Caixa de Ferramentas de Mecânico",
+    "name_es": "Caja de herramientas del mecánico"
   },
   {
     "id": "alexs_toolbox",
@@ -1066,80 +1212,92 @@
         "name": "Clean Rag",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cleanRag.png?a8f97d",
-        "name_pt": "Pano Limpo"
+        "name_pt": "Pano Limpo",
+        "name_es": "trapo limpio"
       },
       {
         "id": "addon_instructions",
         "name": "Instructions",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_instructions.png?2c2543",
-        "name_pt": "Instruções"
+        "name_pt": "Instruções",
+        "name_es": "Instrucciones"
       },
       {
         "id": "addon_scraps",
         "name": "Scraps",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_scraps.png?60a345",
-        "name_pt": "Sucata"
+        "name_pt": "Sucata",
+        "name_es": "Residuos"
       },
       {
         "id": "addon_cutting_wire",
         "name": "Cutting Wire",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cuttingWire.png?87513b",
-        "name_pt": "Fio de Corte"
+        "name_pt": "Fio de Corte",
+        "name_es": "Alambre de corte"
       },
       {
         "id": "addon_protective_gloves",
         "name": "Protective Gloves",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_protectiveGloves.png?6b4406",
-        "name_pt": "Luvas Protetoras"
+        "name_pt": "Luvas Protetoras",
+        "name_es": "Guantes protectores"
       },
       {
         "id": "addon_socket_swivels",
         "name": "Socket Swivels",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_socketSwivels.png?360bd5",
-        "name_pt": "Chaves Articuladas"
+        "name_pt": "Chaves Articuladas",
+        "name_es": "Conectores giratorios"
       },
       {
         "id": "addon_spring_clamp",
         "name": "Spring Clamp",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_springClamp.png?b651b6",
-        "name_pt": "Braçadeira de Mola"
+        "name_pt": "Braçadeira de Mola",
+        "name_es": "Abrazadera de resorte"
       },
       {
         "id": "addon_wire_spool",
         "name": "Wire Spool",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wireSpool.png?9d265d",
-        "name_pt": "Carretel de Fio"
+        "name_pt": "Carretel de Fio",
+        "name_es": "Carrete de alambre"
       },
       {
         "id": "addon_grip_wrench",
         "name": "Grip Wrench",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gripWrench.png?367484",
-        "name_pt": "Chave de Grifo"
+        "name_pt": "Chave de Grifo",
+        "name_es": "Llave de agarre"
       },
       {
         "id": "addon_hacksaw",
         "name": "Hacksaw",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_hacksaw.png?b7e4cf",
-        "name_pt": "Serra"
+        "name_pt": "Serra",
+        "name_es": "Sierra"
       },
       {
         "id": "addon_brand_new_part",
         "name": "Brand New Part",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_brandNewPart.png?b863d0",
-        "name_pt": "Peça Nova em Folha"
+        "name_pt": "Peça Nova em Folha",
+        "name_es": "Pieza nueva"
       }
     ],
-    "name_pt": "Caixa de Ferramentas do Alex"
+    "name_pt": "Caixa de Ferramentas do Alex",
+    "name_es": "La caja de herramientas de Alex"
   },
   {
     "id": "engineers_toolbox",
@@ -1153,80 +1311,92 @@
         "name": "Clean Rag",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cleanRag.png?a8f97d",
-        "name_pt": "Pano Limpo"
+        "name_pt": "Pano Limpo",
+        "name_es": "trapo limpio"
       },
       {
         "id": "addon_instructions",
         "name": "Instructions",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_instructions.png?2c2543",
-        "name_pt": "Instruções"
+        "name_pt": "Instruções",
+        "name_es": "Instrucciones"
       },
       {
         "id": "addon_scraps",
         "name": "Scraps",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_scraps.png?60a345",
-        "name_pt": "Sucata"
+        "name_pt": "Sucata",
+        "name_es": "Residuos"
       },
       {
         "id": "addon_cutting_wire",
         "name": "Cutting Wire",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_cuttingWire.png?87513b",
-        "name_pt": "Fio de Corte"
+        "name_pt": "Fio de Corte",
+        "name_es": "Alambre de corte"
       },
       {
         "id": "addon_protective_gloves",
         "name": "Protective Gloves",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_protectiveGloves.png?6b4406",
-        "name_pt": "Luvas Protetoras"
+        "name_pt": "Luvas Protetoras",
+        "name_es": "Guantes protectores"
       },
       {
         "id": "addon_socket_swivels",
         "name": "Socket Swivels",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_socketSwivels.png?360bd5",
-        "name_pt": "Chaves Articuladas"
+        "name_pt": "Chaves Articuladas",
+        "name_es": "Conectores giratorios"
       },
       {
         "id": "addon_spring_clamp",
         "name": "Spring Clamp",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_springClamp.png?b651b6",
-        "name_pt": "Braçadeira de Mola"
+        "name_pt": "Braçadeira de Mola",
+        "name_es": "Abrazadera de resorte"
       },
       {
         "id": "addon_wire_spool",
         "name": "Wire Spool",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_wireSpool.png?9d265d",
-        "name_pt": "Carretel de Fio"
+        "name_pt": "Carretel de Fio",
+        "name_es": "Carrete de alambre"
       },
       {
         "id": "addon_grip_wrench",
         "name": "Grip Wrench",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gripWrench.png?367484",
-        "name_pt": "Chave de Grifo"
+        "name_pt": "Chave de Grifo",
+        "name_es": "Llave de agarre"
       },
       {
         "id": "addon_hacksaw",
         "name": "Hacksaw",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_hacksaw.png?b7e4cf",
-        "name_pt": "Serra"
+        "name_pt": "Serra",
+        "name_es": "Sierra"
       },
       {
         "id": "addon_brand_new_part",
         "name": "Brand New Part",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_brandNewPart.png?b863d0",
-        "name_pt": "Peça Nova em Folha"
+        "name_pt": "Peça Nova em Folha",
+        "name_es": "Pieza nueva"
       }
     ],
-    "name_pt": "Caixa de Ferramentas de Engenheiro"
+    "name_pt": "Caixa de Ferramentas de Engenheiro",
+    "name_es": "Caja de herramientas del ingeniero"
   },
   {
     "id": "cryptic_map",
@@ -1240,38 +1410,44 @@
         "name": "Glowing Ink",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_glowingInk.png?976c14",
-        "name_pt": "Tinta Brilhante"
+        "name_pt": "Tinta Brilhante",
+        "name_es": "tinta brillante"
       },
       {
         "id": "addon_map_gnarled_compass",
         "name": "Gnarled Compass",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gnarledCompass.png?b2ac98",
-        "name_pt": "Bússola Retorcida"
+        "name_pt": "Bússola Retorcida",
+        "name_es": "Brújula nudosa"
       },
       {
         "id": "addon_map_battered_tape",
         "name": "Battered Tape",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_batteredTape.png?635d3f",
-        "name_pt": "Fita Gasta"
+        "name_pt": "Fita Gasta",
+        "name_es": "Cinta maltratada"
       },
       {
         "id": "addon_map_sharpened_flint",
         "name": "Sharpened Flint",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_sharpenedFlint.png?25de8f",
-        "name_pt": "Pederneira Afiada"
+        "name_pt": "Pederneira Afiada",
+        "name_es": "Pedernal afilado"
       },
       {
         "id": "addon_map_crimson_stamp",
         "name": "Crimson Stamp",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_crimsonStamp.png?4a05ab",
-        "name_pt": "Selo Carmesim"
+        "name_pt": "Selo Carmesim",
+        "name_es": "Sello carmesí"
       }
     ],
-    "name_pt": "Mapa Críptico"
+    "name_pt": "Mapa Críptico",
+    "name_es": "Mapa crítico"
   },
   {
     "id": "scribbled_map",
@@ -1285,38 +1461,44 @@
         "name": "Glowing Ink",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_glowingInk.png?976c14",
-        "name_pt": "Tinta Brilhante"
+        "name_pt": "Tinta Brilhante",
+        "name_es": "tinta brillante"
       },
       {
         "id": "addon_map_gnarled_compass",
         "name": "Gnarled Compass",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gnarledCompass.png?b2ac98",
-        "name_pt": "Bússola Retorcida"
+        "name_pt": "Bússola Retorcida",
+        "name_es": "Brújula nudosa"
       },
       {
         "id": "addon_map_battered_tape",
         "name": "Battered Tape",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_batteredTape.png?635d3f",
-        "name_pt": "Fita Gasta"
+        "name_pt": "Fita Gasta",
+        "name_es": "Cinta maltratada"
       },
       {
         "id": "addon_map_sharpened_flint",
         "name": "Sharpened Flint",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_sharpenedFlint.png?25de8f",
-        "name_pt": "Pederneira Afiada"
+        "name_pt": "Pederneira Afiada",
+        "name_es": "Pedernal afilado"
       },
       {
         "id": "addon_map_crimson_stamp",
         "name": "Crimson Stamp",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_crimsonStamp.png?4a05ab",
-        "name_pt": "Selo Carmesim"
+        "name_pt": "Selo Carmesim",
+        "name_es": "Sello carmesí"
       }
     ],
-    "name_pt": "Mapa Rabiscado"
+    "name_pt": "Mapa Rabiscado",
+    "name_es": "Mapa garabateado"
   },
   {
     "id": "annoted_map",
@@ -1330,38 +1512,44 @@
         "name": "Glowing Ink",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_glowingInk.png?976c14",
-        "name_pt": "Tinta Brilhante"
+        "name_pt": "Tinta Brilhante",
+        "name_es": "tinta brillante"
       },
       {
         "id": "addon_map_gnarled_compass",
         "name": "Gnarled Compass",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_gnarledCompass.png?b2ac98",
-        "name_pt": "Bússola Retorcida"
+        "name_pt": "Bússola Retorcida",
+        "name_es": "Brújula nudosa"
       },
       {
         "id": "addon_map_battered_tape",
         "name": "Battered Tape",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_batteredTape.png?635d3f",
-        "name_pt": "Fita Gasta"
+        "name_pt": "Fita Gasta",
+        "name_es": "Cinta maltratada"
       },
       {
         "id": "addon_map_sharpened_flint",
         "name": "Sharpened Flint",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_sharpenedFlint.png?25de8f",
-        "name_pt": "Pederneira Afiada"
+        "name_pt": "Pederneira Afiada",
+        "name_es": "Pedernal afilado"
       },
       {
         "id": "addon_map_crimson_stamp",
         "name": "Crimson Stamp",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_crimsonStamp.png?4a05ab",
-        "name_pt": "Selo Carmesim"
+        "name_pt": "Selo Carmesim",
+        "name_es": "Sello carmesí"
       }
     ],
-    "name_pt": "Mapa Anotado"
+    "name_pt": "Mapa Anotado",
+    "name_es": "Mapa comentado"
   },
   {
     "id": "broken_key",
@@ -1375,38 +1563,44 @@
         "name": "Friendship Charm",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_friendshipCharm.png?691b29",
-        "name_pt": "Amuleto da Amizade"
+        "name_pt": "Amuleto da Amizade",
+        "name_es": "Encanto de la amistad"
       },
       {
         "id": "addon_shrill_whistle",
         "name": "Shrill Whistle",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_shrillWhistle.png?101507",
-        "name_pt": "Apito Estridente"
+        "name_pt": "Apito Estridente",
+        "name_es": "Silbato estridente"
       },
       {
         "id": "addon_braided_bauble",
         "name": "Braided Bauble",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_braidedBauble.png?332519",
-        "name_pt": "Enfeite Trançado"
+        "name_pt": "Enfeite Trançado",
+        "name_es": "Adorno trenzado"
       },
       {
         "id": "addon_unique_wedding_ring",
         "name": "Unique Wedding Ring",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_uniqueWeddingRing.png?d0e1de",
-        "name_pt": "Aliança Exclusiva"
+        "name_pt": "Aliança Exclusiva",
+        "name_es": "Anillo de boda único"
       },
       {
         "id": "addon_blood_amber",
         "name": "Blood Amber",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_bloodAmber.png?a1d50c",
-        "name_pt": "Âmbar de Sangue"
+        "name_pt": "Âmbar de Sangue",
+        "name_es": "Ámbar de sangre"
       }
     ],
-    "name_pt": "Chave Quebrada"
+    "name_pt": "Chave Quebrada",
+    "name_es": "llave rota"
   },
   {
     "id": "dull_key",
@@ -1420,38 +1614,44 @@
         "name": "Friendship Charm",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_friendshipCharm.png?691b29",
-        "name_pt": "Amuleto da Amizade"
+        "name_pt": "Amuleto da Amizade",
+        "name_es": "Encanto de la amistad"
       },
       {
         "id": "addon_shrill_whistle",
         "name": "Shrill Whistle",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_shrillWhistle.png?101507",
-        "name_pt": "Apito Estridente"
+        "name_pt": "Apito Estridente",
+        "name_es": "Silbato estridente"
       },
       {
         "id": "addon_braided_bauble",
         "name": "Braided Bauble",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_braidedBauble.png?332519",
-        "name_pt": "Enfeite Trançado"
+        "name_pt": "Enfeite Trançado",
+        "name_es": "Adorno trenzado"
       },
       {
         "id": "addon_unique_wedding_ring",
         "name": "Unique Wedding Ring",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_uniqueWeddingRing.png?d0e1de",
-        "name_pt": "Aliança Exclusiva"
+        "name_pt": "Aliança Exclusiva",
+        "name_es": "Anillo de boda único"
       },
       {
         "id": "addon_blood_amber",
         "name": "Blood Amber",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_bloodAmber.png?a1d50c",
-        "name_pt": "Âmbar de Sangue"
+        "name_pt": "Âmbar de Sangue",
+        "name_es": "Ámbar de sangre"
       }
     ],
-    "name_pt": "Chave Fosca"
+    "name_pt": "Chave Fosca",
+    "name_es": "llave aburrida"
   },
   {
     "id": "skeleton_key",
@@ -1465,38 +1665,44 @@
         "name": "Friendship Charm",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_friendshipCharm.png?691b29",
-        "name_pt": "Amuleto da Amizade"
+        "name_pt": "Amuleto da Amizade",
+        "name_es": "Encanto de la amistad"
       },
       {
         "id": "addon_shrill_whistle",
         "name": "Shrill Whistle",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_shrillWhistle.png?101507",
-        "name_pt": "Apito Estridente"
+        "name_pt": "Apito Estridente",
+        "name_es": "Silbato estridente"
       },
       {
         "id": "addon_braided_bauble",
         "name": "Braided Bauble",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_braidedBauble.png?332519",
-        "name_pt": "Enfeite Trançado"
+        "name_pt": "Enfeite Trançado",
+        "name_es": "Adorno trenzado"
       },
       {
         "id": "addon_unique_wedding_ring",
         "name": "Unique Wedding Ring",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_uniqueWeddingRing.png?d0e1de",
-        "name_pt": "Aliança Exclusiva"
+        "name_pt": "Aliança Exclusiva",
+        "name_es": "Anillo de boda único"
       },
       {
         "id": "addon_blood_amber",
         "name": "Blood Amber",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_bloodAmber.png?a1d50c",
-        "name_pt": "Âmbar de Sangue"
+        "name_pt": "Âmbar de Sangue",
+        "name_es": "Ámbar de sangre"
       }
     ],
-    "name_pt": "Chave Mestra"
+    "name_pt": "Chave Mestra",
+    "name_es": "Llave maestra"
   },
   {
     "id": "apprentices_fog_vial",
@@ -1510,38 +1716,44 @@
         "name": "Volcanic Stone",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_volcanicStone.png?2668a4",
-        "name_pt": "Pedra Vulcânica"
+        "name_pt": "Pedra Vulcânica",
+        "name_es": "Piedra Volcánica"
       },
       {
         "id": "addon_reactive_compound",
         "name": "Reactive Compound",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_reactiveCompound.png?6da483",
-        "name_pt": "Composto Reativo"
+        "name_pt": "Composto Reativo",
+        "name_es": "Compuesto reactivo"
       },
       {
         "id": "addon_charred_key",
         "name": "Oily Sap",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_oilySap.png?26f3d7",
-        "name_pt": "Seiva Oleosa"
+        "name_pt": "Seiva Oleosa",
+        "name_es": "savia aceitosa"
       },
       {
         "id": "addon_mushroom_formula",
         "name": "Mushroom Formula",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_mushroomFormula.png?8eaef3",
-        "name_pt": "Fórmula de Cogumelo"
+        "name_pt": "Fórmula de Cogumelo",
+        "name_es": "Fórmula de hongos"
       },
       {
         "id": "addon_potent_extract",
         "name": "Potent Extract",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_potentExtract.png?7fdc2f",
-        "name_pt": "Extrato Potente"
+        "name_pt": "Extrato Potente",
+        "name_es": "Extracto potente"
       }
     ],
-    "name_pt": "Frasco de Névoa de Aprendiz"
+    "name_pt": "Frasco de Névoa de Aprendiz",
+    "name_es": "Vial de niebla del aprendiz"
   },
   {
     "id": "artisans_fog_vial",
@@ -1555,38 +1767,44 @@
         "name": "Volcanic Stone",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_volcanicStone.png?2668a4",
-        "name_pt": "Pedra Vulcânica"
+        "name_pt": "Pedra Vulcânica",
+        "name_es": "Piedra Volcánica"
       },
       {
         "id": "addon_reactive_compound",
         "name": "Reactive Compound",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_reactiveCompound.png?6da483",
-        "name_pt": "Composto Reativo"
+        "name_pt": "Composto Reativo",
+        "name_es": "Compuesto reactivo"
       },
       {
         "id": "addon_charred_key",
         "name": "Oily Sap",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_oilySap.png?26f3d7",
-        "name_pt": "Seiva Oleosa"
+        "name_pt": "Seiva Oleosa",
+        "name_es": "savia aceitosa"
       },
       {
         "id": "addon_mushroom_formula",
         "name": "Mushroom Formula",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_mushroomFormula.png?8eaef3",
-        "name_pt": "Fórmula de Cogumelo"
+        "name_pt": "Fórmula de Cogumelo",
+        "name_es": "Fórmula de hongos"
       },
       {
         "id": "addon_potent_extract",
         "name": "Potent Extract",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_potentExtract.png?7fdc2f",
-        "name_pt": "Extrato Potente"
+        "name_pt": "Extrato Potente",
+        "name_es": "Extracto potente"
       }
     ],
-    "name_pt": "Frasco de Névoa de Artesão"
+    "name_pt": "Frasco de Névoa de Artesão",
+    "name_es": "Vial de niebla del artesano"
   },
   {
     "id": "vigos_fog_vial",
@@ -1600,37 +1818,43 @@
         "name": "Volcanic Stone",
         "rarity": "common",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_volcanicStone.png?2668a4",
-        "name_pt": "Pedra Vulcânica"
+        "name_pt": "Pedra Vulcânica",
+        "name_es": "Piedra Volcánica"
       },
       {
         "id": "addon_reactive_compound",
         "name": "Reactive Compound",
         "rarity": "uncommon",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_reactiveCompound.png?6da483",
-        "name_pt": "Composto Reativo"
+        "name_pt": "Composto Reativo",
+        "name_es": "Compuesto reactivo"
       },
       {
         "id": "addon_charred_key",
         "name": "Oily Sap",
         "rarity": "rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_oilySap.png?26f3d7",
-        "name_pt": "Seiva Oleosa"
+        "name_pt": "Seiva Oleosa",
+        "name_es": "savia aceitosa"
       },
       {
         "id": "addon_mushroom_formula",
         "name": "Mushroom Formula",
         "rarity": "very_rare",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_mushroomFormula.png?8eaef3",
-        "name_pt": "Fórmula de Cogumelo"
+        "name_pt": "Fórmula de Cogumelo",
+        "name_es": "Fórmula de hongos"
       },
       {
         "id": "addon_potent_extract",
         "name": "Potent Extract",
         "rarity": "iridescent",
         "image": "https://deadbydaylight.wiki.gg/images/IconAddon_potentExtract.png?7fdc2f",
-        "name_pt": "Extrato Potente"
+        "name_pt": "Extrato Potente",
+        "name_es": "Extracto potente"
       }
     ],
-    "name_pt": "Frasco de Névoa de Vigo"
+    "name_pt": "Frasco de Névoa de Vigo",
+    "name_es": "Vial de niebla de Vigo"
   }
 ]
